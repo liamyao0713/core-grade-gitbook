@@ -6,7 +6,7 @@ Core GRADE applies to the design, conduct, and analysis of systematic reviews as
 
 ## 2.2 The Core GRADE Process, Systematic Reviews and Evidence to Recommendations
 
-<img src=".gitbook/assets/Fig1.jpg" alt="Fig 2-1: Schematic overview of Core GRADE (Grading of Recommendations Assessment,Development and Evaluation) approach" width="100%" />
+<img src=".gitbook/assets/Fig1.jpg" alt="" width="100%">
 
 Fig 2-1: Schematic overview of Core GRADE (Grading of Recommendations Assessment,Development and Evaluation) approach
 
