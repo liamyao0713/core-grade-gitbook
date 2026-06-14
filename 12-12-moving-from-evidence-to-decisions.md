@@ -112,7 +112,8 @@ In the next step in making recommendations, the guideline steering group and pan
 
 Guideline panelists may have limited experience in constructing value and preference statements, and the panel steering group, guided by the participating methodologists, can present them with a suggestion. Box 1 provides examples of guideline value and preference statements from several organisations, including the World Health Organization (WHO) covid-19 guidelines and a BMJ Rapid recommendation. As presented in the first example, we have found it valuable to present options of opposite values and preferences from which the panel can choose—the choice will likely determine the direction of the [recommendation](https://doi.org/10.1136/bmj.m2980).
 
-**Box 1: Examples of guideline value and preference statements**
+{% hint style="info" %}
+### Box 1: Examples of guideline value and preference statements
 
 **Example 1: WHO guideline on clinical management of covid-19**
 
@@ -128,6 +129,7 @@ Guideline panelists may have limited experience in constructing value and prefer
   * In an alternative situation with larger benefits and less uncertainty regarding both benefits and harms, more patients would be inclined to choose the treatment."
 
 WHO=World Health Organization.
+{% endhint %}
 
 In the two examples, the values and preferences selected interacted with benefits and harms and the certainty of evidence to inform the panel’s decisions. In the first instance regarding awake prone positioning for ventilation in seriously ill patients with covid-19, the point estimate suggested a 1.2% reduction in mortality, but the CI included a 1.5% increase. The evidence for hospital length of stay was equally unconvincing. Results showed moderate certainty evidence supporting a 4.1% decrease in endotracheal intubation.
 
@@ -173,13 +175,15 @@ When presenting recommendations, GRADE users must ensure that their suggestions 
 
 GRADE users should present recommendations along with their strength and, optionally, with the associated certainty of the evidence. Box 2 provides examples of recommendation framing. Fig 4-26 and Fig 4-27 show alternative approaches of how recommendations can be phrased, including provision of succinct accompanying remarks when required.
 
-**Box 2: Examples of presenting recommendations**
+{% hint style="info" %}
+### Box 2: Examples of presenting recommendations
 
 **Example 1:** "In patients with uncontrolled atopic dermatitis refractory to moisturization alone, the \[Joint Task Force] panel recommends addition of a topical corticosteroid over no topical corticosteroid (strong recommendation, high certainty evidence)"
 
 **Example 2:** "For older adults with newly diagnosed \[acute myeloid leukemia] considered candidates for intensive antileukemic therapy, the \[American Society of Hematology] guideline panel suggests intensive antileukemic therapy over less intensive antileukemic therapy (conditional recommendation based on low certainty in the evidence of effects)"
 
 **Example 3:** "Recommendation 2: In patients with atopic dermatitis, the Joint Task Force panel suggests using a standard, bland (free of fragrance and other potential contact allergens) over-the-counter moisturizer over a prescription moisturizer medical device (eg, Atopiclair, Eletone, Epiceram, MimyX, Neosalus, Zenieva, and PruMyx) (conditional recommendation, low-certainty evidence)"
+{% endhint %}
 
 <img src=".gitbook/assets/Fig27.jpg" alt="Fig 4-26: Recommendation with remarks and decision aid" width="100%" />
 

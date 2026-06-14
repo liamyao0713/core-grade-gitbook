@@ -31,6 +31,7 @@ Assessing the certainty of evidence involves choices and judgment. Those making 
 
 For instance, they may have chosen different thresholds for the minimal important difference (MID), the smallest magnitude of effect that patients consider important. Understanding these reasons may allow, in different contexts, adaptation of existing summary of findings tables to different choices or judgments. Explanations should be concise, informative, relevant, easy to understand, and accurate. (Writing footnotes to explain certainty of evidence [judgments](assets/appendix/20.Summary%20of%20Findings-%20Writing%20footnotes%20to%20explain%20judgments%20of%20certainty%20of%20evidence.pdf)) A previous GRADE paper provided guidance for wording plain language summaries communicating the effects while conveying the assigned level of certainty of the evidence, thus facilitating understanding of evidence [summaries](https://doi.org/10.1016/j.jclinepi.2019.10.014). Box 1 summarises this guidance as well as additional guidance related to the null and MID thresholds that are the focus of Core GRADE.
 
+{% hint style="info" %}
 ### Box 1: Writing standardised GRADE plain language summaries in summary of findings tables
 
 Standardised plain language summaries should convey, for each outcome, information about the certainty of the evidence and the effect of the intervention. The following qualifiers then inform the direction of the effect:
@@ -55,6 +56,7 @@ When focusing on the minimal important difference, plain language summaries shou
 * **Very low certainty:** the effect of knee arthroscopy on function is very uncertain
 
 GRADE=Grading of Recommendations Assessment, Development and Evaluation.
+{% endhint %}
 
 ## 11.2 Presenting dichotomous outcomes: Relative measures of effect
 

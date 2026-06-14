@@ -18,6 +18,7 @@ Issues of risk of bias, and thus safeguards against bias, differ between randomi
 
 Box 1 summarises the risk of bias items that randomised controlled trial risk of bias instruments appropriately identify and that GRADE users may want to consider.
 
+{% hint style="info" %}
 ### Box 1: Risk of bias in randomised trials
 
 **Most commonly included and important items across various randomised controlled trial risk of bias tools**
@@ -39,6 +40,7 @@ Box 1 summarises the risk of bias items that randomised controlled trial risk of
 * Deviation from intention-to-treat analysis
 * Selective outcome reporting
 * Early termination for benefit
+{% endhint %}
 
 Although review authors can choose from one of many instruments that address risk of bias in parallel group randomised controlled [trials](https://pubmed.ncbi.nlm.nih.gov/36424692/), two rigorously developed instruments that address limitations of their predecessors merit particular attention. One, Cochrane's tool for assessing risk of bias in randomised trials, RoB 2, is methodologically sophisticated but has limitations of complexity and difficulty in application. Its sophisticated algorithms and the new terminologies it introduced may contribute to these limitations. Studies have reported low interrater reliability of RoB 2 and challenges in implementation. RoB 2 nevertheless includes features that may appeal to those who want to go beyond Core GRADE.
 
@@ -58,6 +60,7 @@ Some GRADE users with previous positive experience using one of the other availa
 
 When, for a particular outcome, randomised trials do not exist or yield only low or very low certainty evidence, GRADE users consider using NRSI for assessing the effects interventions.
 
+{% hint style="info" %}
 ### Box 2: Risk of bias in non-randomised studies of interventions
 
 * Different eligibility criteria or selection of participants between comparison groups such that prognostic factors for outcomes of interest are differentially distributed in intervention and control groups
@@ -68,6 +71,7 @@ When, for a particular outcome, randomised trials do not exist or yield only low
   * Inadequate adjustment for confounding
 * Missing outcome data
 * Selective outcome reporting
+{% endhint %}
 
 NRSI include many study designs, of which the most common are cohort and case-control. Cohort studies compare individuals who have received a treatment with those who have not and follow them for the development of the outcomes of interest. Case-control studies identify individuals who have and have not experienced an outcome and then ascertain whether or not they have received the intervention of interest. Box 2 presents key risk of bias issues in NRSI.
 
