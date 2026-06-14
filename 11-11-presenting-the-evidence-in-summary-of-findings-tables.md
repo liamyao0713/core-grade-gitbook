@@ -97,7 +97,7 @@ Here, using an MID in mortality of 10 in 1000, the entire CI for the low risk gr
 
 ## 11.5 Directly calculating risk differences
 
-Calculating risk differences by applying relative effects to baseline risks may, in some scenarios, result in misleading point estimates of effect and even more misleading and asymmetrical CIs. Such results often occur when the outcome is rare (event rates <2% and most problematic <1%). Faced with this problem, rather than conducting meta-analysis of relative effects, review authors should generally conduct meta-analyses of risk differences. (Calculating and presenting absolute measures of effect: Directly calculating risk [differences](assets/appendix/18.Summary%20of%20Fiindings-%20Calculating%20and%20presenting%20absolute%20measures%20of%20effect%20-%20Directly%20calculating%20risk%20differences\[1].pdf))
+Calculating risk differences by applying relative effects to baseline risks may, in some scenarios, result in misleading point estimates of effect and even more misleading and asymmetrical CIs. Such results often occur when the outcome is rare (event rates <2% and most problematic <1%). Faced with this problem, rather than conducting meta-analysis of relative effects, review authors should generally conduct meta-analyses of risk differences. (Calculating and presenting absolute measures of effect: Directly calculating risk [differences](<assets/appendix/18.Summary of Fiindings- Calculating and presenting absolute measures of effect - Directly calculating risk differences[1].pdf>))
 
 ## 11.6 Presenting continuous outcomes: When studies use the same measure
 

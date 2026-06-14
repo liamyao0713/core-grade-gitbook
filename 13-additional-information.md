@@ -1,45 +1,71 @@
 # Additional information
 
-[A Glossary of GRADE terms](assets/appendix/1.Glossary%20of%20GRADE%20terms.pdf)
+These appendices provide supporting examples and extensions for Core GRADE. Use **Open PDF** for browser reading, and **Download DOCX** when you need the editable Word version.
 
-[Framing the question: another example](assets/appendix/2.Hyperlink%20to%20Framing%20the%20questin%20another%20example.%20I%20suggest%20putting%20it%20in%20a%20box%20and%20that%20is%20the%20reference%20to%20the%20box%20at%20the%20beginning%20of%20the%20sentence.%20Can%20change%20if%20you%20wish..pdf)
+## Appendices
 
-[Considering the possibility of different effects](assets/appendix/3.Hyperlink%20to%20Considering%20the%20possibility%20of%20different%20effects.pdf)
+1. **Glossary of GRADE terms**  
+   [Open PDF](<assets/appendix/1.Glossary of GRADE terms.pdf>) | [Download DOCX](<assets/appendix/1.Overview of Core GRADE- Glossary of GRADE terms.docx>)
 
-[Imprecision rating for ranges of effects](assets/appendix/4.Beyond%20Core%20GRADE-%20First%20step%20in%20assessing%20certainty-%20Imprecision%20rating%20for%20ranges%20of%20effect%20.pdf)
+2. **Framing the question: another example**  
+   [Open PDF](<assets/appendix/2.Hyperlink to Framing the questin another example. I suggest putting it in a box and that is the reference to the box at the beginning of the sentence. Can change if you wish..pdf>) | [Download DOCX](<assets/appendix/2.Framing the question- Another example.docx>)
 
-[Calculating absolute effect based on baseline risk and relative effect](assets/appendix/5.First%20step%20in%20assessing%20certainty-%20Calculating%20absolute%20effect%20based%20on%20baseline%20risk%20and%20relative%20effect.pdf)
+3. **Considering the possibility of different effects**  
+   [Open PDF](<assets/appendix/3.Hyperlink to Considering the possibility of different effects.pdf>) | [Download DOCX](<assets/appendix/3.Considering the possibility of different effects-  Prognostic factors versus relative risk modification, etc..docx>)
 
-[Choosing between random effects and fixed effect models](assets/appendix/6.First%20step%20in%20certainty%20assessment-%20Choosing%20between%20random%20effects%20and%20fixed%20effect%20models.pdf)
+4. **Imprecision rating for ranges of effects**  
+   [Open PDF](<assets/appendix/4.Beyond Core GRADE- First step in assessing certainty- Imprecision rating for ranges of effect .pdf>) | [Download DOCX](<assets/appendix/4.Beyond Core GRADE- First step in assessing certainty- Imprecision rating for ranges of effect .docx>)
 
-[Rating down (or not) for imprecision: Challenges and possible solution when one targets the null and the point estimate turns out to be very close to the null](assets/appendix/7.Rating%20down%20\(or%20not\)%20for%20imprecision.%20Challenges%20and%20possible%20solution%20when%20one%20targets%20the%20null%20and%20the%20point%20estimate%20turns%20out%20to%20be%20very%20close%20to%20the%20null.pdf)
+5. **Calculating absolute effect based on baseline risk and relative effect**  
+   [Open PDF](<assets/appendix/5.First step in assessing certainty- Calculating absolute effect based on baseline risk and relative effect.pdf>) | [Download DOCX](<assets/appendix/5.First step in assessing certainty- Calculating absolute effect based on baseline risk and relative effect.docx>)
 
-[Rating down for imprecision when effects are large: Assessing imprecision in the context of a large effect](assets/appendix/8.Rating%20down%20for%20imprecision%20when%20effects%20are%20large-%20Assessing%20imprecision%20in%20the%20context%20of%20a%20large%20effect%20.pdf)
+6. **Choosing between random effects and fixed effect models**  
+   [Open PDF](<assets/appendix/6.First step in certainty assessment- Choosing between random effects and fixed effect models.pdf>) | [Download DOCX](<assets/appendix/6.First step in certainty assessment- Choosing between random effects and fixed effect models.docx>)
 
-[Three visual criteria: Generating an MID relative risk threshold](assets/appendix/9.Three%20visual%20criteria.%20Generating%20an%20MID%20relative%20risk%20threshold.pdf)
+7. **Rating down, or not, for imprecision when targeting the null**  
+   [Open PDF](<assets/appendix/7.Rating down (or not) for imprecision. Challenges and possible solution when one targets the null and the point estimate turns out to be very close to the null.pdf>) | [Download DOCX](<assets/appendix/7.Rating down (or not) for imprecision. Challenges and possible solution when one targets the null and the point estimate turns out to be very close to the null.docx>)
 
-[Criteria for judging the credibility of subgroup effects: Using ICEMAN to assess McAlister](assets/appendix/10.Criteria%20for%20judging%20the%20credibility%20of%20subgroup%20effects-%20Using%20ICEMAN%20to%20assess%20McAlister%20.pdf)
+8. **Rating down for imprecision when effects are large**  
+   [Open PDF](<assets/appendix/8.Rating down for imprecision when effects are large- Assessing imprecision in the context of a large effect .pdf>) | [Download DOCX](<assets/appendix/8.Rating down for imprecision when effects are large- Assessing imprecision in the context of a large effect .docx>)
 
-[Beyond Core GRADE: Rating risk of bias across bodies of evidence](assets/appendix/11.Beyond%20Core%20GRADE.%20Rating%20risk%20of%20bias%20across%20bodies%20of%20evidence-%20When%20evidence%20dominated%20by%20high%20risk%20of%20bias%20studies,%20Considering%20direction%20of%20bias.pdf)
+9. **Generating an MID relative risk threshold**  
+   [Open PDF](<assets/appendix/9.Three visual criteria. Generating an MID relative risk threshold.pdf>) | [Download DOCX](<assets/appendix/9.Three visual criteria. Generating an MID relative risk threshold.docx>)
 
-[Panel survey approach for eliciting guideline panelists' views on the minimally important difference for patients](assets/appendix/12.Evidence%20to%20Decospm-%20An%20example%20of%20an%20innovative%20panel%20survey%20approach%20for%20eliciting%20guideline%20panelists%E2%80%99%20views%20on%20the%20minimally%20important%20difference%20for%20patients.pdf)
+10. **Using ICEMAN to judge the credibility of subgroup effects**  
+    [Open PDF](<assets/appendix/10.Criteria for judging the credibility of subgroup effects- Using ICEMAN to assess McAlister .pdf>) | [Download DOCX](<assets/appendix/10.Criteria for judging the credibility of subgroup effects- Using ICEMAN to assess McAlister .docx>)
 
-[Evidence to decision: Experience with the panel survey approach to establishing MIDs](assets/appendix/13.Evidence%20to%20decision-%20Experience%20with%20the%20panel%20survey%20approach%20to%20establishing%20MIDs.pdf)
+11. **Rating risk of bias across bodies of evidence**  
+    [Open PDF](<assets/appendix/11.Beyond Core GRADE. Rating risk of bias across bodies of evidence- When evidence dominated by high risk of bias studies, Considering direction of bias.pdf>) | [Download DOCX](<assets/appendix/11.Beyond Core GRADE. Rating risk of bias across bodies of evidence- When evidence dominated by high risk of bias studies, Considering direction of bias.docx>)
 
-[Examples of appropriate strong recommendations based on low certainty evidence](assets/appendix/14.Evudebce%20ti%20decision-%20Examples%20of%20appropriate%20strong%20recommendations%20based%20on%20low%20certainty%20evidence\[1].pdf)
+12. **Panel survey approach for eliciting views on the minimally important difference**  
+    [Open PDF](<assets/appendix/12.Evidence to Decospm- An example of an innovative panel survey approach for eliciting guideline panelists’ views on the minimally important difference for patients.pdf>) | [Download DOCX](<assets/appendix/12.Evidence to Decospm- An example of an innovative panel survey approach for eliciting guideline panelists’ views on the minimally important difference for patients.docx>)
 
-[Example of a structured evidence to decision framework](assets/appendix/15.Evidence%20to%20Decision-%20Example%20of%20a%20Structured%20Evidence-to-Decision%20framework.pdf)
+13. **Experience with the panel survey approach to establishing MIDs**  
+    [Open PDF](<assets/appendix/13.Evidence to decision- Experience with the panel survey approach to establishing MIDs.pdf>) | [Download DOCX](<assets/appendix/13.Evidence to decision- Experience with the panel survey approach to establishing MIDs.docx>)
 
-[Alternative approach to rating up certainty of evidence from non-randomized studies of interventions](assets/appendix/16.Rating%20up%20Alternative%20approach%20to%20rating%20up%20certainty%20of%20evidence%20from%20non-randomized%20studies%20of%20interventions.pdf)
+14. **Appropriate strong recommendations based on low certainty evidence**  
+    [Open PDF](<assets/appendix/14.Evudebce ti decision- Examples of appropriate strong recommendations based on low certainty evidence[1].pdf>) | [Download DOCX](<assets/appendix/14.Evudebce ti decision- Examples of appropriate strong recommendations based on low certainty evidence[1].docx>)
 
-[Including practical issues in SoFs](assets/appendix/17.summary%20of%20Findings-%20Practical%20issues%20presentations%20including%20in%20SoF.pdf)
+15. **Example of a structured evidence-to-decision framework**  
+    [Open PDF](<assets/appendix/15.Evidence to Decision- Example of a Structured Evidence-to-Decision framework.pdf>) | [Download DOCX](<assets/appendix/15.Evidence to Decision- Example of a Structured Evidence-to-Decision framework.docx>)
 
-[Calculating and presenting absolute measures of effect: Directly calculating risk differences](assets/appendix/18.Summary%20of%20Fiindings-%20Calculating%20and%20presenting%20absolute%20measures%20of%20effect%20-%20Directly%20calculating%20risk%20differences\[1].pdf)
+16. **Alternative approach to rating up certainty of evidence from non-randomized studies**  
+    [Open PDF](<assets/appendix/16.Rating up Alternative approach to rating up certainty of evidence from non-randomized studies of interventions.pdf>) | [Download DOCX](<assets/appendix/16.Rating up Alternative approach to rating up certainty of evidence from non-randomized studies of interventions.docx>)
 
-[Calculating absolute effects based on baseline risk and relative effects](assets/appendix/19.Summary%20of%20FindingsL%20Calculating%20absolute%20effect%20based%20on%20baseline%20risk%20and%20relative%20effect.pdf)
+17. **Including practical issues in Summary of Findings tables**  
+    [Open PDF](<assets/appendix/17.summary of Findings- Practical issues presentations including in SoF.pdf>) | [Download DOCX](<assets/appendix/17.summary of Findings- Practical issues presentations including in SoF.docx>)
 
-[Writing footnotes to explain certainty of evidence judgments](assets/appendix/20.Summary%20of%20Findings-%20Writing%20footnotes%20to%20explain%20judgments%20of%20certainty%20of%20evidence.pdf)
+18. **Directly calculating risk differences**  
+    [Open PDF](<assets/appendix/18.Summary of Fiindings- Calculating and presenting absolute measures of effect - Directly calculating risk differences[1].pdf>) | [Download DOCX](<assets/appendix/18.Summary of Fiindings- Calculating and presenting absolute measures of effect - Directly calculating risk differences[1].docx>)
 
-[Alternative format for summarizing the evidence: Evidence profiles](assets/appendix/21.Summary%20of%20Fiinding%20Alternative%20format%20for%20summarizing%20the%20evidence-%20Evidence%20Profiles.pdf)
+19. **Calculating absolute effects based on baseline risk and relative effects**  
+    [Open PDF](<assets/appendix/19.Summary of FindingsL Calculating absolute effect based on baseline risk and relative effect.pdf>) | [Download DOCX](<assets/appendix/19.Summary of FindingsL Calculating absolute effect based on baseline risk and relative effect.docx>)
 
-[Beyond Core GRADE: Alternative approach to addressing missing outcome data](assets/appendix/22.Beyond%20Core%20GRADE.%20Risk%20of%20bias%20in%20individual%20studies-%20Randomised%20trials-%20Alternative%20approach%20to%20addressing%20missing%20outcome%20data%20.pdf)
+20. **Writing footnotes to explain certainty of evidence judgments**  
+    [Open PDF](<assets/appendix/20.Summary of Findings- Writing footnotes to explain judgments of certainty of evidence.pdf>) | [Download DOCX](<assets/appendix/20.Summary of Findings- Writing footnotes to explain judgments of certainty of evidence.docx>)
+
+21. **Alternative format for summarizing the evidence: evidence profiles**  
+    [Open PDF](<assets/appendix/21.Summary of Fiinding Alternative format for summarizing the evidence- Evidence Profiles.pdf>) | [Download DOCX](<assets/appendix/21.Summary of Fiinding Alternative format for summarizing the evidence- Evidence Profiles.docx>)
+
+22. **Alternative approach to addressing missing outcome data**  
+    [Open PDF](<assets/appendix/22.Beyond Core GRADE. Risk of bias in individual studies- Randomised trials- Alternative approach to addressing missing outcome data .pdf>) | [Download DOCX](<assets/appendix/22.Beyond Core GRADE. Risk of bias in individual studies- Randomised trials- Alternative approach to addressing missing outcome data .docx>)
