@@ -187,7 +187,7 @@ Examples of potential inaccuracies include automatically rating up for large eff
 
 Additional paid features allow for digital publication of alternative formats, including interactive formats, multilayered presentations of information, one page presentations, infographics, and mobile apps, as well as dynamic updates of the evidence—for example, within the context of living systematic reviews and guidelines. Fig 4-23 shows an example of a multilayered table, here presented with an interactive infographic directly linking outcomes to decision aids that support shared decision making.
 
-<img src=".gitbook/assets/Fig24.jpg" alt="Fig 4-23: Example of table presenting the impact of nirmatrelvir and ritonavir on outcomes" width="100%"> Fig 4-23: Example of table presenting the impact of nirmatrelvir and ritonavir on outcomes in patients with non-severe covid-19, with links to tools for shared decision making
+![Fig 4-23: Example of table presenting the impact of nirmatrelvir and ritonavir on outcomes](.gitbook/assets/Fig24.jpg) Fig 4-23: Example of table presenting the impact of nirmatrelvir and ritonavir on outcomes in patients with non-severe covid-19, with links to tools for shared decision making
 
 ## 11.14 Conclusion
 
