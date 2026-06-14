@@ -20,7 +20,9 @@ Recommendations made by guideline panels using GRADE are characterised by their 
 
 Sometimes, although potentially unhelpful to the clinician audience and therefore seldom appropriate, Core GRADE users may find the desirable and undesirable consequences of two alternative interventions so closely balanced that they recommend use of either. A final additional rarely used category is a recommendation for limiting an intervention only to the context of research—an issue we return to in the section "Only in research setting recommendations."
 
-![Fig 4-24: The four categories of GRADE recommendations](.gitbook/assets/Fig25.jpg) Fig 4-24: The four categories of GRADE recommendations and what they signify in terms of the distributions of preferences in fully informed individuals in target population.
+<img src=".gitbook/assets/Fig25.jpg" alt="Fig 4-24: The four categories of GRADE recommendations" width="100%" />
+
+Fig 4-24: The four categories of GRADE recommendations and what they signify in terms of the distributions of preferences in fully informed individuals in target population.
 
 Guideline panels make strong recommendations when they are confident that the desirable consequences of an intervention (eg, decreased mortality and morbidity, improved quality of life) outweigh the undesirable consequences (eg, adverse effects, burden of treatment). The reverse (undesirable outweigh desirable consequences) also dictates a strong recommendation, but against an intervention.
 
@@ -56,7 +58,11 @@ Ideally, a guideline panel will include a mix of topic or thematic and clinical 
 
 ## 12.4 The process of moving from evidence to recommendations
 
-Fig 4-25 represents the Core GRADE approach for moving from evidence to recommendations. ![Fig 4-25: Core GRADE process for moving from evidence to recommendations](.gitbook/assets/Fig26.jpg) Fig 4-25: Core GRADE process for moving from evidence to recommendations. MID=minimal important difference
+Fig 4-25 represents the Core GRADE approach for moving from evidence to recommendations.
+
+<img src=".gitbook/assets/Fig26.jpg" alt="Fig 4-25: Core GRADE process for moving from evidence to recommendations" width="100%" />
+
+Fig 4-25: Core GRADE process for moving from evidence to recommendations. MID=minimal important difference
 
 Some GRADE users find it beneficial to use an alternative approach in which they undertake a separate structured review of each evidence to decision factor before integrating it to arrive at their final decisions ([Example of a structured evidence to decision framework](assets/appendix/15.Evidence%20to%20Decision-%20Example%20of%20a%20Structured%20Evidence-to-Decision%20framework.pdf)). Because of its complexity and the large number of decisions involved in its completion, the structured approach represents an option for guideline panels that want to go beyond Core GRADE.
 
@@ -175,7 +181,13 @@ GRADE users should present recommendations along with their strength and, option
 
 **Example 3:** "Recommendation 2: In patients with atopic dermatitis, the Joint Task Force panel suggests using a standard, bland (free of fragrance and other potential contact allergens) over-the-counter moisturizer over a prescription moisturizer medical device (eg, Atopiclair, Eletone, Epiceram, MimyX, Neosalus, Zenieva, and PruMyx) (conditional recommendation, low-certainty evidence)"
 
-![Fig 4-26: Recommendation with remarks and decision aid](.gitbook/assets/Fig27.jpg) Fig 4-26: (Top panel) Recommendation with remarks and tabs so users can find all pertinent information, here shown first paragraph of a detailed justification for moving from evidence to a strong recommendation. (Bottom panel) Decision aid with outcomes and practical issues that matter to patients ![Fig 4-27: Strong recommendation for point of care INR testing](.gitbook/assets/Fig28.jpg) Fig 4-27: Strong recommendation for point of care INR testing, followed by justification, GRADE summary of findings table, and evidence to decision framework in deeper layers. INR=international normalised ratio
+<img src=".gitbook/assets/Fig27.jpg" alt="Fig 4-26: Recommendation with remarks and decision aid" width="100%" />
+
+Fig 4-26: (Top panel) Recommendation with remarks and tabs so users can find all pertinent information, here shown first paragraph of a detailed justification for moving from evidence to a strong recommendation. (Bottom panel) Decision aid with outcomes and practical issues that matter to patients
+
+<img src=".gitbook/assets/Fig28.jpg" alt="Fig 4-27: Strong recommendation for point of care INR testing" width="100%" />
+
+Fig 4-27: Strong recommendation for point of care INR testing, followed by justification, GRADE summary of findings table, and evidence to decision framework in deeper layers. INR=international normalised ratio
 
 In general, it is preferable to present recommen-dations in favour of a particular management approach (including the comparator in the initial framing of the population, intervention, comparison, and outcome) rather than against an approach (typically the intervention). Considering the management of atopic dermatitis (eczema), a joint task force of two allergy societies compared prescription moisturisers (initially the intervention) with comparator over-the-counter moisturisers and found their effects to be similar. The panelists believed that the burdens and acceptability of the prescription moisturisers warranted use of the over-the-counter preparation, but instead of recommending against the prescription, they stated, “In patients with atopic dermatitis, the Joint Task Force panel suggests using a standard, bland over-the-counter moisturizer over a prescription moisturizer medical device.”
 
@@ -185,7 +197,9 @@ Situations do, however, arise when an ineffective or harmful treatment is in wid
 
 GRADE aims to make it easier for clinicians and their patients to make well informed decisions in practice, using guidelines as tools for decision support. User testing of GRADE based guidelines underscores the need for optimised presentation and dissemination of guidelines, summary of findings tables, and decision aids, in multilayered formats. Fig 4-28 shows the living WHO guideline on drugs for covid-19. Available online as open access, it shows how interactive infographics can provide an overview of recommendations, with supporting GRADE summary of findings tables, practical considerations, and succinct narrative presentations of evidence to decision issues (refer to user testing infographics).
 
-![Fig 4-28: WHO guideline on drugs for covid-19](.gitbook/assets/Fig29.jpg) Fig 4-28: (Left panel) Guideline applying Core GRADE, showing infographic with strong and conditional recommendations for treatments (Right panel) Interactive summary of findings table and other key issues one click away.
+<img src=".gitbook/assets/Fig29.jpg" alt="Fig 4-28: WHO guideline on drugs for covid-19" width="100%" />
+
+Fig 4-28: (Left panel) Guideline applying Core GRADE, showing infographic with strong and conditional recommendations for treatments (Right panel) Interactive summary of findings table and other key issues one click away.
 
 Fig 4-26 and Fig 4-27 also show how users can access the full guideline with all relevant information (eg, justification, practical issues) in multilayered formats available online on all devices. For the WHO living guideline, this includes tools for shared decision making, created from GRADE summary of findings tables and adding practical issues (bottom panel in Fig 4-26). This guideline also illustrates an additional challenge of living evidence: dynamic updates of recommendations warrants communicating what is new.
 

@@ -6,7 +6,9 @@ Core GRADE applies to the design, conduct, and analysis of systematic reviews as
 
 ## 2.2 The Core GRADE Process, Systematic Reviews and Evidence to Recommendations
 
-![Fig 2-1: Schematic overview of Core GRADE (Grading of Recommendations Assessment,Development and Evaluation) approach](.gitbook/assets/Fig1.jpg) Fig 2-1: Schematic overview of Core GRADE (Grading of Recommendations Assessment,Development and Evaluation) approach
+<img src=".gitbook/assets/Fig1.jpg" alt="Fig 2-1: Schematic overview of Core GRADE (Grading of Recommendations Assessment,Development and Evaluation) approach" width="100%" />
+
+Fig 2-1: Schematic overview of Core GRADE (Grading of Recommendations Assessment,Development and Evaluation) approach
 
 Fig 2-1 depicts each of the key steps in using Core GRADE to create clinical practice guidelines or health technology assessment (HTA)reports: summarising the evidence, rating its certainty, and moving from evidence to recommendations. In Fig 2-1, the left panel addresses the systematic review process, including the definition of the review question formulated using the Patient/Intervention/Comparator/Outcome (PICO) format. The process includes specification of the relative importance of each of the outcomes, followed by the collation and summarization of the evidence, including ratings of certainty (quality) of the evidence for each outcome. The right panel depicts the decision-making process involved in the development of clinical practice guidelines and HTA reports. That process involves a guideline panel or decision-making group that considers key issues of magnitude of benefit, harms and burdens, certainty of evidence, and patient or public values and preferences. Decision makers might also consider resources, feasibility, acceptability, and equity in coming to recommendations either for or against an intervention and further specifying recommendations as strong or conditional (weak). When considering a population or public health perspective, they will almost always consider issues of resources, feasibility, acceptability, and equity.
 

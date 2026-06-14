@@ -6,7 +6,9 @@ After deciding on the target of certainty rating, GRADE users assess whether lim
 
 Studies of interventions seek to estimate the true underlying treatment effect. A meta-analysis provides our best estimate of the effect (the point estimate), and the CIs provide the bounds within which the true effect plausibly lies. The most commonly used CI is the 95% CI. The CI's width provides key information about the extent of imprecision, thus informing the impact of random error on certainty of evidence.
 
-![Fig 4-8: Core GRADE steps for rating imprecision](.gitbook/assets/Fig9.jpg) Fig 4-8: Core GRADE steps for rating imprecision. The relative risk CI ratio represents the upper boundary divided by lower boundary of CI of relative risk. CI=confidence interval; OIS=optimal information size
+<img src=".gitbook/assets/Fig9.jpg" alt="Fig 4-8: Core GRADE steps for rating imprecision" width="100%" />
+
+Fig 4-8: Core GRADE steps for rating imprecision. The relative risk CI ratio represents the upper boundary divided by lower boundary of CI of relative risk. CI=confidence interval; OIS=optimal information size
 
 We will now describe our approach to making the judgment of whether the CI is sufficiently wide that GRADE users should rate down for imprecision, and whether they should rate down by one or two levels. Fig 4-8 presents the steps GRADE users take in making judgments regarding rating down for imprecision.
 
@@ -14,17 +16,23 @@ We will now describe our approach to making the judgment of whether the CI is su
 
 When deciding whether to rate down certainty for imprecision, GRADE users will consider whether the CI crosses the chosen threshold. For instance, consider the pooled effect estimate from a hypothetical systematic review of randomised controlled trials illustrated in Fig 4-9. For (a) in Fig 4-9, whether GRADE users are rating certainty for a non-null effect (null being a risk difference of 0%) or an important effect (the MID threshold of 1%), the CI does not cross either threshold and they will not rate down their certainty for imprecision. Assuming they have no concerns about the other four GRADE domains, they will have high certainty of a non-null effect as well as an important effect. For (b) in Fig 4-9, decisions about rating down certainty will differ depending on the threshold. When using the null, as the CI does not cross the threshold, GRADE users will not rate down their certainty for imprecision. When using the MID, as the CI crosses the threshold, they will rate down for imprecision. For (c) in Fig 4-9, whether GRADE users are rating their certainty in relation to the null or the MID, the CI crosses the threshold and they will rate down for imprecision.
 
-![Fig 4-9: Target of certainty rating affects imprecision rating](.gitbook/assets/Fig10.jpg) Fig 4-9: Example of how the target of certainty rating using Core GRADE (above the MID or above the null) affects the rating of imprecision. (a) Core GRADE users will not rate down for imprecision in either case. (b) If the target of certainty rating is an important effect (above the MID), Core GRADE users will rate down for imprecision, but they will not if the target of certainty rating is an effect above the null. (c) GRADE users will rate down for imprecision in both cases.
+<img src=".gitbook/assets/Fig10.jpg" alt="Fig 4-9: Target of certainty rating affects imprecision rating" width="100%" />
+
+Fig 4-9: Example of how the target of certainty rating using Core GRADE (above the MID or above the null) affects the rating of imprecision. (a) Core GRADE users will not rate down for imprecision in either case. (b) If the target of certainty rating is an important effect (above the MID), Core GRADE users will rate down for imprecision, but they will not if the target of certainty rating is an effect above the null. (c) GRADE users will rate down for imprecision in both cases.
 
 Consider a systematic review of corticosteroids versus no corticosteroids for patients with community acquired pneumonia ([Fig 4-10](https://pubmed.ncbi.nlm.nih.gov/29236286/)). The meta-analysis of randomised controlled trials reported that corticosteroids yielded 29 fewer deaths per 1000 patients, with a CI from 52 fewer to 6 fewer. If review authors have chosen the null as their threshold, they will rate their certainty that a true mortality reduction exists and will not rate down for imprecision.
 
 If review authors have chosen the MID as their threshold and set the MID at a difference of 10 deaths per 1000 patients (MID1 in Fig 4-10), because the point estimate is greater than the threshold, they will rate down their certainty in an important mortality reduction. Had they chosen an MID of 5 deaths per 1000 patients (MID2 in Fig 4-10), they would not rate down for imprecision because the CI does not cross the MID threshold.
 
-![Fig 4-10: MID choice affects imprecision rating](.gitbook/assets/Fig11.jpg) Fig 4-10: An example of how rating down for imprecision in GRADE depends on the choice of MID in a systematic review of corticosteroids versus no corticosteroids on mortality in patients with community acquired pneumonia. If the review authors set the MID at MID1, they will rate down for imprecision, and if they set the MID at MID2, they will not rate down for imprecision. MID=minimal important difference
+<img src=".gitbook/assets/Fig11.jpg" alt="Fig 4-10: MID choice affects imprecision rating" width="100%" />
+
+Fig 4-10: An example of how rating down for imprecision in GRADE depends on the choice of MID in a systematic review of corticosteroids versus no corticosteroids on mortality in patients with community acquired pneumonia. If the review authors set the MID at MID1, they will rate down for imprecision, and if they set the MID at MID2, they will not rate down for imprecision. MID=minimal important difference
 
 When GRADE users have chosen the MID as their threshold and the point estimate is less than the MID, they will rate their certainty that the true treatment effect is unimportant (ie, little to no effect) (all point estimates in Fig 4-11). As described in the section on assessing whether there is a true underlying treatment effect, when GRADE users have chosen the null as the threshold and the point estimate clearly suggests an unimportant effect (ie, the point estimate is close to the null) they will instead rate certainty in little to no effect by relating the CI to the [MID](<assets/appendix/7.Rating down (or not) for imprecision. Challenges and possible solution when one targets the null and the point estimate turns out to be very close to the null.pdf>). In either case, they will not rate down for imprecision if the CI crosses neither threshold ((a) in Fig 4-11). If the CI crosses one threshold ((b) in Fig 4-11) or both thresholds ((c) in Fig 4-11) they will rate down for imprecision.
 
-![Fig 4-11: Rating certainty in little to no effect](.gitbook/assets/Fig12.jpg) Fig 4-11: Rating certainty in little to no effect and rating down for imprecision in GRADE when the confidence interval crosses the MID.
+<img src=".gitbook/assets/Fig12.jpg" alt="Fig 4-11: Rating certainty in little to no effect" width="100%" />
+
+Fig 4-11: Rating certainty in little to no effect and rating down for imprecision in GRADE when the confidence interval crosses the MID.
 
 ## 5.3 Rating down once or twice for imprecision
 
@@ -47,7 +55,9 @@ When deciding whether to rate down twice, two things are worth considering. The 
 
 Consider a systematic review comparing reduced versus standard dose corticosteroids for patients with [vasculitis](https://pmc.ncbi.nlm.nih.gov/articles/PMC8883216/?utm_source=chatgpt.com). For the outcome of mortality, the authors report a reduction in deaths of 21 per 1000 and a 95% CI that includes a 60 per 1000 reduction but also a 36 per 1000 increase (Fig 4-12). If the authors used an MID of 1% they would rate their certainty in an important effect. Given that the CI crosses the MID threshold they would rate down for imprecision.
 
-![Fig 4-12: Rating down two levels for imprecision](.gitbook/assets/Fig13.jpg) Fig 4-12: An example of using GRADE to rate down two levels for imprecision in a systematic review of different doses of corticosteroids on mortality in patients with vasculitis. Since the confidence interval includes both important benefit and important harm, the review authors should consider rating down two levels for imprecision
+<img src=".gitbook/assets/Fig13.jpg" alt="Fig 4-12: Rating down two levels for imprecision" width="100%" />
+
+Fig 4-12: An example of using GRADE to rate down two levels for imprecision in a systematic review of different doses of corticosteroids on mortality in patients with vasculitis. Since the confidence interval includes both important benefit and important harm, the review authors should consider rating down two levels for imprecision
 
 Moreover, the width of this CI would prompt the review team to consider rating down twice for imprecision. Indeed, because the CI not only crosses the MID for benefit but also includes an important harm, they would rate down twice for imprecision. Thus, even before considering any other reason for rating down, the authors have only low certainty evidence that the lower dose regimen results in an important reduction in mortality (the target of their certainty rating).
 

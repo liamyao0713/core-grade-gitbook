@@ -89,7 +89,9 @@ For example, a study using a large administrative database including more than 9
 
 The extent of risk of bias in an individual study represents a continuum from minimal to extremely serious risk of bias. For simplicity, however, GRADE users can assess the overall risk of bias in individual studies as low or high. This judgment requires a threshold differentiating the two categories and the acknowledgment of close call situations (Fig 4-17). The arrows in Fig 4-17 are a reminder that risk of bias may be close to a chosen threshold and that close call situations may bear on subsequent decisions.
 
-![Fig 4-17: Judging risk of bias in individual studies](.gitbook/assets/Fig18.jpg) Fig 4-17: Judging an individual study as overall high or low risk of bias
+<img src=".gitbook/assets/Fig18.jpg" alt="Fig 4-17: Judging risk of bias in individual studies" width="100%" />
+
+Fig 4-17: Judging an individual study as overall high or low risk of bias
 
 For example, consider the outcome of all cause mortality in a randomised controlled trial not using blinding and in which randomisation is concealed, follow-up is complete, and there are no other concerns about risk of bias. The only important source of bias, co-interventions, arises from the lack of blinding of healthcare providers. GRADE users must then consider the likelihood of an important co-intervention that may be highly impactful in one context (eg, a heart failure trial with many potent treatments that may be differentially administered to intervention and control groups) versus low in another context (eg, multiple sclerosis, where few potent co-interventions exist and none have shown an impact on mortality). In the first context for the mortality outcome, GRADE users would be likely to rate down for risk of bias due to lack of blinding, and, in the second, they would be unlikely to do so. One might consider these and other similar situations as close call decisions about rating down randomised controlled trials for risk of bias.
 
@@ -111,7 +113,9 @@ In many systematic reviews, however, authors typically report a figure or table 
 
 The ultimate goal of assessing risk of bias in individual studies is to inform whether to rate down the certainty of evidence across the entire body of evidence. In addressing risk of bias across all studies, GRADE users should follow the steps summarised in Fig 4-18. The flow chart applies to both randomised controlled trials that will start as overall high certainty evidence and NRSI that will start as low certainty evidence. For NRSI, the rating down for risk of bias refers to moving from low to very low certainty evidence.
 
-![Fig 4-18: Flow chart for risk of bias rating](.gitbook/assets/Fig19.jpg) Fig 4-18: Flow chart depicting process of considering rating of low or high risk of bias in individual studies to arrive at decision of whether to rate down certainty of evidence for risk of bias. \*Possible thresholds for high risk of bias “dominating”: >65% weight or ≥55% weight=possibly dominating. †Possible thresholds for appreciable low risk of bias evidence, corresponding to thresholds for high risk of bias dominating, ≥35% or ≥45% weight
+<img src=".gitbook/assets/Fig19.jpg" alt="Fig 4-18: Flow chart for risk of bias rating" width="100%" />
+
+Fig 4-18: Flow chart depicting process of considering rating of low or high risk of bias in individual studies to arrive at decision of whether to rate down certainty of evidence for risk of bias. \*Possible thresholds for high risk of bias “dominating”: >65% weight or ≥55% weight=possibly dominating. †Possible thresholds for appreciable low risk of bias evidence, corresponding to thresholds for high risk of bias dominating, ≥35% or ≥45% weight
 
 Firstly, systematic reviewers need to determine if high risk of bias studies dominate the body of evidence—that is, they carry substantially more weight than low risk of bias studies. If that is the case, GRADE users should pool results from all studies and rate down the certainty of evidence for risk of bias. We would conclude that high risk of bias studies dominate considering possible thresholds of weight in the meta-analysis of >65% or ≥55% of the weight.
 
