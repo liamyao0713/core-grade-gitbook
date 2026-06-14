@@ -19,6 +19,18 @@
 * [Additional information](13-additional-information.md)
 * [Additional Resources](resources-and-references.md)
 
+## Contributors
+
+Project oversight: Gordon Guyatt, Thomas Agoritsas
+
+Platform programming and Design: Liang Yao, Kaitlynn Kemp, Mingming Wang, Ming Liu, Leticia Kawano-Dourado. JUDGE and associated videos: Prashanti Eachempati. ROBUST-RCT: Ying Wang.
+
+Core GRADE Authors: You can find the authors of each of the articles presented on this website in the BMJ series.
+
+Authors making substantive contributions to the revisions in the website include: Thomas Agoritsas, Linan Zeng, Prashanti Eachempati, Dalal Ali, Hassan Murad, Sheri Keitz, Stefan Schandelmaier, Ariel Izcovich, Lars Hemkens, Monica Hultcrantz, Romina Brignardello, Luis Colunga, Liang Yao, Alfonso Iorio, Reem Mustafa, Ying Wang.
+
+Other Core GRADE authors include Victor Montori, Per Vandvik, Arnav Agarwal, Derek Chu, Rohan D'Souza, Stefan Schandelmaier, Jamie Rylance, Benjamin Djulbegovic, Farid Foroutan, Manya Prasad, Hans de Beer, Roman Jaeschke, Sameer Parpia, Kameshwar Prasad, Andrew Owen, Ganesan Karthikeyan, Carlos Coello, Kevin Kim, Bram Rochwerg, Chunjuan Zhai, Lingli Zhang, Pasqualina Santaguida, Tahira Devji, Ivan Florez.
+
 ## Citing Core GRADE
 
 When you are using Core GRADE for your reviews, guidelines, or health technology assessments, though your access was through the website, we would appreciate your citing the original GRADE papers from the BMJ from which the material you have used came.
@@ -40,14 +52,4 @@ When you are using Core GRADE for your reviews, guidelines, or health technology
 8. **Core GRADE 7: principles for moving from evidence to recommendations and decisions**\
    Guyatt G, Vandvik PO, Iorio A, Agarwal A, Yao L, Eachempati P, Zeng L, Chu DK, D'Souza R, Agoritsas T, Murad MH, Schandelmaier S, Rylance J, Djulbegovic B, Montori VM, Hultcrantz M, Brignardello-Petersen R. _BMJ_. 2025 Jun 3;389:e083867. [DOI](https://doi.org/10.1136/bmj-2024-083867) | [PMID](https://pubmed.ncbi.nlm.nih.gov/40461180) | [BMJ Article](https://www.bmj.com/content/389/bmj-2024-083867) | [Download RIS](assets/ris/8.ris)
 
-## Contributors
-
-Project oversight: Gordon Guyatt, Thomas Agoritsas
-
-Platform programming and Design: Liang Yao, Kaitlynn Kemp, Mingming Wang, Ming Liu, Leticia Kawano-Dourado. JUDGE and associated videos: Prashanti Eachempati. ROBUST-RCT: Ying Wang.
-
-Core GRADE Authors: You can find the authors of each of the articles presented on this website in the BMJ series.
-
-Authors making substantive contributions to the revisions in the website include: Thomas Agoritsas, Linan Zeng, Prashanti Eachempati, Dalal Ali, Hassan Murad, Sheri Keitz, Stefan Schandelmaier, Ariel Izcovich, Lars Hemkens, Monica Hultcrantz, Romina Brignardello, Luis Colunga, Liang Yao, Alfonso Iorio, Reem Mustafa, Ying Wang.
-
-Other Core GRADE authors include Victor Montori, Per Vandvik, Arnav Agarwal, Derek Chu, Rohan D'Souza, Stefan Schandelmaier, Jamie Rylance, Benjamin Djulbegovic, Farid Foroutan, Manya Prasad, Hans de Beer, Roman Jaeschke, Sameer Parpia, Kameshwar Prasad, Andrew Owen, Ganesan Karthikeyan, Carlos Coello, Kevin Kim, Bram Rochwerg, Chunjuan Zhai, Lingli Zhang, Pasqualina Santaguida, Tahira Devji, Ivan Florez.
+##
