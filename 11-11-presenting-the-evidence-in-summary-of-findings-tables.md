@@ -8,92 +8,14 @@ This material will enable GRADE users to understand the key components in summar
 
 For each outcome of interest, summary of findings tables summarise the evidence addressing the effects of interventions versus comparators and the certainty of that evidence, as well as reasons for rating down or up (Table 4-5). Each row in the table focuses on a single outcome presented in the first column. Subsequent columns present the number of participants, number and type of studies, relative and absolute effects presented as risk differences, certainty of evidence, and a plain language summary describing the effect. Although the format for presenting summary of findings tables may differ, the key information they present should not. A format we refer to as an evidence profile represents an alternative (Alternative format for summarizing Evidence [profile](assets/appendix/21.Summary%20of%20Fiinding%20Alternative%20format%20for%20summarizing%20the%20evidence-%20Evidence%20Profiles.pdf)).
 
-<table style="width:100%;">
-<caption>Table 4-5: Summary of findings table comparing effects of intensive versus less intensive antileukaemic treatment in older adults with acute myeloid leukaemia. Adapted from Sekeres et al6</caption>
-<colgroup>
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-</colgroup>
-<thead>
-<tr>
-<th>Outcome and follow-up</th>
-<th>No of participants (No of studies and type)</th>
-<th>Relative effect (95% CI)</th>
-<th>Absolute effects (95% CI)</th>
-<th>Certainty of evidence</th>
-<th>Plain language summary</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Mortality (Risk of death)<br />
-Follow-up: longest, range 7.7-60 months</td>
-<td>1821 (11 non-randomised studies)</td>
-<td>Hazard ratio 0.78 (0.69 to 0.89)</td>
-<td>One year risk of dying<br />
-578 per 1000* → 490 per 1000<br />
-88 fewer per 1000 (129 fewer to 42 fewer)</td>
-<td>Low†<br />
-Due to non-randomised studies</td>
-<td>Intensive antileukaemic treatment may decrease mortality</td>
-</tr>
-<tr>
-<td>Mortality (Proportion of people who died)<br />
-Follow-up: one year</td>
-<td>87 (one randomised controlled trial)</td>
-<td>Risk ratio 0.83 (0.61 to 1.13)</td>
-<td>558 per 1000 → 463 per 1000<br />
-95 fewer per 1000 (218 fewer to 73 more)</td>
-<td>Low<br />
-Due to very serious imprecision‡</td>
-<td>Intensive antileukaemic treatment may decrease mortality</td>
-</tr>
-<tr>
-<td>Complete remission duration in months (or time to relapse)<br />
-Follow-up: longest, range 13.3-60 months</td>
-<td>593 (four non-randomised studies)</td>
-<td>Four studies reported this outcome. Three of the four reported a shorter remission with intensive treatment. The difference in duration ranged from 3.1 months shorter to 0.03 months longer.</td>
-<td>-</td>
-<td>Very low<br />
-Due to serious imprecision†§</td>
-<td>We are very uncertain about the effect of intensive antileukaemic treatment on complete remission</td>
-</tr>
-<tr>
-<td>Serious adverse events (Proportion of people who had treatment emergent adverse events)<br />
-Follow-up: longest, median 5 years</td>
-<td>190 (one non-randomised study)</td>
-<td>Risk ratio 1.34 (1.03 to 1.75)</td>
-<td>463 per 1000 → 621 per 1000<br />
-157 more per 1000 (14 more to 347 more)</td>
-<td>Very low<br />
-Due to serious risk of bias and imprecision†¶**</td>
-<td>We are very uncertain about the effect of intensive antileukaemic treatment on serious adverse events</td>
-</tr>
-<tr>
-<td>Duration of hospital stay<br />
-Follow-up: longest, range 20-60 months</td>
-<td>370 (three non-randomised studies)</td>
-<td>-</td>
-<td>24.36 days → 37.32 days<br />
-12.96 more days (16.23 fewer to 42.15 more)</td>
-<td>Very low<br />
-Due to very serious inconsistency and very serious imprecision††‡‡</td>
-<td>We are very uncertain about the effect of intensive antileukaemic treatment on duration of hospital stay</td>
-</tr>
-<tr>
-<td>Quality of life impairment—not reported</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-<td>-</td>
-</tr>
-</tbody>
-</table>
+| Outcome and follow-up                                                                                                                | No of participants (No of studies and type) | Relative effect (95% CI)                                                                                                                                                                      | Absolute effects (95% CI)                                                                                  | Certainty of evidence                                                                 | Plain language summary                                                                                   |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| <p>Mortality (Risk of death)<br>Follow-up: longest, range 7.7-60 months</p>                                                          | 1821 (11 non-randomised studies)            | Hazard ratio 0.78 (0.69 to 0.89)                                                                                                                                                              | <p>One year risk of dying<br>578 per 1000* → 490 per 1000<br>88 fewer per 1000 (129 fewer to 42 fewer)</p> | <p>Low†<br>Due to non-randomised studies</p>                                          | Intensive antileukaemic treatment may decrease mortality                                                 |
+| <p>Mortality (Proportion of people who died)<br>Follow-up: one year</p>                                                              | 87 (one randomised controlled trial)        | Risk ratio 0.83 (0.61 to 1.13)                                                                                                                                                                | <p>558 per 1000 → 463 per 1000<br>95 fewer per 1000 (218 fewer to 73 more)</p>                             | <p>Low<br>Due to very serious imprecision‡</p>                                        | Intensive antileukaemic treatment may decrease mortality                                                 |
+| <p>Complete remission duration in months (or time to relapse)<br>Follow-up: longest, range 13.3-60 months</p>                        | 593 (four non-randomised studies)           | Four studies reported this outcome. Three of the four reported a shorter remission with intensive treatment. The difference in duration ranged from 3.1 months shorter to 0.03 months longer. | -                                                                                                          | <p>Very low<br>Due to serious imprecision†§</p>                                       | We are very uncertain about the effect of intensive antileukaemic treatment on complete remission        |
+| <p>Serious adverse events (Proportion of people who had treatment emergent adverse events)<br>Follow-up: longest, median 5 years</p> | 190 (one non-randomised study)              | Risk ratio 1.34 (1.03 to 1.75)                                                                                                                                                                | <p>463 per 1000 → 621 per 1000<br>157 more per 1000 (14 more to 347 more)</p>                              | <p>Very low<br>Due to serious risk of bias and imprecision†¶**</p>                    | We are very uncertain about the effect of intensive antileukaemic treatment on serious adverse events    |
+| <p>Duration of hospital stay<br>Follow-up: longest, range 20-60 months</p>                                                           | 370 (three non-randomised studies)          | -                                                                                                                                                                                             | <p>24.36 days → 37.32 days<br>12.96 more days (16.23 fewer to 42.15 more)</p>                              | <p>Very low<br>Due to very serious inconsistency and very serious imprecision††‡‡</p> | We are very uncertain about the effect of intensive antileukaemic treatment on duration of hospital stay |
+| Quality of life impairment—not reported                                                                                              | -                                           | -                                                                                                                                                                                             | -                                                                                                          | -                                                                                     | -                                                                                                        |
 
 CI=confidence interval; MID=minimal important difference.\
 \* Event rate from one year mortality was used for less intensive treatment (from non-randomised studies).\
@@ -113,30 +35,30 @@ For instance, they may have chosen different thresholds for the minimal importan
 
 Standardised plain language summaries should convey, for each outcome, information about the certainty of the evidence and the effect of the intervention. The following qualifiers then inform the direction of the effect:
 
-- **High certainty:** reduces, increases, or has little to no effect
-- **Moderate certainty:** probably (likely) reduces, increases, or has little to no effect
-- **Low certainty:** may (possibly) reduce, increase, or have little to no effect
-- **Very low certainty:** the evidence is very uncertain; or the effect is very uncertain
+* **High certainty:** reduces, increases, or has little to no effect
+* **Moderate certainty:** probably (likely) reduces, increases, or has little to no effect
+* **Low certainty:** may (possibly) reduce, increase, or have little to no effect
+* **Very low certainty:** the evidence is very uncertain; or the effect is very uncertain
 
 When focusing on the target of certainty in relation to the null, plain language summaries should communicate that there is a benefit or harm, which is to be understood as a non-null effect. Examples:
 
-- **High certainty:** knee arthroscopy increases function
-- **Moderate certainty:** knee arthroscopy probably (likely) increases function
-- **Low certainty:** knee arthroscopy may (possibly) increase function
-- **Very low certainty:** the effect of knee arthroscopy on function is very uncertain
+* **High certainty:** knee arthroscopy increases function
+* **Moderate certainty:** knee arthroscopy probably (likely) increases function
+* **Low certainty:** knee arthroscopy may (possibly) increase function
+* **Very low certainty:** the effect of knee arthroscopy on function is very uncertain
 
 When focusing on the minimal important difference, plain language summaries should communicate that there is an important benefit or harm, or alternatively that there is little to no important effect. Examples:
 
-- **High certainty of an important effect:** knee arthroscopy results in an important increase in function
-- **Moderate certainty of little to no effect:** knee arthroscopy probably has little to no important effect on function
-- **Low certainty of an important effect:** knee arthroscopy may (possibly) result in an important increase in function
-- **Very low certainty:** the effect of knee arthroscopy on function is very uncertain
+* **High certainty of an important effect:** knee arthroscopy results in an important increase in function
+* **Moderate certainty of little to no effect:** knee arthroscopy probably has little to no important effect on function
+* **Low certainty of an important effect:** knee arthroscopy may (possibly) result in an important increase in function
+* **Very low certainty:** the effect of knee arthroscopy on function is very uncertain
 
 GRADE=Grading of Recommendations Assessment, Development and Evaluation.
 
 ## 11.2 Presenting dichotomous outcomes: Relative measures of effect
 
-We have emphasised in both the first and the second article in this series dealing with establishing the target of certainty rating and rating down for imprecision1 2 that relative risks are usually similar across different baseline risks. Thus, systematic review authors will usually conduct meta-analyses of relative effects, using either relative risks, odds ratios, or hazard ratios. Relative risks are easier to interpret than odds ratios and facilitate estimation of absolute effects, making it the preferred measure from a user’s perspective. The odds ratio, however, can address problems that occur with relative risks when baseline risks are high (\>50%). Such situations are unusual and relative risks usually serve well.
+We have emphasised in both the first and the second article in this series dealing with establishing the target of certainty rating and rating down for imprecision1 2 that relative risks are usually similar across different baseline risks. Thus, systematic review authors will usually conduct meta-analyses of relative effects, using either relative risks, odds ratios, or hazard ratios. Relative risks are easier to interpret than odds ratios and facilitate estimation of absolute effects, making it the preferred measure from a user’s perspective. The odds ratio, however, can address problems that occur with relative risks when baseline risks are high (>50%). Such situations are unusual and relative risks usually serve well.
 
 One can interpret hazard ratios, which consider not only if an event occurs but when it occurs, similarly to relative risks. Investigators often use hazard ratios when mortality is the outcome of interest and death rates are high, as in the specialty of oncology (Table 4-5, first and second row). Under these circumstances, duration of survival becomes the most important factor for patients.
 
@@ -158,53 +80,10 @@ Clinicians can sometimes, considering prognostic factors for outcomes of interes
 
 Table 4-6 presents an example from a systematic review supporting the development of recommendations regarding the use of sodium-glucose cotransporter-2 (SGLT-2) inhibitors versus standard care for people with type 2 diabetes.19 20 The guideline authors, aware of the large gradients in risk of death in people with type 2 diabetes depending on their risk factors and cardiovascular and renal morbidities, made recommendations taking into account these baseline risks. The guideline panel identified five risk strata and ultimately made recommendations specific to each stratum. Here, we highlight results for the most important outcome, all cause mortality, from the two extremes: people at lowest risk and those at highest risk.
 
-<table style="width:100%;">
-<caption>Table 4-6: Summary of findings table comparing effects of SGLT-2 inhibitors versus standard care in people with type 2 diabetes. Adapted from Li et al19 and Palmer et al20</caption>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-</colgroup>
-<thead>
-<tr>
-<th>Outcome</th>
-<th>Time frame: five years</th>
-<th>Study results and measurements</th>
-<th>Standard care</th>
-<th>SGLT-2 inhibitors</th>
-<th>Certainty of evidence</th>
-<th>Plain language summary</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>All cause mortality (very low risk: adults with ≤3 risk factors and no underlying cardiovascular disease or chronic kidney disease)</td>
-<td>-</td>
-<td>Odds ratio 0.77 (95% CI 0.71 to 0.83)<br />
-Based on data from 282,704 participants in 225 studies</td>
-<td>20 per 1000</td>
-<td>15 per 1000<br />
-5 fewer per 1000 (95% CI 6 fewer to 3 fewer)</td>
-<td>High</td>
-<td>There is no important difference between SGLT-2 inhibitors and standard care</td>
-</tr>
-<tr>
-<td>All cause mortality (very high risk: patients with cardiovascular disease and chronic kidney disease)</td>
-<td>-</td>
-<td>Odds ratio 0.77 (95% CI 0.71 to 0.83)<br />
-Based on data from 282,704 participants in 225 studies</td>
-<td>265 per 1000</td>
-<td>217 per 1000<br />
-48 fewer per 1000 (95% CI 61 fewer to 35 fewer)</td>
-<td>High</td>
-<td>SGLT-2 inhibitors reduce the risk of death compared with standard care</td>
-</tr>
-</tbody>
-</table>
+| Outcome                                                                                                                             | Time frame: five years | Study results and measurements                                                                         | Standard care | SGLT-2 inhibitors                                                      | Certainty of evidence | Plain language summary                                                       |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------------------------------------------------------------------------------------------ | ------------- | ---------------------------------------------------------------------- | --------------------- | ---------------------------------------------------------------------------- |
+| All cause mortality (very low risk: adults with ≤3 risk factors and no underlying cardiovascular disease or chronic kidney disease) | -                      | <p>Odds ratio 0.77 (95% CI 0.71 to 0.83)<br>Based on data from 282,704 participants in 225 studies</p> | 20 per 1000   | <p>15 per 1000<br>5 fewer per 1000 (95% CI 6 fewer to 3 fewer)</p>     | High                  | There is no important difference between SGLT-2 inhibitors and standard care |
+| All cause mortality (very high risk: patients with cardiovascular disease and chronic kidney disease)                               | -                      | <p>Odds ratio 0.77 (95% CI 0.71 to 0.83)<br>Based on data from 282,704 participants in 225 studies</p> | 265 per 1000  | <p>217 per 1000<br>48 fewer per 1000 (95% CI 61 fewer to 35 fewer)</p> | High                  | SGLT-2 inhibitors reduce the risk of death compared with standard care       |
 
 CI=confidence interval; SGLT-2=sodium-glucose cotransporter-2.
 
@@ -218,78 +97,17 @@ Here, using an MID in mortality of 10 in 1000, the entire CI for the low risk gr
 
 ## 11.5 Directly calculating risk differences
 
-Calculating risk differences by applying relative effects to baseline risks may, in some scenarios, result in misleading point estimates of effect and even more misleading and asymmetrical CIs. Such results often occur when the outcome is rare (event rates \<2% and most problematic \<1%). Faced with this problem, rather than conducting meta-analysis of relative effects, review authors should generally conduct meta-analyses of risk differences. (Calculating and presenting absolute measures of effect: Directly calculating risk [differences](assets/appendix/18.Summary%20of%20Fiindings-%20Calculating%20and%20presenting%20absolute%20measures%20of%20effect%20-%20Directly%20calculating%20risk%20differences%5B1%5D.pdf))
+Calculating risk differences by applying relative effects to baseline risks may, in some scenarios, result in misleading point estimates of effect and even more misleading and asymmetrical CIs. Such results often occur when the outcome is rare (event rates <2% and most problematic <1%). Faced with this problem, rather than conducting meta-analysis of relative effects, review authors should generally conduct meta-analyses of risk differences. (Calculating and presenting absolute measures of effect: Directly calculating risk [differences](assets/appendix/18.Summary%20of%20Fiindings-%20Calculating%20and%20presenting%20absolute%20measures%20of%20effect%20-%20Directly%20calculating%20risk%20differences\[1].pdf))
 
 ## 11.6 Presenting continuous outcomes: When studies use the same measure
 
 In many cases, studies reporting an outcome measured as a continuous variable use the same instrument or scale across studies. Take, for instance, length of hospital stay (measured in days) in Table 4-5 or pain (often measured using a 10 cm visual analogue scale) in Table 4-7.
 
-<table style="width:100%;">
-<caption>Table 4-7: Summary of findings table comparing effects of knee arthroscopy versus conservative management in people with degenerative knee disease. Adapted from Brignardello-Petersen et al22 and Siemieniuk et al23</caption>
-<colgroup>
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-<col style="width: 14%" />
-</colgroup>
-<thead>
-<tr>
-<th>Outcome</th>
-<th>Time frame</th>
-<th>Studies and measurements</th>
-<th>Conservative management</th>
-<th>Arthroscopy</th>
-<th>Certainty of evidence</th>
-<th>Plain language summary</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Option 1</strong><br />
-Pain (difference in change from baseline)</td>
-<td>Three months</td>
-<td>Measured by different instruments converted to scale of index instrument (KOOS pain subscale—MID 12)<br />
-Scale 0-100, higher scores better<br />
-Based on data from 1231 participants in 10 studies</td>
-<td>Mean 15.00 points</td>
-<td>Mean 20.00 points<br />
-Mean difference 5.38 more (95% CI 1.95 more to 8.81 more)</td>
-<td>Moderate*†<br />
-Different pain summary measures suggest different effects</td>
-<td>Knee arthroscopy probably does not result in an important reduction in pain</td>
-</tr>
-<tr>
-<td><strong>Option 2</strong><br />
-Pain (difference in proportion of patients who achieve a change greater than the MID)</td>
-<td>Three months</td>
-<td>Based on data from 1102 participants in nine studies<br />
-Follow-up three months‡</td>
-<td>669 per 1000§</td>
-<td>793 per 1000<br />
-Difference 124 more per 1000 (95% CI 44 more to 204 more)</td>
-<td>Low†¶<br />
-Serious imprecision and different pain summary measures suggest different effects</td>
-<td>Knee arthroscopy possibly increases the number of patients with an important reduction in pain</td>
-</tr>
-<tr>
-<td><strong>Option 3</strong><br />
-Pain (SMD in change from baseline)</td>
-<td>Three months</td>
-<td>Measured by different instruments with different scales<br />
-Scale: Higher scores better<br />
-Based on data from 1231 participants in 10 studies</td>
-<td>Mean 15.00</td>
-<td>Mean 17.04<br />
-SMD 0.16 higher (95% CI 0.03 higher to 0.28 higher)</td>
-<td>Low†**<br />
-Serious imprecision and different pain summary measures show different effects</td>
-<td>Knee arthroscopy possibly does not result in an important reduction in pain</td>
-</tr>
-</tbody>
-</table>
+| Outcome                                                                                                                   | Time frame   | Studies and measurements                                                                                                                                                                               | Conservative management | Arthroscopy                                                                           | Certainty of evidence                                                                             | Plain language summary                                                                         |
+| ------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| <p><strong>Option 1</strong><br>Pain (difference in change from baseline)</p>                                             | Three months | <p>Measured by different instruments converted to scale of index instrument (KOOS pain subscale—MID 12)<br>Scale 0-100, higher scores better<br>Based on data from 1231 participants in 10 studies</p> | Mean 15.00 points       | <p>Mean 20.00 points<br>Mean difference 5.38 more (95% CI 1.95 more to 8.81 more)</p> | <p>Moderate*†<br>Different pain summary measures suggest different effects</p>                    | Knee arthroscopy probably does not result in an important reduction in pain                    |
+| <p><strong>Option 2</strong><br>Pain (difference in proportion of patients who achieve a change greater than the MID)</p> | Three months | <p>Based on data from 1102 participants in nine studies<br>Follow-up three months‡</p>                                                                                                                 | 669 per 1000§           | <p>793 per 1000<br>Difference 124 more per 1000 (95% CI 44 more to 204 more)</p>      | <p>Low†¶<br>Serious imprecision and different pain summary measures suggest different effects</p> | Knee arthroscopy possibly increases the number of patients with an important reduction in pain |
+| <p><strong>Option 3</strong><br>Pain (SMD in change from baseline)</p>                                                    | Three months | <p>Measured by different instruments with different scales<br>Scale: Higher scores better<br>Based on data from 1231 participants in 10 studies</p>                                                    | Mean 15.00              | <p>Mean 17.04<br>SMD 0.16 higher (95% CI 0.03 higher to 0.28 higher)</p>              | <p>Low†**<br>Serious imprecision and different pain summary measures show different effects</p>   | Knee arthroscopy possibly does not result in an important reduction in pain                    |
 
 CI=confidence interval; KOOS=Knee injury and Osteoarthritis Outcome Score; MID=minimal important difference; SMD=standardised mean difference.\
 \* Although the I2 statistic was high, all point estimates suggested little to no effect and therefore no rating down for inconsistency.\
@@ -351,7 +169,7 @@ In addition to displaying benefits and harms in their summary of findings tables
 
 When direct evidence for an important outcome is limited, indirect evidence may provide the highest certainty available evidence, and thus inform the summary of findings table. In our previous discussion of indirectness, we have described how GRADE users might best handle indirect evidence in summary of findings tables. Two common situations often arise. In the first, authors may need to present syntheses of evidence from a different but related population. For instance, evidence regarding harms of an intervention applied to a rare disease may come from studies of the intervention in other more common conditions. The extent of rating down for indirectness would then depend on the likelihood that adverse effects would be similar across conditions.
 
-In another common scenario, GRADE users may need to rely on surrogate outcomes to make inferences about a patient important outcome. As described in our discussion of indirectness, in such instances the summary of findings table presents inferences about the impact of treatment on the patient important outcome while making clear those inferences are based on results from a surrogate, rating down once or twice for [indirectness](#intro-differences-in-outcomes).
+In another common scenario, GRADE users may need to rely on surrogate outcomes to make inferences about a patient important outcome. As described in our discussion of indirectness, in such instances the summary of findings table presents inferences about the impact of treatment on the patient important outcome while making clear those inferences are based on results from a surrogate, rating down once or twice for [indirectness](11-11-presenting-the-evidence-in-summary-of-findings-tables.md#intro-differences-in-outcomes).
 
 ## 11.12 When data are available from randomized trials and non-randomized studies
 
@@ -369,7 +187,7 @@ Examples of potential inaccuracies include automatically rating up for large eff
 
 Additional paid features allow for digital publication of alternative formats, including interactive formats, multilayered presentations of information, one page presentations, infographics, and mobile apps, as well as dynamic updates of the evidence—for example, within the context of living systematic reviews and guidelines. Fig 4-23 shows an example of a multilayered table, here presented with an interactive infographic directly linking outcomes to decision aids that support shared decision making.
 
-![Fig 4-23: Example of table presenting the impact of nirmatrelvir and ritonavir on outcomes](assets/images/Fig24.jpg) Fig 4-23: Example of table presenting the impact of nirmatrelvir and ritonavir on outcomes in patients with non-severe covid-19, with links to tools for shared decision making
+![Fig 4-23: Example of table presenting the impact of nirmatrelvir and ritonavir on outcomes](.gitbook/assets/Fig24.jpg) Fig 4-23: Example of table presenting the impact of nirmatrelvir and ritonavir on outcomes in patients with non-severe covid-19, with links to tools for shared decision making
 
 ## 11.14 Conclusion
 

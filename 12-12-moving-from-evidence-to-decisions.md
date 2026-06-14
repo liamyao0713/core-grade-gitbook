@@ -8,11 +8,11 @@ We will describe here how a guideline panel using the Core GRADE approach decide
 
 The information in this article will enable Core GRADE users to:
 
-- Understand the principles of moving from evidence to recommendations and decisions within the Core GRADE framework
-- Understand the importance of specifying an individual patient and possible secondary population perspective and the implications for decisions
-- Differentiate between strong and conditional recommendations and understand the principles for issuing each type of recommendation
-- Understand and apply the concept of minimal important difference (MID) in clarifying values and preferences
-- Develop clear, structured, and actionable recommendations using standardised GRADE formats
+* Understand the principles of moving from evidence to recommendations and decisions within the Core GRADE framework
+* Understand the importance of specifying an individual patient and possible secondary population perspective and the implications for decisions
+* Differentiate between strong and conditional recommendations and understand the principles for issuing each type of recommendation
+* Understand and apply the concept of minimal important difference (MID) in clarifying values and preferences
+* Develop clear, structured, and actionable recommendations using standardised GRADE formats
 
 ## 12.1 GRADE recommendations
 
@@ -20,7 +20,7 @@ Recommendations made by guideline panels using GRADE are characterised by their 
 
 Sometimes, although potentially unhelpful to the clinician audience and therefore seldom appropriate, Core GRADE users may find the desirable and undesirable consequences of two alternative interventions so closely balanced that they recommend use of either. A final additional rarely used category is a recommendation for limiting an intervention only to the context of research—an issue we return to in the section "Only in research setting recommendations."
 
-![Fig 4-24: The four categories of GRADE recommendations](assets/images/Fig25.jpg) Fig 4-24: The four categories of GRADE recommendations and what they signify in terms of the distributions of preferences in fully informed individuals in target population.
+![Fig 4-24: The four categories of GRADE recommendations](.gitbook/assets/Fig25.jpg) Fig 4-24: The four categories of GRADE recommendations and what they signify in terms of the distributions of preferences in fully informed individuals in target population.
 
 Guideline panels make strong recommendations when they are confident that the desirable consequences of an intervention (eg, decreased mortality and morbidity, improved quality of life) outweigh the undesirable consequences (eg, adverse effects, burden of treatment). The reverse (undesirable outweigh desirable consequences) also dictates a strong recommendation, but against an intervention.
 
@@ -32,75 +32,21 @@ Typically, individuals differ in the relative importance they place on benefits,
 
 ## 12.2 Determinants of direction and strength of recommendations
 
-To facilitate decisions on the direction and strength of recommendations, GRADE users can refer to GRADE’s evidence to decision frameworks. The frameworks guide users in the key determinants that shape their recommendations. Table 4-8 summarises the primary and secondary issues in GRADE evidence to decision frameworks, and how they influence the strength and direction of recommendations according to the perspective the group takes (see the section “[Perspective](#intro-perspective)”).
+To facilitate decisions on the direction and strength of recommendations, GRADE users can refer to GRADE’s evidence to decision frameworks. The frameworks guide users in the key determinants that shape their recommendations. Table 4-8 summarises the primary and secondary issues in GRADE evidence to decision frameworks, and how they influence the strength and direction of recommendations according to the perspective the group takes (see the section “[Perspective](12-12-moving-from-evidence-to-decisions.md#intro-perspective)”).
 
-Table 4-8 \| Primary and secondary considerations in Core GRADE's evidence to decision framework that determine direction and strength of recommendations
+Table 4-8 | Primary and secondary considerations in Core GRADE's evidence to decision framework that determine direction and strength of recommendations
 
-<table>
-<colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
-</colgroup>
-<thead>
-<tr>
-<th>Factor</th>
-<th>Judgments/considerations</th>
-<th>Impact on direction and strength of recommendation</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td colspan="3"><strong>Primary factors (always considered)</strong></td>
-</tr>
-<tr>
-<td>Benefits, harms, and burdens</td>
-<td>How large are the benefits?<br />
-How large are the harms and burdens?</td>
-<td>The larger the benefits the more likely a panel will make a recommendation for an intervention, and the more likely that recommendation will be strong. The larger the harms and burdens the more likely the panel will recommend in favour of the comparator rather than the intervention, and the more likely that recommendation will be strong</td>
-</tr>
-<tr>
-<td>Certainty of evidence</td>
-<td>What is the certainty of evidence for each of the critical and important outcomes?</td>
-<td>The greater the certainty of evidence the more likely a panel will make a strong recommendation. High or moderate certainty evidence often justifies strong recommendations, whereas low and very low certainty mandates, in almost all situations, conditional recommendations</td>
-</tr>
-<tr>
-<td>Values and preferences</td>
-<td>What are the typical patients' values and preferences?<br />
-How important do patients judge each benefit and harm outcome and the associated burdens?<br />
-To what extent do patients vary in their values and preferences?<br />
-How certain is the panel in its judgment about patients' values and preferences and variability in those values and preferences?</td>
-<td>The more patients value the benefits the more likely the panel will make a recommendation for an intervention, and the more likely that recommendation will be strong. The more patients value avoiding the harms and burdens the more likely a panel will strongly recommend against an intervention. The less variability in patients' values and preferences and the more certain a panel is about these values and preferences the more likely they will make a strong recommendation</td>
-</tr>
-<tr>
-<td colspan="3"><strong>Secondary factors (particularly relevant from a population perspective)</strong></td>
-</tr>
-<tr>
-<td>Resources and cost effectiveness</td>
-<td>What are the resources required?<br />
-Would implementing the intervention versus the comparator lead to important costs or savings?<br />
-How do those costs and savings relate to benefits and harms?</td>
-<td>The less the costs of an intervention and the greater the savings and cost effectiveness the more likely a panel will make a recommendation in favour of an intervention, and the more likely that recommendation will be strong</td>
-</tr>
-<tr>
-<td>Feasibility</td>
-<td>Is it feasible to implement the intervention?<br />
-What is the relative feasibility of the intervention versus the comparator?</td>
-<td>The more feasible an intervention the more likely a panel will make a recommendation in favour of an intervention. Feasibility considerations can also lead to guidance on implementation</td>
-</tr>
-<tr>
-<td>Acceptability</td>
-<td>Is the intervention acceptable to patients, clinicians, and other key stakeholders?<br />
-What is the relative acceptability of the intervention versus the comparator?</td>
-<td>The more acceptable an intervention the more likely a panel will make a recommendation in favour of an intervention</td>
-</tr>
-<tr>
-<td>Equity</td>
-<td>What would be the impact of implementing the intervention versus the comparator on health equity?</td>
-<td>The more an intervention would increase equity the more likely a panel will make a recommendation in favour of an intervention. Equity considerations can also lead to guidance on implementation</td>
-</tr>
-</tbody>
-</table>
+| Factor                                                                      | Judgments/considerations                                                                                                                                                                                                                                                                                                                                           | Impact on direction and strength of recommendation                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Primary factors (always considered)**                                     |                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Benefits, harms, and burdens                                                | <p>How large are the benefits?<br>How large are the harms and burdens?</p>                                                                                                                                                                                                                                                                                         | The larger the benefits the more likely a panel will make a recommendation for an intervention, and the more likely that recommendation will be strong. The larger the harms and burdens the more likely the panel will recommend in favour of the comparator rather than the intervention, and the more likely that recommendation will be strong                                                                                                                                        |
+| Certainty of evidence                                                       | What is the certainty of evidence for each of the critical and important outcomes?                                                                                                                                                                                                                                                                                 | The greater the certainty of evidence the more likely a panel will make a strong recommendation. High or moderate certainty evidence often justifies strong recommendations, whereas low and very low certainty mandates, in almost all situations, conditional recommendations                                                                                                                                                                                                           |
+| Values and preferences                                                      | <p>What are the typical patients' values and preferences?<br>How important do patients judge each benefit and harm outcome and the associated burdens?<br>To what extent do patients vary in their values and preferences?<br>How certain is the panel in its judgment about patients' values and preferences and variability in those values and preferences?</p> | The more patients value the benefits the more likely the panel will make a recommendation for an intervention, and the more likely that recommendation will be strong. The more patients value avoiding the harms and burdens the more likely a panel will strongly recommend against an intervention. The less variability in patients' values and preferences and the more certain a panel is about these values and preferences the more likely they will make a strong recommendation |
+| **Secondary factors (particularly relevant from a population perspective)** |                                                                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Resources and cost effectiveness                                            | <p>What are the resources required?<br>Would implementing the intervention versus the comparator lead to important costs or savings?<br>How do those costs and savings relate to benefits and harms?</p>                                                                                                                                                           | The less the costs of an intervention and the greater the savings and cost effectiveness the more likely a panel will make a recommendation in favour of an intervention, and the more likely that recommendation will be strong                                                                                                                                                                                                                                                          |
+| Feasibility                                                                 | <p>Is it feasible to implement the intervention?<br>What is the relative feasibility of the intervention versus the comparator?</p>                                                                                                                                                                                                                                | The more feasible an intervention the more likely a panel will make a recommendation in favour of an intervention. Feasibility considerations can also lead to guidance on implementation                                                                                                                                                                                                                                                                                                 |
+| Acceptability                                                               | <p>Is the intervention acceptable to patients, clinicians, and other key stakeholders?<br>What is the relative acceptability of the intervention versus the comparator?</p>                                                                                                                                                                                        | The more acceptable an intervention the more likely a panel will make a recommendation in favour of an intervention                                                                                                                                                                                                                                                                                                                                                                       |
+| Equity                                                                      | What would be the impact of implementing the intervention versus the comparator on health equity?                                                                                                                                                                                                                                                                  | The more an intervention would increase equity the more likely a panel will make a recommendation in favour of an intervention. Equity considerations can also lead to guidance on implementation                                                                                                                                                                                                                                                                                         |
 
 GRADE=Grading of Recommendations Assessment, Development and Evaluation.
 
@@ -110,7 +56,7 @@ Ideally, a guideline panel will include a mix of topic or thematic and clinical 
 
 ## 12.4 The process of moving from evidence to recommendations
 
-Fig 4-25 represents the Core GRADE approach for moving from evidence to recommendations. ![Fig 4-25: Core GRADE process for moving from evidence to recommendations](assets/images/Fig26.jpg) Fig 4-25: Core GRADE process for moving from evidence to recommendations. MID=minimal important difference
+Fig 4-25 represents the Core GRADE approach for moving from evidence to recommendations. ![Fig 4-25: Core GRADE process for moving from evidence to recommendations](.gitbook/assets/Fig26.jpg) Fig 4-25: Core GRADE process for moving from evidence to recommendations. MID=minimal important difference
 
 Some GRADE users find it beneficial to use an alternative approach in which they undertake a separate structured review of each evidence to decision factor before integrating it to arrive at their final decisions ([Example of a structured evidence to decision framework](assets/appendix/15.Evidence%20to%20Decision-%20Example%20of%20a%20Structured%20Evidence-to-Decision%20framework.pdf)). Because of its complexity and the large number of decisions involved in its completion, the structured approach represents an option for guideline panels that want to go beyond Core GRADE.
 
@@ -122,9 +68,9 @@ The decision regarding perspective influences how GRADE users approach the evide
 
 ## 12.6 Choosing the MID for each critical and important outcome: Necessity for choosing the MID
 
-Having considere and rejected outcomes of little importance and classified important outcomes as critical versus important but not critical,1 GRADE users then decide on the MID for each important or critical outcome. This is necessary for two reasons. Firstly, choosing a threshold will make certainty ratings [possible](assets/appendix/7.Rating%20down%20%28or%20not%29%20for%20imprecision.%20Challenges%20and%20possible%20solution%20when%20one%20targets%20the%20null%20and%20the%20point%20estimate%20turns%20out%20to%20be%20very%20close%20to%20the%20null.pdf). To inform recommendations, that threshold must be the MID (the smallest difference in effect that patients would consider important) rather than the null. Thus, decisions on the MID must precede certainty ratings in the evidence synthesis.
+Having considere and rejected outcomes of little importance and classified important outcomes as critical versus important but not critical,1 GRADE users then decide on the MID for each important or critical outcome. This is necessary for two reasons. Firstly, choosing a threshold will make certainty ratings [possible](assets/appendix/7.Rating%20down%20\(or%20not\)%20for%20imprecision.%20Challenges%20and%20possible%20solution%20when%20one%20targets%20the%20null%20and%20the%20point%20estimate%20turns%20out%20to%20be%20very%20close%20to%20the%20null.pdf). To inform recommendations, that threshold must be the MID (the smallest difference in effect that patients would consider important) rather than the null. Thus, decisions on the MID must precede certainty ratings in the evidence synthesis.
 
-Having decided on the MID for each outcome, GRADE users rate certainty in an important effect if the point estimate proves greater than the MID and in an unimportant effect if the point estimate proves less than the MID. The systematic review team then rates certainty in relation to the MID threshold for both [imprecision](assets/appendix/7.Rating%20down%20%28or%20not%29%20for%20imprecision.%20Challenges%20and%20possible%20solution%20when%20one%20targets%20the%20null%20and%20the%20point%20estimate%20turns%20out%20to%20be%20very%20close%20to%20the%20null.pdf) and [inconsistency](#intro-applying-visual-criteria-how-choice-of-threshold-affects-judgments-of-inconsistency) domains.
+Having decided on the MID for each outcome, GRADE users rate certainty in an important effect if the point estimate proves greater than the MID and in an unimportant effect if the point estimate proves less than the MID. The systematic review team then rates certainty in relation to the MID threshold for both [imprecision](assets/appendix/7.Rating%20down%20\(or%20not\)%20for%20imprecision.%20Challenges%20and%20possible%20solution%20when%20one%20targets%20the%20null%20and%20the%20point%20estimate%20turns%20out%20to%20be%20very%20close%20to%20the%20null.pdf) and [inconsistency](12-12-moving-from-evidence-to-decisions.md#intro-applying-visual-criteria-how-choice-of-threshold-affects-judgments-of-inconsistency) domains.
 
 The second reason is that MIDs reflect the relative importance patients place on different outcomes—that is, patients’ values and preferences. For instance, MIDs associated with mortality of 1%, stroke of 2%, myocardial infarction of 3%, and serious gastrointestinal bleeding of 5% reflect the gradient of importance across these outcomes. If the MID associated with mortality is 1%, with stroke is 2%, with myocardial infarction is 3%, and with serious gastrointestinal bleeding is 5%, it tells a great deal about the panel’s inferences regarding the gradient of importance across those outcomes (importance gradient across mortality, stroke, myocardial infarction, and bleeding, mortality five times as important as bleeding).
 
@@ -164,16 +110,16 @@ Guideline panelists may have limited experience in constructing value and prefer
 
 **Example 1: WHO guideline on clinical management of covid-19**
 
-- The WHO guideline on clinical management of covid-19 includes one recommendation for awake prone positioning. The evidence indicated a small reduction in the need for mechanical ventilation with no other important benefits. The panel considered alternatives based on its judgments about patients' values and preferences (see below) and ultimately selected the first option during the recommendation process.
-  - Option 1: "The panel placed a relatively high value on a modest reduction in invasive mechanical ventilation and a lower value on the discomfort patients experience using awake prone positioning."
-  - Option 2: "The panel placed a relatively low value on a modest reduction in invasive mechanical ventilation and a higher value on the discomfort patients experience using awake prone positioning."
+* The WHO guideline on clinical management of covid-19 includes one recommendation for awake prone positioning. The evidence indicated a small reduction in the need for mechanical ventilation with no other important benefits. The panel considered alternatives based on its judgments about patients' values and preferences (see below) and ultimately selected the first option during the recommendation process.
+  * Option 1: "The panel placed a relatively high value on a modest reduction in invasive mechanical ventilation and a lower value on the discomfort patients experience using awake prone positioning."
+  * Option 2: "The panel placed a relatively low value on a modest reduction in invasive mechanical ventilation and a higher value on the discomfort patients experience using awake prone positioning."
 
 **Example 2: Living WHO guideline on drugs for covid-19**
 
-- During the early phase of the covid-19 pandemic, the panel producing WHO rapid recommendations on drugs for covid-19 considered the following patients' values and preferences when issuing recommendations:
-  - "The Guideline Development Group agreed that the following values and preferences would be representative of those of typical well-informed patients:
-  - Most patients would be reluctant to use a treatment for which the evidence left high uncertainty regarding effects on the outcomes they consider important. This was particularly so when evidence suggested treatment effects, if they exist, are small and the possibility of important harm remains.
-  - In an alternative situation with larger benefits and less uncertainty regarding both benefits and harms, more patients would be inclined to choose the treatment."
+* During the early phase of the covid-19 pandemic, the panel producing WHO rapid recommendations on drugs for covid-19 considered the following patients' values and preferences when issuing recommendations:
+  * "The Guideline Development Group agreed that the following values and preferences would be representative of those of typical well-informed patients:
+  * Most patients would be reluctant to use a treatment for which the evidence left high uncertainty regarding effects on the outcomes they consider important. This was particularly so when evidence suggested treatment effects, if they exist, are small and the possibility of important harm remains.
+  * In an alternative situation with larger benefits and less uncertainty regarding both benefits and harms, more patients would be inclined to choose the treatment."
 
 WHO=World Health Organization.
 
@@ -193,7 +139,7 @@ For example, a guideline related to transfusion thresholds required consideratio
 
 The examples above show how those producing recommendations must first decide on their direction and subsequently address their strength as strong or conditional. Panelists make strong recommendations when they are confident that benefits of an intervention or comparator clearly outweigh the harms and burdens of the alternative, and they make conditional recommendations when the net benefit is less clear (Table 4-8). We have found a useful way to conceptualise the distinction between the two situations. When panelists believe that all or almost all fully informed individuals would choose a particular option, they make a strong recommendation. When panelists believe that an appreciable minority, because of differing values and preferences, would choose the option not recommended, they make a conditional recommendation. We have illustrated this logic in two of the previous examples.
 
-When certainty is low or very low for either benefits or harms and burdens it is almost always impossible to have the level of certainty required for a strong recommendation. As a result, Core GRADE users should generally avoid making strong recommendations in the presence of low certainty evidence for key outcomes. They may, however, consider a strong recommendation for an intervention when the certainty of evidence for benefit is low and the likelihood of a bad outcome of great importance (eg, death, stroke) is very high. They may make a strong recommendation against an intervention when there is low certainty of evidence for benefit and high or moderate certainty for substantial harm ([Examples of appropriate strong recommendations based on low certainty evidence](assets/appendix/14.Evudebce%20ti%20decision-%20Examples%20of%20appropriate%20strong%20recommendations%20based%20on%20low%20certainty%20evidence%5B1%5D.pdf)).
+When certainty is low or very low for either benefits or harms and burdens it is almost always impossible to have the level of certainty required for a strong recommendation. As a result, Core GRADE users should generally avoid making strong recommendations in the presence of low certainty evidence for key outcomes. They may, however, consider a strong recommendation for an intervention when the certainty of evidence for benefit is low and the likelihood of a bad outcome of great importance (eg, death, stroke) is very high. They may make a strong recommendation against an intervention when there is low certainty of evidence for benefit and high or moderate certainty for substantial harm ([Examples of appropriate strong recommendations based on low certainty evidence](assets/appendix/14.Evudebce%20ti%20decision-%20Examples%20of%20appropriate%20strong%20recommendations%20based%20on%20low%20certainty%20evidence\[1].pdf)).
 
 ## 12.11 Only in research setting recommendations
 
@@ -223,13 +169,13 @@ GRADE users should present recommendations along with their strength and, option
 
 **Box 2: Examples of presenting recommendations**
 
-**Example 1:** "In patients with uncontrolled atopic dermatitis refractory to moisturization alone, the \[Joint Task Force\] panel recommends addition of a topical corticosteroid over no topical corticosteroid (strong recommendation, high certainty evidence)"
+**Example 1:** "In patients with uncontrolled atopic dermatitis refractory to moisturization alone, the \[Joint Task Force] panel recommends addition of a topical corticosteroid over no topical corticosteroid (strong recommendation, high certainty evidence)"
 
-**Example 2:** "For older adults with newly diagnosed \[acute myeloid leukemia\] considered candidates for intensive antileukemic therapy, the \[American Society of Hematology\] guideline panel suggests intensive antileukemic therapy over less intensive antileukemic therapy (conditional recommendation based on low certainty in the evidence of effects)"
+**Example 2:** "For older adults with newly diagnosed \[acute myeloid leukemia] considered candidates for intensive antileukemic therapy, the \[American Society of Hematology] guideline panel suggests intensive antileukemic therapy over less intensive antileukemic therapy (conditional recommendation based on low certainty in the evidence of effects)"
 
 **Example 3:** "Recommendation 2: In patients with atopic dermatitis, the Joint Task Force panel suggests using a standard, bland (free of fragrance and other potential contact allergens) over-the-counter moisturizer over a prescription moisturizer medical device (eg, Atopiclair, Eletone, Epiceram, MimyX, Neosalus, Zenieva, and PruMyx) (conditional recommendation, low-certainty evidence)"
 
-![Fig 4-26: Recommendation with remarks and decision aid](assets/images/Fig27.jpg) Fig 4-26: (Top panel) Recommendation with remarks and tabs so users can find all pertinent information, here shown first paragraph of a detailed justification for moving from evidence to a strong recommendation. (Bottom panel) Decision aid with outcomes and practical issues that matter to patients ![Fig 4-27: Strong recommendation for point of care INR testing](assets/images/Fig28.jpg) Fig 4-27: Strong recommendation for point of care INR testing, followed by justification, GRADE summary of findings table, and evidence to decision framework in deeper layers. INR=international normalised ratio
+![Fig 4-26: Recommendation with remarks and decision aid](.gitbook/assets/Fig27.jpg) Fig 4-26: (Top panel) Recommendation with remarks and tabs so users can find all pertinent information, here shown first paragraph of a detailed justification for moving from evidence to a strong recommendation. (Bottom panel) Decision aid with outcomes and practical issues that matter to patients ![Fig 4-27: Strong recommendation for point of care INR testing](.gitbook/assets/Fig28.jpg) Fig 4-27: Strong recommendation for point of care INR testing, followed by justification, GRADE summary of findings table, and evidence to decision framework in deeper layers. INR=international normalised ratio
 
 In general, it is preferable to present recommen-dations in favour of a particular management approach (including the comparator in the initial framing of the population, intervention, comparison, and outcome) rather than against an approach (typically the intervention). Considering the management of atopic dermatitis (eczema), a joint task force of two allergy societies compared prescription moisturisers (initially the intervention) with comparator over-the-counter moisturisers and found their effects to be similar. The panelists believed that the burdens and acceptability of the prescription moisturisers warranted use of the over-the-counter preparation, but instead of recommending against the prescription, they stated, “In patients with atopic dermatitis, the Joint Task Force panel suggests using a standard, bland over-the-counter moisturizer over a prescription moisturizer medical device.”
 
@@ -239,7 +185,7 @@ Situations do, however, arise when an ineffective or harmful treatment is in wid
 
 GRADE aims to make it easier for clinicians and their patients to make well informed decisions in practice, using guidelines as tools for decision support. User testing of GRADE based guidelines underscores the need for optimised presentation and dissemination of guidelines, summary of findings tables, and decision aids, in multilayered formats. Fig 4-28 shows the living WHO guideline on drugs for covid-19. Available online as open access, it shows how interactive infographics can provide an overview of recommendations, with supporting GRADE summary of findings tables, practical considerations, and succinct narrative presentations of evidence to decision issues (refer to user testing infographics).
 
-![Fig 4-28: WHO guideline on drugs for covid-19](assets/images/Fig29.jpg) Fig 4-28: (Left panel) Guideline applying Core GRADE, showing infographic with strong and conditional recommendations for treatments (Right panel) Interactive summary of findings table and other key issues one click away.
+![Fig 4-28: WHO guideline on drugs for covid-19](.gitbook/assets/Fig29.jpg) Fig 4-28: (Left panel) Guideline applying Core GRADE, showing infographic with strong and conditional recommendations for treatments (Right panel) Interactive summary of findings table and other key issues one click away.
 
 Fig 4-26 and Fig 4-27 also show how users can access the full guideline with all relevant information (eg, justification, practical issues) in multilayered formats available online on all devices. For the WHO living guideline, this includes tools for shared decision making, created from GRADE summary of findings tables and adding practical issues (bottom panel in Fig 4-26). This guideline also illustrates an additional challenge of living evidence: dynamic updates of recommendations warrants communicating what is new.
 

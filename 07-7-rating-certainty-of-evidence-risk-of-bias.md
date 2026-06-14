@@ -6,7 +6,7 @@ This section will help you understand how to assess risk of bias in individual s
 
 The information in this section will enable GRADE users to understand the definition of risk of bias, choose appropriate instruments for assessing risk of bias of individual studies, rate risk of bias across the body of evidence by considering the relative contribution of low and high risk of bias studies to the pooled estimate and the similarities or differences in their results, understand the causes of and approaches for detecting publication bias, and make appropriate judgments about when to rate up the certainty of evidence from non-randomized studies of interventions (NRSI, synonym observational studies).
 
-Before starting, we have to begin with a warning and a suggestion. The systematic review community has become aware of the distressing frequency of studies that are completely untrustworthy because of inaccurate reporting of methods or outright fraud. Systematic review authors must therefore consider beginning with a check for such studies. A number of instruments are [available](https://www.medrxiv.org/content/10.1101/2025.09.03.25334905v1) <sup>[\[1\]](https://fairsharing.org/5510)[\[2\]](https://pubmed.ncbi.nlm.nih.gov/39136348/)</sup>. For studies that fail this check and are likely, or highly likely. to be untrustworthy, reviewers should discard them altogether or include them only in a secondary sensitivity analysis.
+Before starting, we have to begin with a warning and a suggestion. The systematic review community has become aware of the distressing frequency of studies that are completely untrustworthy because of inaccurate reporting of methods or outright fraud. Systematic review authors must therefore consider beginning with a check for such studies. A number of instruments are [available](https://www.medrxiv.org/content/10.1101/2025.09.03.25334905v1) [<sup>\[1\]</sup>](https://fairsharing.org/5510)[<sup>\[2\]</sup>](https://pubmed.ncbi.nlm.nih.gov/39136348/). For studies that fail this check and are likely, or highly likely. to be untrustworthy, reviewers should discard them altogether or include them only in a secondary sensitivity analysis.
 
 ## 7.2 What do we mean by risk of bias
 
@@ -22,29 +22,29 @@ Box 1 summarises the risk of bias items that randomised controlled trial risk of
 
 **Most commonly included and important items across various randomised controlled trial risk of bias tools**
 
-- Inadequate generation of random allocation sequence
-- Inadequate concealment of allocation
-- Not blinding participants
-- Not blinding healthcare providers
-- Not blinding data collectors
-- Not blinding outcome assessors
-- Not blinding data analysts
-- Missing outcome data
+* Inadequate generation of random allocation sequence
+* Inadequate concealment of allocation
+* Not blinding participants
+* Not blinding healthcare providers
+* Not blinding data collectors
+* Not blinding outcome assessors
+* Not blinding data analysts
+* Missing outcome data
 
 **Less important items variably captured across randomised controlled trial risk of bias tools**
 
-- Imbalance in co-interventions between groups
-- Difference in outcome assessment or data collection between groups
-- Difference in follow-up time, frequency, or intensity of outcome assessment between groups
-- Deviation from intention-to-treat analysis
-- Selective outcome reporting
-- Early termination for benefit
+* Imbalance in co-interventions between groups
+* Difference in outcome assessment or data collection between groups
+* Difference in follow-up time, frequency, or intensity of outcome assessment between groups
+* Deviation from intention-to-treat analysis
+* Selective outcome reporting
+* Early termination for benefit
 
 Although review authors can choose from one of many instruments that address risk of bias in parallel group randomised controlled [trials](https://pubmed.ncbi.nlm.nih.gov/36424692/), two rigorously developed instruments that address limitations of their predecessors merit particular attention. One, Cochrane's tool for assessing risk of bias in randomised trials, RoB 2, is methodologically sophisticated but has limitations of complexity and difficulty in application. Its sophisticated algorithms and the new terminologies it introduced may contribute to these limitations. Studies have reported low interrater reliability of RoB 2 and challenges in implementation. RoB 2 nevertheless includes features that may appeal to those who want to go beyond Core GRADE.
 
 In contrast, ROBUST-RCT was inspired by the same motivation as Core GRADE: to achieve maximal simplicity without sacrificing methodological [rigour](assets/appendix/22.Beyond%20Core%20GRADE.%20Risk%20of%20bias%20in%20individual%20studies-%20Randomised%20trials-%20Alternative%20approach%20to%20addressing%20missing%20outcome%20data%20.pdf). Strengths of the new instrument include preparatory systematic surveys of existing instruments and of meta-epidemiological studies of risk of bias, and extensive pre-testing with both junior and experienced systematic reviewers.
 
-ROBUST-RCT includes six core items addressing random sequence generation, allocation concealment, blinding of participants, blinding of healthcare providers, blinding of outcome assessors, and missing outcome data, as well as eight optional items. The instrument provides two approaches to addressing missing outcome data. Those who want to go beyond Core GRADE may consider a more sophisticated approach that is beyond Core GRADE [11](assets/appendix/11.Beyond%20Core%20GRADE.%20Rating%20risk%20of%20bias%20across%20bodies%20of%20evidence-%20When%20evidence%20dominated%20by%20high%20risk%20of%20bias%20studies%2C%20Considering%20direction%20of%20bias.pdf) that involves looking across results from all studies (Aleternative approach to assessing missing outcome data).
+ROBUST-RCT includes six core items addressing random sequence generation, allocation concealment, blinding of participants, blinding of healthcare providers, blinding of outcome assessors, and missing outcome data, as well as eight optional items. The instrument provides two approaches to addressing missing outcome data. Those who want to go beyond Core GRADE may consider a more sophisticated approach that is beyond Core GRADE [11](assets/appendix/11.Beyond%20Core%20GRADE.%20Rating%20risk%20of%20bias%20across%20bodies%20of%20evidence-%20When%20evidence%20dominated%20by%20high%20risk%20of%20bias%20studies,%20Considering%20direction%20of%20bias.pdf) that involves looking across results from all studies (Aleternative approach to assessing missing outcome data).
 
 Failure to ensure methodological safeguards may not lead to risk of bias (eg, blinding of participants is irrelevant in a trial enrolling neonates). ROBUST-RCT addresses this issue by including two steps for assessing risk of bias: firstly, evaluating whether a methodological safeguard has been implemented (eg, whether participants were blinded) and, secondly, judging risk of bias (eg, whether a lack of blinding actually increased bias).
 
@@ -60,14 +60,14 @@ When, for a particular outcome, randomised trials do not exist or yield only low
 
 ### Box 2: Risk of bias in non-randomised studies of interventions
 
-- Different eligibility criteria or selection of participants between comparison groups such that prognostic factors for outcomes of interest are differentially distributed in intervention and control groups
-- Inaccurate measurement of interventions
-- Inappropriate measurement of outcome
-- Inadequate control of confounders (prognostic factors for outcomes of interest differentially distributed in intervention and control groups):
-  - Inaccurate measurement of confounders
-  - Inadequate adjustment for confounding
-- Missing outcome data
-- Selective outcome reporting
+* Different eligibility criteria or selection of participants between comparison groups such that prognostic factors for outcomes of interest are differentially distributed in intervention and control groups
+* Inaccurate measurement of interventions
+* Inappropriate measurement of outcome
+* Inadequate control of confounders (prognostic factors for outcomes of interest differentially distributed in intervention and control groups):
+  * Inaccurate measurement of confounders
+  * Inadequate adjustment for confounding
+* Missing outcome data
+* Selective outcome reporting
 
 NRSI include many study designs, of which the most common are cohort and case-control. Cohort studies compare individuals who have received a treatment with those who have not and follow them for the development of the outcomes of interest. Case-control studies identify individuals who have and have not experienced an outcome and then ascertain whether or not they have received the intervention of interest. Box 2 presents key risk of bias issues in NRSI.
 
@@ -89,7 +89,7 @@ For example, a study using a large administrative database including more than 9
 
 The extent of risk of bias in an individual study represents a continuum from minimal to extremely serious risk of bias. For simplicity, however, GRADE users can assess the overall risk of bias in individual studies as low or high. This judgment requires a threshold differentiating the two categories and the acknowledgment of close call situations (Fig 4-17). The arrows in Fig 4-17 are a reminder that risk of bias may be close to a chosen threshold and that close call situations may bear on subsequent decisions.
 
-![Fig 4-17: Judging risk of bias in individual studies](assets/images/Fig18.jpg) Fig 4-17: Judging an individual study as overall high or low risk of bias
+![Fig 4-17: Judging risk of bias in individual studies](.gitbook/assets/Fig18.jpg) Fig 4-17: Judging an individual study as overall high or low risk of bias
 
 For example, consider the outcome of all cause mortality in a randomised controlled trial not using blinding and in which randomisation is concealed, follow-up is complete, and there are no other concerns about risk of bias. The only important source of bias, co-interventions, arises from the lack of blinding of healthcare providers. GRADE users must then consider the likelihood of an important co-intervention that may be highly impactful in one context (eg, a heart failure trial with many potent treatments that may be differentially administered to intervention and control groups) versus low in another context (eg, multiple sclerosis, where few potent co-interventions exist and none have shown an impact on mortality). In the first context for the mortality outcome, GRADE users would be likely to rate down for risk of bias due to lack of blinding, and, in the second, they would be unlikely to do so. One might consider these and other similar situations as close call decisions about rating down randomised controlled trials for risk of bias.
 
@@ -111,11 +111,11 @@ In many systematic reviews, however, authors typically report a figure or table 
 
 The ultimate goal of assessing risk of bias in individual studies is to inform whether to rate down the certainty of evidence across the entire body of evidence. In addressing risk of bias across all studies, GRADE users should follow the steps summarised in Fig 4-18. The flow chart applies to both randomised controlled trials that will start as overall high certainty evidence and NRSI that will start as low certainty evidence. For NRSI, the rating down for risk of bias refers to moving from low to very low certainty evidence.
 
-![Fig 4-18: Flow chart for risk of bias rating](assets/images/Fig19.jpg) Fig 4-18: Flow chart depicting process of considering rating of low or high risk of bias in individual studies to arrive at decision of whether to rate down certainty of evidence for risk of bias. \*Possible thresholds for high risk of bias “dominating”: \>65% weight or ≥55% weight=possibly dominating. †Possible thresholds for appreciable low risk of bias evidence, corresponding to thresholds for high risk of bias dominating, ≥35% or ≥45% weight
+![Fig 4-18: Flow chart for risk of bias rating](.gitbook/assets/Fig19.jpg) Fig 4-18: Flow chart depicting process of considering rating of low or high risk of bias in individual studies to arrive at decision of whether to rate down certainty of evidence for risk of bias. \*Possible thresholds for high risk of bias “dominating”: >65% weight or ≥55% weight=possibly dominating. †Possible thresholds for appreciable low risk of bias evidence, corresponding to thresholds for high risk of bias dominating, ≥35% or ≥45% weight
 
-Firstly, systematic reviewers need to determine if high risk of bias studies dominate the body of evidence—that is, they carry substantially more weight than low risk of bias studies. If that is the case, GRADE users should pool results from all studies and rate down the certainty of evidence for risk of bias. We would conclude that high risk of bias studies dominate considering possible thresholds of weight in the meta-analysis of \>65% or ≥55% of the weight.
+Firstly, systematic reviewers need to determine if high risk of bias studies dominate the body of evidence—that is, they carry substantially more weight than low risk of bias studies. If that is the case, GRADE users should pool results from all studies and rate down the certainty of evidence for risk of bias. We would conclude that high risk of bias studies dominate considering possible thresholds of weight in the meta-analysis of >65% or ≥55% of the weight.
 
-If indeed high risk of bias studies dominate, before rating down for high risk of bias dominating the evidence, GRADE users may consider the direction of bias (When evidence dominated by high risk of bias studies consider direction of [bias](assets/appendix/11.Beyond%20Core%20GRADE.%20Rating%20risk%20of%20bias%20across%20bodies%20of%20evidence-%20When%20evidence%20dominated%20by%20high%20risk%20of%20bias%20studies%2C%20Considering%20direction%20of%20bias.pdf)). This may obviate the need for rating down. However, we consider this complex consideration beyond Core GRADE.
+If indeed high risk of bias studies dominate, before rating down for high risk of bias dominating the evidence, GRADE users may consider the direction of bias (When evidence dominated by high risk of bias studies consider direction of [bias](assets/appendix/11.Beyond%20Core%20GRADE.%20Rating%20risk%20of%20bias%20across%20bodies%20of%20evidence-%20When%20evidence%20dominated%20by%20high%20risk%20of%20bias%20studies,%20Considering%20direction%20of%20bias.pdf)). This may obviate the need for rating down. However, we consider this complex consideration beyond Core GRADE.
 
 Consider now the following examples of systematic reviews in which, for a particular outcome, high risk of bias studies dominated the evidence. A systematic review compared the addition of azithromycin to scaling and root planing versus not adding azithromycin in patients with chronic [periodontitis](https://doi.org/10.1002/14651858.CD012568.pub2). For bleeding on probing within three months, of the four relevant trials the only low risk of bias trial enrolled only 28 patients and reported a mean difference in proportion of sites that bled of 5.43. The 95% confidence interval (CI) was very wide (−8.96 to 19.82), including substantial benefit but also large harm: the study carried 15% of the weight in the analysis. The authors therefore included both the single low and the three high risk of bias trials that carried 85% of the weight and calculated a pooled estimate of −6.65 (95% CI −10.41 to −2.89), indicating benefit of azithromycin. Because of the dominant evidence from the high risk of bias studies and the corresponding sparse evidence from the single low risk of bias trial, after considering direction of bias the authors appropriately rated certainty down for risk of bias.
 

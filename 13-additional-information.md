@@ -12,7 +12,7 @@
 
 [Choosing between random effects and fixed effect models](assets/appendix/6.First%20step%20in%20certainty%20assessment-%20Choosing%20between%20random%20effects%20and%20fixed%20effect%20models.pdf)
 
-[Rating down (or not) for imprecision: Challenges and possible solution when one targets the null and the point estimate turns out to be very close to the null](assets/appendix/7.Rating%20down%20%28or%20not%29%20for%20imprecision.%20Challenges%20and%20possible%20solution%20when%20one%20targets%20the%20null%20and%20the%20point%20estimate%20turns%20out%20to%20be%20very%20close%20to%20the%20null.pdf)
+[Rating down (or not) for imprecision: Challenges and possible solution when one targets the null and the point estimate turns out to be very close to the null](assets/appendix/7.Rating%20down%20\(or%20not\)%20for%20imprecision.%20Challenges%20and%20possible%20solution%20when%20one%20targets%20the%20null%20and%20the%20point%20estimate%20turns%20out%20to%20be%20very%20close%20to%20the%20null.pdf)
 
 [Rating down for imprecision when effects are large: Assessing imprecision in the context of a large effect](assets/appendix/8.Rating%20down%20for%20imprecision%20when%20effects%20are%20large-%20Assessing%20imprecision%20in%20the%20context%20of%20a%20large%20effect%20.pdf)
 
@@ -20,13 +20,13 @@
 
 [Criteria for judging the credibility of subgroup effects: Using ICEMAN to assess McAlister](assets/appendix/10.Criteria%20for%20judging%20the%20credibility%20of%20subgroup%20effects-%20Using%20ICEMAN%20to%20assess%20McAlister%20.pdf)
 
-[Beyond Core GRADE: Rating risk of bias across bodies of evidence](assets/appendix/11.Beyond%20Core%20GRADE.%20Rating%20risk%20of%20bias%20across%20bodies%20of%20evidence-%20When%20evidence%20dominated%20by%20high%20risk%20of%20bias%20studies%2C%20Considering%20direction%20of%20bias.pdf)
+[Beyond Core GRADE: Rating risk of bias across bodies of evidence](assets/appendix/11.Beyond%20Core%20GRADE.%20Rating%20risk%20of%20bias%20across%20bodies%20of%20evidence-%20When%20evidence%20dominated%20by%20high%20risk%20of%20bias%20studies,%20Considering%20direction%20of%20bias.pdf)
 
 [Panel survey approach for eliciting guideline panelists' views on the minimally important difference for patients](assets/appendix/12.Evidence%20to%20Decospm-%20An%20example%20of%20an%20innovative%20panel%20survey%20approach%20for%20eliciting%20guideline%20panelists%E2%80%99%20views%20on%20the%20minimally%20important%20difference%20for%20patients.pdf)
 
 [Evidence to decision: Experience with the panel survey approach to establishing MIDs](assets/appendix/13.Evidence%20to%20decision-%20Experience%20with%20the%20panel%20survey%20approach%20to%20establishing%20MIDs.pdf)
 
-[Examples of appropriate strong recommendations based on low certainty evidence](assets/appendix/14.Evudebce%20ti%20decision-%20Examples%20of%20appropriate%20strong%20recommendations%20based%20on%20low%20certainty%20evidence%5B1%5D.pdf)
+[Examples of appropriate strong recommendations based on low certainty evidence](assets/appendix/14.Evudebce%20ti%20decision-%20Examples%20of%20appropriate%20strong%20recommendations%20based%20on%20low%20certainty%20evidence\[1].pdf)
 
 [Example of a structured evidence to decision framework](assets/appendix/15.Evidence%20to%20Decision-%20Example%20of%20a%20Structured%20Evidence-to-Decision%20framework.pdf)
 
@@ -34,7 +34,7 @@
 
 [Including practical issues in SoFs](assets/appendix/17.summary%20of%20Findings-%20Practical%20issues%20presentations%20including%20in%20SoF.pdf)
 
-[Calculating and presenting absolute measures of effect: Directly calculating risk differences](assets/appendix/18.Summary%20of%20Fiindings-%20Calculating%20and%20presenting%20absolute%20measures%20of%20effect%20-%20Directly%20calculating%20risk%20differences%5B1%5D.pdf)
+[Calculating and presenting absolute measures of effect: Directly calculating risk differences](assets/appendix/18.Summary%20of%20Fiindings-%20Calculating%20and%20presenting%20absolute%20measures%20of%20effect%20-%20Directly%20calculating%20risk%20differences\[1].pdf)
 
 [Calculating absolute effects based on baseline risk and relative effects](assets/appendix/19.Summary%20of%20FindingsL%20Calculating%20absolute%20effect%20based%20on%20baseline%20risk%20and%20relative%20effect.pdf)
 
