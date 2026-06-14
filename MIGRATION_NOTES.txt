@@ -1,0 +1,7 @@
+# Migration Notes
+
+- Source: Core-GRADE-guide-main/index.html
+- Generated Markdown pages: 15
+- Copied assets into assets/images, assets/appendix, assets/ris, and assets/videos.
+- Uploaded MP4 files may not embed directly in GitBook. Replace video links with public YouTube/Vimeo/Drive URLs if embedded playback is required.
+- Existing JavaScript-only interactions such as popups, resize handles, and expand/collapse controls were converted to static document content.

@@ -1,0 +1,22 @@
+# The Essentials of GRADE for Comparisons of Two Healthcare Strategies: Core GRADE
+
+Core GRADE content migrated from the original GitHub Pages site into a GitBook-ready documentation structure.
+
+Use the sidebar to move between chapters. Each chapter page keeps its internal section headings for quick navigation in GitBook.
+
+## Chapters
+
+- [1 Introductory Material](01-1-introductory-material.md)
+- [2 Overview of Core GRADE](02-2-overview-of-core-grade.md)
+- [3 Planning the Systematic Review](03-3-planning-the-systematic-review.md)
+- [4 The First Step in Assessing Certainty: Choosing a Target of Certainty Rating](04-4-the-first-step-in-assessing-certainty-choosing-a-target-of-certainty-rating.md)
+- [5 Rating certainty of evidence: imprecision](05-5-rating-certainty-of-evidence-imprecision.md)
+- [6 Rating certainty of evidence: Inconsistency](06-6-rating-certainty-of-evidence-inconsistency.md)
+- [7 Rating Certainty of Evidence: Risk of Bias](07-7-rating-certainty-of-evidence-risk-of-bias.md)
+- [8 Rating Certainty of Evidence: Indirectness](08-8-rating-certainty-of-evidence-indirectness.md)
+- [9 Publication Bias](09-9-publication-bias.md)
+- [10 Rating up certainty of evidence](10-10-rating-up-certainty-of-evidence.md)
+- [11 Presenting the evidence in summary of findings tables](11-11-presenting-the-evidence-in-summary-of-findings-tables.md)
+- [12 Moving from evidence to decisions](12-12-moving-from-evidence-to-decisions.md)
+- [Additional information](13-additional-information.md)
+- [Additional Resources](resources-and-references.md)
