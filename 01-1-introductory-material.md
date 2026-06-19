@@ -4,7 +4,7 @@
 
 Core GRADE provides a distillation of all that is essential from prior GRADE guidance to produce rigorous GRADE applications to systematic reviews, clinical practice guidelines, and health technology assessments (HTA). In other words: if you wish to use GRADE to create a review, a guideline, or an HTA for paired comparisons of healthcare strategies, this is the only place you have to look.
 
-Core GRADE also includes refinements, all of which are simplifications, clarifications, or presentations that [enhance the clarity and ease of GRADE use. ](https://pubmed.ncbi.nlm.nih.gov/41207400/)Key innovations include an emphasis on viewing both individual GRADE domains and overall certainty as continua; clarification of decisions related to addressing potential relative and absolute subgroup effects when formulating patient/intervention/comparator/outcome (PICO) questions; and, most important, the use of flow charts and algorithms to guide GRADE implementation.
+Core GRADE also includes refinements, all of which are simplifications, clarifications, or presentations that [enhance the clarity and ease of GRADE use](https://pubmed.ncbi.nlm.nih.gov/41207400/). Key innovations include an emphasis on viewing both individual GRADE domains and overall certainty as continua; clarification of decisions related to addressing potential relative and absolute subgroup effects when formulating patient/intervention/comparator/outcome (PICO) questions; and, most important, the use of flow charts and algorithms to guide GRADE implementation.
 
 Finally, Core GRADE includes many examples, and quite a few appendices. Most of the appendices provide additional illustrative examples of material in the text. On occasion, they present extensions that go beyond Core GRADE. We include these primarily for readers who may be wondering about how we see more complex guidance that the Core does not include.
 
@@ -20,7 +20,9 @@ We created Core GRADE in response to the need for a concise, well organised expo
 
 The authors of Core GRADE, who included those primarily responsible for the key papers in the original Journal of Clinical Epidemiology series, began by identifying and reviewing in detail all prior GRADE guidance. These included papers published under the auspices of the GRADE working group and other guidance published by GRADE experts. For each item of guidance, we asked ourselves: is this guidance necessary to make sound judgments on certainty of evidence and direction and strength of recommendations. If the answer to the question was no, you won’t find the item in Core GRADE. Core GRADE thus includes all the essentials for paired comparisons of healthcare strategies from prior GRADE writings, and nothing beyond the essentials, however elegant or sophisticated.
 
-Some have raised questions about whether Core GRADE is really GRADE. The process by which we developed the Core demonstrates that nothing could be more GRADE than the Core - as this one minute video illustrates:&#x20;
+Some have raised questions about whether Core GRADE is really GRADE. The process by which we developed the Core demonstrates that nothing could be more GRADE than the Core - as this one minute video illustrates:
+
+{% embed url="https://vimeo.com/1151358052" %}
 
 {% embed url="https://vimeo.com/1151358052" %}
 
@@ -38,7 +40,7 @@ ICEMAN for assessing the certainty of subgroup analysis: The only formally struc
 
 ## 1.5 Organizational partnerships
 
-Core GRADE is a creation of its authors in partnership with the [MAGIC Evidence Ecosystem Foundation](https://magicevidence.org/) a non-profit organization promoting high-value, low-waste healthcare via a digital ecosystem of trustworthy guidelines, evidence summaries, and decision aids. In producing the Core GRADE website, we have also worked in partnership with McMaster University; McMaster is hosting this website.
+Core GRADE is a creation of its authors in partnership with the [MAGIC Evidence Ecosystem Foundation ](https://magicevidence.org/)a non-profit organization promoting high-value, low-waste healthcare via a digital ecosystem of trustworthy guidelines, evidence summaries, and decision aids. In producing the Core GRADE website, we have also worked in partnership with McMaster University; McMaster is hosting this website.
 
 Feedback Core GRADE is a process in evolution. We welcome feedback, particularly in how we can improve Core GRADE. Whatever you find unclear, too complicated, unnecessary, or could be better expressed please let us know. Just send an email to guyatt@mcmaster.ca
 
