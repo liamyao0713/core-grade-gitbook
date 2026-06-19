@@ -24,7 +24,7 @@ The panel recognized that time frame decisions also applied to the duration of t
 
 Core GRADE users will initially identify all outcomes that are potentially important to patients and subsequently decide on those of sufficient importance to consider further. Guideline panels may undertake a structured process to rate the importance of potentially relevant outcomes. In doing so, they will adopt the perspective of the population to which the guideline applies and may use a 9 point scale, with ratings of 7 to 9 representing critical outcomes, 4 to 6 representing important but not critical outcomes, and 1 to 3 representing unimportant outcomes. Ideally, if resources permit and they anticipate finding useful information, they would make this rating informed by a systematic review of patient values and preferences. Once again if resources permit, they may conduct a focus group of [relevant patients](https://pubmed.ncbi.nlm.nih.gov/28620968/).
 
-In the hypothetical guideline depicted in figure 1, panelists identified six outcomes of potential relevance, of which they judged two as critically important, two as important, and two as not important. They would give no further attention to the two outcomes considered not important while continuing to consider the other four. Outcomes of importance can differ across the stages of an illness. For example, an Infectious Diseases Society of America guideline panel addressing patients admitted to hospital with covid-19 considered the most important outcomes (those GRADE labels as critical) as mortality, need for invasive mechanical ventilation, and duration of hospital stay. For outpatients with covid-19, the panel considered hospital admission as a critical outcome. For patients receiving pre-exposure or postexposure prophylaxis, critical outcomes included measures of symptomatic covid-19. Another crucial problem in considering outcomes is the relevant time frame: days, months, or years and, whatever chosen, how many?
+In the hypothetical guideline depicted in figure 1, panelists identified six outcomes of potential relevance, of which they judged two as critically important, two as important, and two as not important. They would give no further attention to the two outcomes considered not important while continuing to consider the other four. Outcomes of importance can differ across the stages of an illness. For example, an Infectious Diseases Society of America guideline panel addressing patients admitted to hospital with covid-19 considered the most important outcomes (those GRADE labels as critical) as mortality, need for invasive mechanical ventilation, and duration of hospital stay. For outpatients with covid-19, the panel considered hospital admission as a critical outcome. For patients receiving pre-exposure or post-exposure prophylaxis, critical outcomes included measures of symptomatic covid-19. Another crucial problem in considering outcomes is the relevant time frame: days, months, or years and, whatever chosen, how many?
 
 In the WHO sepsis guideline, for all the wide variety of interventions under consideration (eg, corticosteroids, inotropes, different starting times for antibiotics) and outcomes (eg, mortality, adverse effects of treatment, functional recovery), the panel considered several alternatives: during hospital admission, the first month after hospital admission, or a considerably longer time frame (eg, six months). The panel decided on the 28 days after hospital admission as the primary duration of interest and six months as a secondary duration.
 
@@ -54,53 +54,14 @@ Ideally, panels and review teams will specify a small number (≤3) of relative 
 
 In an example adapted from WHO’s living guideline for [covid-19 therapeutics](https://iris.who.int/handle/10665/365584), when making recommendations for nirmatrelvir-ritonavir in patients with non-severe covid-19, the guideline panel postulated both possible absolute effects and possible relative differences between populations (Table 3-1). For each postulated effect, the WHO panel made the direction of effect explicit, hypothesising for instance that the effect of treatment would diminish if the administration of the intervention were delayed.
 
-<table>
-<caption>Table 3-1: Formulating the PICO question for using nirmatrelvir-ritonavir in patients with non-severe covid-19, including differences in both baseline risks and relative risks between patient groups. Adapted from World Health Organization¹⁴</caption>
-<colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
-</colgroup>
-<thead>
-<tr>
-<th>PICO and group specification</th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Population</strong></td>
-<td>Patients with non-severe confirmed covid-19 (according to WHO severity definitions)</td>
-</tr>
-<tr>
-<td><strong>Intervention</strong></td>
-<td>Nirmatrelvir-ritonavir+standard care</td>
-</tr>
-<tr>
-<td><strong>Comparison</strong></td>
-<td>Standard care</td>
-</tr>
-<tr>
-<td><strong>Outcome</strong></td>
-<td>Hospital admission, mortality, mechanical ventilation, adverse effects leading to drug discontinuation, time to symptom resolution</td>
-</tr>
-<tr>
-<td><strong>Groups with possible varying baseline risk<br />
-(prognostic factors expected to lead to differences in baseline risk)</strong></td>
-<td>Likely determinants of baseline risk:<br />
-• Larger baseline risk in immunocompromised patients or those with chronic disease<br />
-• Larger baseline risk in those with negative serology results<br />
-• Larger baseline risk in unvaccinated people</td>
-</tr>
-<tr>
-<td><strong>Groups with possible varying relative risk<br />
-(differences in effect in different patient groups)</strong></td>
-<td>Candidate effect modifiers:<br />
-• Larger beneficial relative effects of the intervention in those with shorter time from symptom onset<br />
-• Larger beneficial effects in those with negative serology results<br />
-• Larger beneficial effects in unvaccinated people</td>
-</tr>
-</tbody>
-</table>
+| PICO and group specification                                                                                                                                 |                                                                                                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Population**                                                                                                                                               | Patients with non-severe confirmed covid-19 (according to WHO severity definitions)                                                                                                                                                                                       |
+| **Intervention**                                                                                                                                             | Nirmatrelvir-ritonavir+standard care                                                                                                                                                                                                                                      |
+| **Comparison**                                                                                                                                               | Standard care                                                                                                                                                                                                                                                             |
+| **Outcome**                                                                                                                                                  | Hospital admission, mortality, mechanical ventilation, adverse effects leading to drug discontinuation, time to symptom resolution                                                                                                                                        |
+| <p><strong>Groups with possible varying baseline risk</strong><br><strong>(prognostic factors expected to lead to differences in baseline risk)</strong></p> | <p>Likely determinants of baseline risk:<br>• Larger baseline risk in immunocompromised patients or those with chronic disease<br>• Larger baseline risk in those with negative serology results<br>• Larger baseline risk in unvaccinated people</p>                     |
+| <p><strong>Groups with possible varying relative risk</strong><br><strong>(differences in effect in different patient groups)</strong></p>                   | <p>Candidate effect modifiers:<br>• Larger beneficial relative effects of the intervention in those with shorter time from symptom onset<br>• Larger beneficial effects in those with negative serology results<br>• Larger beneficial effects in unvaccinated people</p> |
 
 PICO=population, intervention, comparison, and outcome.
 

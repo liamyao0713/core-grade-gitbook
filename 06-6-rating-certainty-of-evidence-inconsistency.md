@@ -12,13 +12,13 @@ This, however, is rarely the case. Indeed, if effects are similar from study to 
 
 ### Binary outcomes: variability in relative versus absolute effects
 
-As we have previously pointed out, relative treatment effects seldom vary across patient subgroups such as old and young, male and female, or less sick and more sick. However, given that such patient characteristics are often associated with substantial differences in baseline risk (ie, probability of experiencing the outcome in the comparator group), even in the presence of constant relative treatment effects across such patient groups, the resulting absolute treatment effects will differ substantially. The hypothetical example in Fig 4-13 illustrates the situation. Here, the relative risk reduction is constant, at 33%, across low, medium and high risk groups. Because of the substantial differences in baseline risk, the risk difference between treated and untreated patients varies substantially, from 10% in high risk patients to 1% in low risk patients.
+As we have previously pointed out, relative treatment effects seldom vary across patient subgroups such as old and young, male and female, or less sick and more sick. However, given that such patient characteristics are often associated with substantial differences in baseline risk (ie, probability of experiencing the outcome in the comparator group), even in the presence of constant relative treatment effects across such patient groups, the resulting absolute treatment effects will differ substantially. The hypothetical example in Fig 6-1 illustrates the situation. Here, the relative risk reduction is constant, at 33%, across low, medium and high risk groups. Because of the substantial differences in baseline risk, the risk difference between treated and untreated patients varies substantially, from 10% in high risk patients to 1% in low risk patients.
 
-<img src=".gitbook/assets/Fig14.jpg" alt="Fig 4-13: Constant relative risk with varying baseline risks" width="100%" />
+<img src=".gitbook/assets/Fig14.jpg" alt="" width="100%">
 
-Fig 4-13: Constant relative risk with varying baseline riks, leading ot varying reduction in absolulute risks. In each population, the larger event rate represents the control (baseline risk, blue bars) and the smaller event rate the intervention (orange bars)
+Fig 6-1: Constant relative risk with varying baseline riks, leading ot varying reduction in absolulute risks. In each population, the larger event rate represents the control (baseline risk, blue bars) and the smaller event rate the intervention (orange bars)
 
-Despite risk differences being more important to patients than relative risks, authors of randomised trials and meta-analyses typically highlight relative rather than absolute effects. They do so because of the typical consistency in relative risks and the expected variability in risk differences (Fig 4-13). Greater consistency in results is desirable: it increases confidence in the pooled estimates of effect. Thus, the anticipated consistency of relative effects and variability of absolute effects is the reason why, in GRADE summary of findings tables, authors estimate risk differences in each relevant patient group by applying relative risks to baseline risks, and why guideline authors may offer different treatment recommendations for individuals at low, medium, and high risk. Finally, because inconsistency in absolute effects is ubiquitous and inconsistency in relative effects is rare, we are concerned with inconsistency in relative rather than absolute effects.
+Despite risk differences being more important to patients than relative risks, authors of randomised trials and meta-analyses typically highlight relative rather than absolute effects. They do so because of the typical consistency in relative risks and the expected variability in risk differences (Fig 6-1). Greater consistency in results is desirable: it increases confidence in the pooled estimates of effect. Thus, the anticipated consistency of relative effects and variability of absolute effects is the reason why, in GRADE summary of findings tables, authors estimate risk differences in each relevant patient group by applying relative risks to baseline risks, and why guideline authors may offer different treatment recommendations for individuals at low, medium, and high risk. Finally, because inconsistency in absolute effects is ubiquitous and inconsistency in relative effects is rare, we are concerned with inconsistency in relative rather than absolute effects.
 
 ### Continuous outcomes
 
@@ -40,7 +40,7 @@ Take, for example, two different age groups: young and old. The following are th
 
 3.Previous research plausibly suggests that effects differ between old and young people, but one is uncertain. One would then choose a broad age range in the PICO and conduct subgroup analysis or meta-regression to explore the possible impact of differences in age.
 
-Table 4-2 summarises the three scenarios when considering subgroups during PICO construction, and provides examples of each.
+Table 6-1 summarises the three scenarios when considering subgroups during PICO construction, and provides examples of each.
 
 | Scenario                                                                                                                                                         | Implications for PICO construction                                                                                            | Example                                                                                                                                                                                                                                                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -48,7 +48,7 @@ Table 4-2 summarises the three scenarios when considering subgroups during PICO 
 | **2.** Previous research suggests that effects differ across patient or intervention subgroups (subgroup effects are presumed to exist)                          | Narrow PICO to one subgroup, or construct two separate PICOs for each subgroup                                                | A guideline panel addressing optimal transfusion thresholds in anaemic patients considered that the biology differed between children and adults and therefore looked at the evidence separately and provided separate recommendations¹¹                                                                                                                                                   |
 | **3.** Previous research plausibly suggests that effects differ across patient or intervention subgroups, but one is uncertain (directional subgroup hypothesis) | Initially combine all subgroups (single estimate of effect), but also provide and then test a directional subgroup hypothesis | A systematic review comparing immediate versus delayed antiretroviral therapy in patients with a concomitant diagnosis of HIV and tuberculosis tested whether the impact of early versus delayed treatment on mortality differed between those with higher and lower CD4 cell counts.¹² A previous trial suggested that hypothesis, including a clear direction, but for another outcome¹³ |
 
-Table 4-2: Three scenarios when considering subgroups during PICO construction
+Table 6-1: Three scenarios when considering subgroups during PICO construction
 
 PICO=population, intervention, comparison, and outcome.
 
@@ -68,19 +68,19 @@ The ability to predict the direction of a subgroup effect provides a useful crit
 
 ## 6.6 Criteria for judging serious inconsistency
 
-Having addressed how Core GRADE users should plan for dealing with inconsistency in results, we ill now address how they will implement their plan (see Fig 4-14). In the three following sections we describe how GRADE users can determine whether inconsistency is of sufficient concern to consider rating down for inconsistency. If they do find important inconsistency, they should look to their a priori hypotheses to see if they can explain that inconsistency—a process that will include rating the credibility of any possible subgroup effects they identify. A subsequent section deals with this issue of subgroup explanations of variability in results. If only one eligible study exists, GRADE users will not rate down for inconsistency, although if the authors provide the data then they may still address the possibility of subgroup effects.
+Having addressed how Core GRADE users should plan for dealing with inconsistency in results, we ill now address how they will implement their plan (see Fig 6-2). In the three following sections we describe how GRADE users can determine whether inconsistency is of sufficient concern to consider rating down for inconsistency. If they do find important inconsistency, they should look to their a priori hypotheses to see if they can explain that inconsistency—a process that will include rating the credibility of any possible subgroup effects they identify. A subsequent section deals with this issue of subgroup explanations of variability in results. If only one eligible study exists, GRADE users will not rate down for inconsistency, although if the authors provide the data then they may still address the possibility of subgroup effects.
 
-<img src=".gitbook/assets/Fig15.jpg" alt="Fig 4-14: GRADE approach to addressing inconsistency" width="100%" />
+<img src=".gitbook/assets/Fig15.jpg" alt="" width="100%">
 
-Fig 4-14: Flow chart summarizing GRADE’s approach to addressing inconsistency in results
+Fig 6-2: Flow chart summarizing GRADE’s approach to addressing inconsistency in results
 
 ## 6.7 Three visual criteria from forest plots
 
-Consider the hypothetical body of evidence in Fig 4-15. When considering whether studies yield similar or different results, most observers of these forest plots will quickly conclude that results in the top half ofthe figure are consistent whereas results in the bottom half are inconsistent. Aspects of the results that justify these inferences are similarity versus differences in point estimates, the extent of overlap in confidence intervals (CIs), and the relation of point estimates to the threshold of certainty rating.
+Consider the hypothetical body of evidence in Fig 6-3. When considering whether studies yield similar or different results, most observers of these forest plots will quickly conclude that results in the top half ofthe figure are consistent whereas results in the bottom half are inconsistent. Aspects of the results that justify these inferences are similarity versus differences in point estimates, the extent of overlap in confidence intervals (CIs), and the relation of point estimates to the threshold of certainty rating.
 
-<img src=".gitbook/assets/Fig16.jpg" alt="Fig 4-15: Consistent and inconsistent forest plots" width="100%" />
+<img src=".gitbook/assets/Fig16.jpg" alt="" width="100%">
 
-Fig 4-15: Forest plots of consistent and inconsistent results from four randomized trials with similar pooled estimates. The broken line represent the minimal important difference.
+Fig 6-3: Forest plots of consistent and inconsistent results from four randomized trials with similar pooled estimates. The broken line represent the minimal important difference.
 
 Point estimates—One is more inclined to consider rating down for inconsistency when point estimates differ substantially between studies. In figure 15, the point estimates in the top half of the figure are similar, ranging from 0.71 to 0.76. The similarity in the point estimates suggests no need to consider rating down for inconsistency. In contrast, in the bottom half of Fig 4-15, two studies suggest substantial treatment effects—relative risk reductions >50%—and two other studies suggest modest harms, 17% and 25% increases in relative risk. The large differences in the point estimates of the two pairs of studies suggest rating down for inconsistency.
 
@@ -94,15 +94,15 @@ While, as here, we may initially assess inconsistency using relative risks, GRAD
 
 ## 6.8 Applying visual criteria: how choice of threshold affects judgments of inconsistency
 
-The three key criteria for judging inconsistency— similarity of point estimates, overlapping of CIs, and relation of results to the chosen threshold for rating certainty—apply equally well to continuous outcomes. Consider Fig 4-16, which depicts the results of a meta-analysis evaluating the impact of local infiltration analgesia on postoperative pain in patients after total knee arthroplasty (adapted from a figure we used in a previous GRADE article to illustrate these criteria).14 1
+The three key criteria for judging inconsistency— similarity of point estimates, overlapping of CIs, and relation of results to the chosen threshold for rating certainty—apply equally well to continuous outcomes. Consider Fig 6-4, which depicts the results of a meta-analysis evaluating the impact of local infiltration analgesia on postoperative pain in patients after total knee arthroplasty (adapted from a figure we used in a previous GRADE article to illustrate these criteria).
 
 Consider the appropriate inference if authors of the systematic review of this evidence chose to rate their certainty with respect to the null. The pooled estimate clearly excludes the null, and the point estimates of all but one study support that inference. Thus, there is no reason to rate down for inconsistency.
 
 However, consider if the review authors chose to rate their certainty with respect to the MID and selected a value of 10 mm. Now, five studies show values below the threshold and eight at or above the threshold. This inconsistency undermines the inference of an important effect suggested by the pooled estimate (14 mm) and would warrant rating down for inconsistency. Although this example highlights how GRADE users should attend to the relation of point estimates to the threshold of certainty rating, when point estimates differ substantially and CIs do not overlap, they will seldom find compelling reason to invoke this additional criterion.
 
-<img src=".gitbook/assets/Fig17.jpg" alt="Fig 4-16: Forest plot of local infiltration analgesia" width="100%" />
+<img src=".gitbook/assets/Fig17.jpg" alt="" width="100%">
 
-Fig 4-16: Forest plot from a systematic review of the impact of local infiltration analgesia on postoperative tain after total knee arthroplasty. The broken line represenents an estimate o the minimal important difference in patn score (10 mm visual analogue scale.
+Fig 6-4: Forest plot from a systematic review of the impact of local infiltration analgesia on postoperative tain after total knee arthroplasty. The broken line represents an estimate o the minimal important difference in pain score (10 mm visual analogue scale.
 
 ## 6.9 One criterion for statistical assessment
 

@@ -2,7 +2,7 @@
 
 GRADE's certainty rating represents confidence that the true effect lies on one side of a chosen threshold (such as an important difference) or in a particular range (such as a small effect). GRADE offers a four-category system of rating certainty as high, moderate, low, and very low. Although GRADE certainty ratings rely on evaluation of individual studies, they refer to the entire body of evidence addressing a particular outcome rather than those individual studies.
 
-<img src=".gitbook/assets/Fig2.jpg" alt="Fig 4-1: GRADE approach to rating certainty of evidence" width="100%" />
+![](.gitbook/assets/Fig2.jpg)
 
 Fig 4-1: GRADE approach to rating certainty of evidence in intervention effects
 
@@ -12,13 +12,13 @@ Previous GRADE guidance that included the possibility of rating up as a result o
 
 Although GRADE has divided certainty of evidence into four categories, certainty is actually a continuum. As a result, one may, when rating is near a cut-off point between categories, have disagreements about certainty when judgments are in fact similar (fig 3).
 
-<img src=".gitbook/assets/Fig3.jpg" alt="Fig 4-2: Certainty of evidence continuum" width="100%" />
+![](.gitbook/assets/Fig3.jpg)
 
 Fig 4-2: Certainty of evidence is a continuum that GRADE divides into four categories. Making judgments about rating down certainty when near a cut-off point (arrows) can lead to differences in judgments when certainty is similar
 
 In terms of ratings near a cut-off point, the same phenomenon can occur when deciding whether to rate down in any one domain. Ratings may be near the cut-off point between no serious and serious concerns (potentially mandating rating down one level) or between serious and very serious (potentially rating down two levels) (fig 4).
 
-<img src=".gitbook/assets/Fig4.jpg" alt="Fig 4-3: Factors for rating down or up certainty" width="100%" />
+![](.gitbook/assets/Fig4.jpg)
 
 Fig 4-3: Each factor for rating down or rating up certainty of evidence in GRADE reflects a continuum. Arrows represent choices near the cut-off points and thus represent apparent disagreement but true agreement
 
@@ -36,17 +36,17 @@ When assessing the effect of an intervention, the primary interest is whether it
 
 The focus of Core GRADE is on these two questions: whether there is an effect compared with the alternative (ie, using the null as a threshold) and whether the effect is large enough to be important for patients (ie, using the MID as a threshold) (Fig 4-4). Use of additional thresholds of moderate and large effects has proved challenging for GRADE users and in our judgment does not provide important incremental value in making sound and optimally useful ratings of certainty. Nevertheless, those who wish to go beyond Core GRADE may wish to consider judgments of small, moderate, and large effects ([imprecision rating for ranges of effects](https://cdn.jsdelivr.net/gh/liamyao0713/core-grade-gitbook@main/assets/appendix/4.Beyond%20Core%20GRADE-%20First%20step%20in%20assessing%20certainty-%20Imprecision%20rating%20for%20ranges%20of%20effect%20.pdf)).
 
-<img src=".gitbook/assets/Fig5.jpg" alt="Fig 4-4: Thresholds and ranges for rating certainty" width="100%" />
+<img src=".gitbook/assets/Fig5.jpg" alt="" width="100%">
 
 Fig 4-4: Thresholds and ranges for rating certainty of evidence in Core GRADE. Besides the Core GRADE thresholdsof null effect and M1D,two other thresholds may be considered-the moderate effect threshold that demarcatessmall versus moderate effects, and the large effect threshold that demarcates moderate versus large effects.GRADE=Grading of Recommendations Assessment, Development and Evaluation; MID-minimal important difference.
 
-<img src=".gitbook/assets/Fig6.jpg" alt="Fig 4-5: Thresholds and ranges for rating certainty" width="100%" />
+<img src=".gitbook/assets/Fig6.jpg" alt="" width="100%">
 
 Fig 4-5: Thresholds and ranges for rating certainty of evidence in Core GRADE. Besides the Core GRADE thresholds of null effect and MID, reviewers may consider two other thresholds —the moderate effect threshold that demarcates small versus moderate effects, and the large effect threshold that demarcates moderate versus large effects.
 
 Deciding what it is in which we are rating our certainty requires (ie deciding on the target of the certainty rating) involves three steps. For the first step, GRADE users decide if they are interested in whether an effect is or is not important, or whether a true underlying effect compared with the alternative exists.
 
-<img src=".gitbook/assets/Fig7.jpg" alt="Fig 4-6: GRADE steps for deciding target of certainty rating" width="100%" />
+<img src=".gitbook/assets/Fig7.jpg" alt="" width="100%">
 
 Fig 4-6: GRADE steps for deciding target of certainty rating.
 
@@ -64,8 +64,8 @@ Later, we address in some detail the issues of choosing MIDs for key outcomes. I
 
 For several reasons, the null represents a potentially attractive alternative threshold to the MID in systematic reviews. Evidence on the distribution of values and preferences in the population population of interest is typically limited, making inferences about the MID challenging. Furthermore, systematic review authors may not see their mandate as including the search and interpretation of relevant evidence about MIDs. Finally, systematic review authors may want to leave the value judgments involved in choosing specific MIDs to HTA and guideline practitioners who typically consult a wider group of individuals, and often in a structured way.Indeed, in current practice systematic review authors using GRADE choose the null and MID thresholds with equal frequency.
 
-If GRADE users have chosen the null they will, based on where the point estimate falls in relation to the null, typically rate certainty that a true beneficial or a harmful effect exists. If, however, the point estimate is near the null, because the intuitive inference in such situations is that the true effect represents little to no difference between intervention and control, they will rate their certainty in an unimportant effect ((b) in Fig 4-7). So, although choosing the null usually avoids specifying MIDs, it will not always do so. [Appendix 7 issue](<https://cdn.jsdelivr.net/gh/liamyao0713/core-grade-gitbook@main/assets/appendix/7.Rating%20down%20%28or%20not%29%20for%20imprecision.%20Challenges%20and%20possible%20solution%20when%20one%20targets%20the%20null%20and%20the%20point%20estimate%20turns%20out%20to%20be%20very%20close%20to%20the%20null.pdf>). The difficulty in altogether escaping considerations of importance when choosing the null as a threshold may – or may not, current systematic review GRADE users choose the null and the MID more or less equally - lead GRADE users to prefer the MID as a threshold.
+If GRADE users have chosen the null they will, based on where the point estimate falls in relation to the null, typically rate certainty that a true beneficial or a harmful effect exists. If, however, the point estimate is near the null, because the intuitive inference in such situations is that the true effect represents little to no difference between intervention and control, they will rate their certainty in an unimportant effect ((b) in Fig 4-7). So, although choosing the null usually avoids specifying MIDs, it will not always do so. [Appendix 7 issue](https://cdn.jsdelivr.net/gh/liamyao0713/core-grade-gitbook@main/assets/appendix/7.Rating%20down%20\(or%20not\)%20for%20imprecision.%20Challenges%20and%20possible%20solution%20when%20one%20targets%20the%20null%20and%20the%20point%20estimate%20turns%20out%20to%20be%20very%20close%20to%20the%20null.pdf). The difficulty in altogether escaping considerations of importance when choosing the null as a threshold may – or may not, current systematic review GRADE users choose the null and the MID more or less equally - lead GRADE users to prefer the MID as a threshold.
 
-<img src=".gitbook/assets/Fig8.jpg" alt="Fig 4-7: Assessing if an effect is or is not important" width="100%" />
+<img src=".gitbook/assets/Fig8.jpg" alt="" width="100%">
 
 Fig 4-7: Assessing if an effect is or is not important. As point estimate (a) is above the MID, the target of the certainty rating is that the true effect is important. As point estimate (b) is below the MID, the target of the certainty rating is that the true effect is unimportant (little or no difference).

@@ -14,11 +14,11 @@ Nevertheless, the likely low yield precludes the necessity of such searches in a
 
 ## 9.3 Addressing publication bias
 
-Publication bias, when present, will typically result in an overestimation of effect. Thus, when pooled estimates suggest an important effect, reviewers should consider whether it is the result of publication bias. Fig 4-19 shows the steps Core GRADE users can follow to decide whether to rate down certainty of evidence for publication bias.
+Publication bias, when present, will typically result in an overestimation of effect. Thus, when pooled estimates suggest an important effect, reviewers should consider whether it is the result of publication bias. Fig 9-1 shows the steps Core GRADE users can follow to decide whether to rate down certainty of evidence for publication bias.
 
-<img src=".gitbook/assets/Fig20.jpg" alt="Fig 4-19: Publication bias decision flow chart" width="100%" />
+<img src=".gitbook/assets/Fig20.jpg" alt="" width="100%">
 
-Fig 4-19: Flow chart depicting process of deciding whether to rate down certainty of evidence for publication bias
+Fig 9-1: Flow chart depicting process of deciding whether to rate down certainty of evidence for publication bias
 
 ## 9.4 Commercial funding
 
@@ -36,19 +36,19 @@ Reviewers may rate down for publication bias even when they have not identified 
 
 GRADE users can assess risk of publication bias by visually inspecting the funnel plot—a scatter plot in which each dot represents a study included in the meta-analysis. The horizontal axis shows the magnitude of effect estimate of the individual studies (eg, log odds ratio, mean difference) and the vertical axis shows precision of the estimate of effect (eg, inverse of standard error, sample size).59
 
-In a funnel plot, larger studies with more precise results are displayed at the apex, and because they are more precise should be closer to the pooled estimate of effect. Smaller studies with lower precision scatter more widely at the bottom and should be symmetrically distributed around the pooled effect estimate. Thus, distribution of the dots should resemble a symmetrical inverted funnel (top panel in Fig 4-20).
+In a funnel plot, larger studies with more precise results are displayed at the apex, and because they are more precise should be closer to the pooled estimate of effect. Smaller studies with lower precision scatter more widely at the bottom and should be symmetrically distributed around the pooled effect estimate. Thus, distribution of the dots should resemble a symmetrical inverted funnel (top panel in Fig 9-2).
 
-<img src=".gitbook/assets/Fig21.jpg" alt="Fig 4-20: Funnel plots showing publication bias" width="100%" />
+<img src=".gitbook/assets/Fig21.jpg" alt="" width="100%">
 
-Fig 4-20: (Top) Funnel plot not suggestive of publication bias. (Bottom) Funnel plot suggestive of publication bias. (Bottom) Funnel plot suggestive of publication bias
+Fig 9-2: (Top) Funnel plot not suggestive of publication bias. (Bottom) Funnel plot suggestive of publication bias. (Bottom) Funnel plot suggestive of publication bias
 
 If the funnel plot is asymmetrical with a missing quadrant of small studies with negative results, publication bias represents a plausible explanation (bottom panel in Fig 4-19). However, other explanations include small studies being biased in favour of the intervention, or small studies more faithfully following the intervention and thus achieving more favourable results. Given these alternative explanations we sometimes refer to such asymmetrical funnel plots as showing small study effects.
 
-Fig 4-21 presents an example of funnel plot asymmetry from a systematic review investigating the effects of probiotics on risk of acute infectious diarrhoea lasting ≥48 hours.60 Here, several small studies favour probiotics to a greater extent than the large studies but only one small study is less favourable than the large studies. Such a result warrants serious consideration of rating down for publication bias.
+Fig 9-3 presents an example of funnel plot asymmetry from a systematic review investigating the effects of probiotics on risk of acute infectious diarrhoea lasting ≥48 hours.60 Here, several small studies favour probiotics to a greater extent than the large studies but only one small study is less favourable than the large studies. Such a result warrants serious consideration of rating down for publication bias.
 
-<img src=".gitbook/assets/Fig22.jpg" alt="Fig 4-21: Funnel plot of probiotics and diarrhoea" width="100%" />
+<img src=".gitbook/assets/Fig22.jpg" alt="" width="100%">
 
-Fig 4-21: Funnel plot from a systematic review investigating effects of probiotics on acute infectious diarrhoea suggested high risk of pubication bias. SE=standard error
+Fig 9-3: Funnel plot from a systematic review investigating effects of probiotics on acute infectious diarrhoea suggested high risk of pubication bias. SE=standard error
 
 Using funnel plots to test publication bias does, however, have limitiations. Visual inspection of asymmetry involves subjectivity that is prone to error. Statistical approaches to test the asymmetry of funnel plots, including Egger's regression test and Begg's rank test, are available but have been criticised for both false negative rates and false positive rates. 6 The use of statistical tests requires a meta-analysis including ≥10 studies, also preferable for making inferences about funnel plot asymmetry.
 

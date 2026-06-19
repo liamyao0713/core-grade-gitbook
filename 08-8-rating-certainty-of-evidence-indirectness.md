@@ -2,11 +2,11 @@
 
 ## 8.1 Two types of indirectness - Indirect comparisons
 
-GRADE guidance has used the term indirectness in two ways (Fig 4-22). In one, which we label indirect comparisons, the interest is in the relative merits of intervention A versus intervention B but evidence comes not from direct or head-to-head comparisons of A versus B. Rather, evidence comes from two sets of comparisons: A versus C and B versus C. In this indirect approach, if for instance A does far better against C than does B, we infer superiority of A over B.
+GRADE guidance has used the term indirectness in two ways (Fig 8-1). In one, which we label indirect comparisons, the interest is in the relative merits of intervention A versus intervention B but evidence comes not from direct or head-to-head comparisons of A versus B. Rather, evidence comes from two sets of comparisons: A versus C and B versus C. In this indirect approach, if for instance A does far better against C than does B, we infer superiority of A over B.
 
-<img src=".gitbook/assets/Fig23.jpg" alt="Fig 4-22: Two types of GRADE indirectness" width="100%" />
+<img src=".gitbook/assets/Fig23.jpg" alt="" width="100%">
 
-Fig 4-22: Two types of GRADE indirectness. GRADE=Grading of Recommendations Assessment, Development and Evaluation; PICO=population, intervention, comparison, and outcome; RCT=randomised controlled trial
+Fig 8-1: Two types of GRADE indirectness. GRADE=Grading of Recommendations Assessment, Development and Evaluation; PICO=population, intervention, comparison, and outcome; RCT=randomised controlled trial
 
 Over the past 15 years, indirect comparisons occur when two or more interventions are compared through a common comparator rather than through direct head-to-head trials. Network meta-analyses use both direct and indirect evidence to make comparisons between multiple interventions. GRADE focuses on direct comparisons of a single intervention with a single comparator. We will therefore not deal further with indirect comparisons but instead will focus on indirectness related to PICO issues.
 
@@ -142,13 +142,13 @@ How should GRADE users handle the situation when the available outcome is a surr
 
 Consider patients with mitral valve stenosis faced with the choice of percutaneous versus surgical mitral commissurotomy. A key outcome for such patients is progression of heart failure symptoms as a result of the procedure failing over the long term. Because patients with larger valve areas generally have fewer symptoms, studies comparing these procedures report the mitral valve area as a measure of success. A systematic review of randomised trials comparing the two procedures addressed their relative merits for minimising development or progression of heart failure symptoms.
 
-The review found that no eligible studies measured patient symptoms over the long term. What investigators conducting these studies did measure was a surrogate for symptoms—mitral valve area at 30 months by echocardiography or cardiac catheterisation. The systematic review authors specified their outcome of interest as patient symptoms over the long term as inferred from the surrogate. Ultimately, they rated down the certainty of evidence for imprecision and inconsistency as well as for indirectness of the outcome, resulting in very low certainty evidence as shown in an adaptation of their summary of finding table (Table 4-3).
+The review found that no eligible studies measured patient symptoms over the long term. What investigators conducting these studies did measure was a surrogate for symptoms—mitral valve area at 30 months by echocardiography or cardiac catheterisation. The systematic review authors specified their outcome of interest as patient symptoms over the long term as inferred from the surrogate. Ultimately, they rated down the certainty of evidence for imprecision and inconsistency as well as for indirectness of the outcome, resulting in very low certainty evidence as shown in an adaptation of their summary of finding table (Table 8-1).
 
 | Outcome                                                   | No of trials/No of patients                    | Result                                                                                                                                                                                         | Certainty of evidence                                                                |
 | --------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
 | Heart failure symptoms as inferred from mitral valve area | Six randomised controlled trials, 458 patients | Little or no difference in symptoms of heart failure inferred from difference in mitral valve area of 0.13 cm² higher (95% CI 0.09 lower to 0.35 higher) in patients undergoing commissurotomy | Very low due to serious indirectness, serious imprecision, and serious inconsistency |
 
-Table 4-3: Summary of findings table addressing long term heart failure symptoms in randomised controlled trials of percutaneous versus surgical mitral commissurotomy
+Table 8-1 Summary of findings table addressing long term heart failure symptoms in randomised controlled trials of percutaneous versus surgical mitral commissurotomy
 
 Although one might consider rating down more than one level for indirectness for any PICO element, this possibility is typically more salient for surrogate outcomes. For instance, in patients with end stage kidney disease, disturbances in calcium and phosphate metabolism may result in fragility fractures and myocardial infarction. Initial evidence of new therapeutic interventions focused on measures of calcium/phosphate metabolism, a very indirect measure of fractures and myocardial infarction, thus warranting rating down two levels for indirectness.
 
