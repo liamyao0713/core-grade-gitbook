@@ -22,25 +22,7 @@ The authors of Core GRADE, who included those primarily responsible for the key 
 
 Some have raised questions about whether Core GRADE is really GRADE. The process by which we developed the Core demonstrates that nothing could be more GRADE than the Core - as this one minute video illustrates:
 
-{% columns %}
-{% column %}
 {% embed url="https://vimeo.com/1151358052" %}
-{% endcolumn %}
-
-{% column %}
-
-{% endcolumn %}
-{% endcolumns %}
-
-{% columns %}
-{% column %}
-{% embed url="https://vimeo.com/1151358052" %}
-{% endcolumn %}
-
-{% column %}
-
-{% endcolumn %}
-{% endcolumns %}
 
 ## 1.4 Core GRADE Complementary Material
 
