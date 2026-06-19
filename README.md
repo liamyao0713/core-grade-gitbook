@@ -29,6 +29,10 @@ Authors making substantive contributions to the revisions in the website include
 
 Other Core GRADE authors include Victor Montori, Per Vandvik, Arnav Agarwal, Derek Chu, Rohan D'Souza, Stefan Schandelmaier, Jamie Rylance, Benjamin Djulbegovic, Farid Foroutan, Manya Prasad, Hans de Beer, Roman Jaeschke, Sameer Parpia, Kameshwar Prasad, Andrew Owen, Ganesan Karthikeyan, Carlos Coello, Kevin Kim, Bram Rochwerg, Chunjuan Zhai, Lingli Zhang, Pasqualina Santaguida, Tahira Devji, Ivan Florez.
 
+## Feedback
+
+Core GRADE is a process in evolution. We welcome feedback, particularly in how we can improve Core GRADE. Whatever you find unclear, too complicated, unnecessary, or could be better expressed please let us know. Just send an email to [guyatt@mcmaster.ca](mailto:guyatt@mcmaster.ca)
+
 ## Citing Core GRADE
 
 When you are using Core GRADE for your reviews, guidelines, or health technology assessments, though your access was through the website, we would appreciate your citing the original GRADE papers from the BMJ from which the material you have used came.

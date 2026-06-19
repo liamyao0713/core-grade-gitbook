@@ -1,4 +1,4 @@
-# 1 Introductory Material
+# 1. Introductory Material
 
 ## 1.1 What is Core GRADE and How Should You Use It?
 
@@ -40,8 +40,8 @@ ICEMAN for assessing the certainty of subgroup analysis: The only formally struc
 
 Core GRADE is a creation of its authors in partnership with the [MAGIC Evidence Ecosystem Foundation ](https://magicevidence.org/)a non-profit organization promoting high-value, low-waste healthcare via a digital ecosystem of trustworthy guidelines, evidence summaries, and decision aids. In producing the Core GRADE website, we have also worked in partnership with McMaster University; McMaster is hosting this website.
 
-Feedback Core GRADE is a process in evolution. We welcome feedback, particularly in how we can improve Core GRADE. Whatever you find unclear, too complicated, unnecessary, or could be better expressed please let us know. Just send an email to guyatt@mcmaster.ca
+## 16. What this Resource Doesn’t Do&#x20;
 
-What this Resource Doesn’t Do The Core GRADE website takes a minimalist approach to citations. If you wish to explore the full range of articles relevant to Core GRADE you will need to go back to the BMJ papers.
+The Core GRADE website takes a minimalist approach to citations. If you wish to explore the full range of articles relevant to Core GRADE you will need to go back to the BMJ papers.
 
 Moreover, If you wish to include more complex or sophisticated guidance beyond the essentials of GRADE, you will need to consult published GRADE papers. For some authors, and some target audiences, this may be desirable. However, is including more complex considerations ever necessary to ensure trustworthy GRADE ratings of certainty or recommendation direction and strength? Given that Core GRADE includes all elements necessary to make trustworthy judgments regarding certainty of evidence grading recommendations, we think not.

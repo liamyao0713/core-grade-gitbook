@@ -1,8 +1,8 @@
-# 2 Overview of Core GRADE
+# 2. Overview of Core GRADE
 
 ## 2.1 Scope of Core GRADE
 
-Core GRADE applies to the design, conduct, and analysis of systematic reviews as well as to use of their results in moving from evidence to decisions in clinical practice guidelines or health technology assessments. In the context of both reviews and guidelines, Core GRADE focuses on evidence comparing a single intervention with a single comparator. In the context of clinical practice guidelines, Core GRADE takes, primarily, an individual patient perspective. Nevertheless, the underlying principles also apply to a population or public health perspective that Core GRADE users may, in the context of clinical practice guidelines, consider as a secondary perspective. A glossary provides plain language definitions of key [GRADE terms](https://cdn.jsdelivr.net/gh/liamyao0713/core-grade-gitbook@main/assets/appendix/1.Glossary%20of%20GRADE%20terms.pdf).
+Core GRADE applies to the design, conduct, and analysis of systematic reviews as well as to use of their results in moving from evidence to decisions in clinical practice guidelines or health technology assessments. In the context of both reviews and guidelines, Core GRADE focuses on evidence comparing a single intervention with a single comparator. In the context of clinical practice guidelines, Core GRADE takes, primarily, an individual patient perspective. Nevertheless, the underlying principles also apply to a population or public health perspective that Core GRADE users may, in the context of clinical practice guidelines, consider as a secondary perspective. A glossary provides plain language definitions of [key GRADE terms](https://cdn.jsdelivr.net/gh/liamyao0713/core-grade-gitbook@main/assets/appendix/1.Glossary%20of%20GRADE%20terms.pdf).
 
 ## 2.2 The Core GRADE Process, Systematic Reviews and Evidence to Recommendations
 
