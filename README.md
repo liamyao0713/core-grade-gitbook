@@ -101,6 +101,16 @@ Guyatt G, Wang Y, Eachempati P, Iorio A, Murad MH, Hultcrantz M, Chu DK, Florez 
 **Core GRADE 5: rating certainty of evidence-assessing indirectness**\
 Guyatt G, Iorio A, De Beer H, Owen A, Agoritsas T, Murad MH, Karthikeyan G, Cuello C, Prasad M, Kim K, Ali DS, Agarwal A, Hemkens LG, Yao L, Hultcrantz M, Rylance J, Chu DK, Vandvik PO, Djulbegovic B, Mustafa RA, Zeng L, Eachempati P, Rochwerg B, Prasad K, Montori VM, Brignardello-Petersen R. _BMJ_. 2025 May 20;389:e083865. [DOI](https://doi.org/10.1136/bmj-2024-083865) | [PMID](https://pubmed.ncbi.nlm.nih.gov/40393729) |[Download RIS](assets/ris/6.ris)
 
+{% columns %}
+{% column %}
+{% embed url="https://www.youtube.com/watch?v=K159riY-HoQ" %}
+{% endcolumn %}
+
+{% column %}
+
+{% endcolumn %}
+{% endcolumns %}
+
 **Core GRADE 6: presenting the evidence in summary of findings tables**\
 Guyatt G, Yao L, Murad MH, Hultcrantz M, Agoritsas T, De Beer H, Schandelmaier S, Iorio A, Zeng L, Prasad M, Vandvik PO, Mustafa RA, Agarwal A, Devji T, Florez ID, Djulbegovic B, Chu DK, Rochwerg B, Montori VM, Brignardello-Petersen R. _BMJ_. 2025 May 27;389:e083866. [DOI](https://doi.org/10.1136/bmj-2024-083866) | [PMID](https://pubmed.ncbi.nlm.nih.gov/40425239) | [Download RIS](assets/ris/7.ris)
 
