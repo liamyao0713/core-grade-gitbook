@@ -4,7 +4,7 @@
 * [1. Introductory Material](01-1-introductory-material.md)
 * [2. Overview of Core GRADE](02-2-overview-of-core-grade.md)
 * [3. Planning the Systematic Review](03-3-planning-the-systematic-review.md)
-* [4. The First Step in Assessing Certainty: Choosing a Target of Certainty Rating](04-4-the-first-step-in-assessing-certainty-choosing-a-target-of-certainty-rating.md)
+* [4. GRADE’s Rating of Certainty of Evidence – an Overview](04-4-the-first-step-in-assessing-certainty-choosing-a-target-of-certainty-rating.md)
 * [5. Rating certainty of evidence: imprecision](05-5-rating-certainty-of-evidence-imprecision.md)
 * [6. Rating certainty of evidence: Inconsistency](06-6-rating-certainty-of-evidence-inconsistency.md)
 * [7. Rating Certainty of Evidence: Risk of Bias](07-7-rating-certainty-of-evidence-risk-of-bias.md)

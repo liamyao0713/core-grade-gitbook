@@ -1,4 +1,4 @@
-# 4 The First Step in Assessing Certainty: Choosing a Target of Certainty Rating
+# 4. GRADE’s Rating of Certainty of Evidence – an Overview
 
 GRADE's certainty rating represents confidence that the true effect lies on one side of a chosen threshold (such as an important difference) or in a particular range (such as a small effect). GRADE offers a four-category system of rating certainty as high, moderate, low, and very low. Although GRADE certainty ratings rely on evaluation of individual studies, they refer to the entire body of evidence addressing a particular outcome rather than those individual studies.
 
@@ -10,13 +10,13 @@ Fig 4-1 summarises the GRADE approach to rating certainty of evidence for interv
 
 Previous GRADE guidance that included the possibility of rating up as a result of predictable direction of plausible confounding has proved too difficult to apply and too rarely applicable to be part of Core GRADE. We characterise limitations in each of these domains involved in rating down certainty as not serious; serious; very serious; or, rarely, extremely serious. The loss of certainty will result in rating down once for a particular domain (for example, from high to moderate certainty) if concerns are serious, and twice for a domain (for example, from high to low) if concerns are very serious.
 
-Although GRADE has divided certainty of evidence into four categories, certainty is actually a continuum. As a result, one may, when rating is near a cut-off point between categories, have disagreements about certainty when judgments are in fact similar (fig 3).
+Although GRADE has divided certainty of evidence into four categories, certainty is actually a continuum. As a result, one may, when rating is near a cut-off point between categories, have disagreements about certainty when judgments are in fact similar (fig 4-2).
 
 ![](.gitbook/assets/Fig3.jpg)
 
 Fig 4-2: Certainty of evidence is a continuum that GRADE divides into four categories. Making judgments about rating down certainty when near a cut-off point (arrows) can lead to differences in judgments when certainty is similar
 
-In terms of ratings near a cut-off point, the same phenomenon can occur when deciding whether to rate down in any one domain. Ratings may be near the cut-off point between no serious and serious concerns (potentially mandating rating down one level) or between serious and very serious (potentially rating down two levels) (fig 4).
+In terms of ratings near a cut-off point, the same phenomenon can occur when deciding whether to rate down in any one domain. Ratings may be near the cut-off point between no serious and serious concerns (potentially mandating rating down one level) or between serious and very serious (potentially rating down two levels) (fig 4-3).
 
 ![](.gitbook/assets/Fig4.jpg)
 
@@ -26,7 +26,7 @@ To illustrate the potential problem, consider the following scenario. While summ
 
 In this situation, one might consider the magnitude of the problems in the three domains, conclude that the certainty of evidence is near the threshold between moderate and low certainty, and ultimately decide to either rate down once and conclude moderate certainty evidence or rate down twice and conclude low certainty evidence. Such a situation illustrates the necessity for, after considering each of the individual domains, stepping back and taking an overall view of the threats to certainty of evidence.
 
-For example, in the WHO’s living guideline for [covid-19 therapeutics](https://iris.who.int/handle/10665/365584) recommendation addressing lopinavir-ritonavir versus standard care for mortality and mechanical ventilation, the review team identified problems with both inconsistency and imprecision for mortality and mechanical ventilation outcomes. In both cases, however, the problems were near the threshold between not serious and serious (Fig 4-3) and thus were not so serious as to warrant rating down for both domains, with consequent low certainty of evidence (ie, rating down from high to low).
+For example, in the [WHO’s living guideline for covid-19 therapeutics ](https://iris.who.int/handle/10665/365584)recommendation addressing lopinavir-ritonavir versus standard care for mortality and mechanical ventilation, the review team identified problems with both inconsistency and imprecision for mortality and mechanical ventilation outcomes. In both cases, however, the problems were near the threshold between not serious and serious (Fig 4-3) and thus were not so serious as to warrant rating down for both domains, with consequent low certainty of evidence (ie, rating down from high to low).
 
 Thus, the decisions for mortality and mechanical ventilation was that the evidence was of moderate certainty. The panel noted that concerns in both inconsistency and imprecision domains led to the rating down from high to moderate certainty evidence. These thoughtful judgments reflect the strength of Core GRADE: the facilitation of a careful deliberative assessment of evidence within a sound, carefully considered, transparent structure that allows for flexibility.
 
@@ -38,7 +38,7 @@ The focus of Core GRADE is on these two questions: whether there is an effect co
 
 <img src=".gitbook/assets/Fig5.jpg" alt="" width="100%">
 
-Fig 4-4: Thresholds and ranges for rating certainty of evidence in Core GRADE. Besides the Core GRADE thresholdsof null effect and M1D,two other thresholds may be considered-the moderate effect threshold that demarcatessmall versus moderate effects, and the large effect threshold that demarcates moderate versus large effects.GRADE=Grading of Recommendations Assessment, Development and Evaluation; MID-minimal important difference.
+Fig 4-4: Thresholds and ranges for rating certainty of evidence in Core GRADE. Besides the Core GRADE thresholds of null effect and MID, two other thresholds may be considered-the moderate effect threshold that demarcates small versus moderate effects, and the large effect threshold that demarcates moderate versus large effects. GRADE=Grading of Recommendations Assessment, Development and Evaluation; MID-minimal important difference.
 
 <img src=".gitbook/assets/Fig6.jpg" alt="" width="100%">
 
@@ -50,7 +50,7 @@ Deciding what it is in which we are rating our certainty requires (ie deciding o
 
 Fig 4-6: GRADE steps for deciding target of certainty rating.
 
-For the next step, GRADE users establish the effect estimates through meta-analysis. An important choice they face is whether to use fixed effect or random effect statistical models in their analysis. Follow this [link](https://cdn.jsdelivr.net/gh/liamyao0713/core-grade-gitbook@main/assets/appendix/6.First%20step%20in%20certainty%20assessment-%20Choosing%20between%20random%20effects%20and%20fixed%20effect%20models.pdf) If you wish to understand key issues review authors must consider when they choose between these approaches. In rating certainty of evidence, GRADE users typically consider absolute rather than relative effects. For binary outcomes, they obtain the best estimate of the risk difference and its 95% CI by applying the relative risk to an estimate of the baseline risk (Calculatiing absolute effects applying relative effects to baseline risk). [Appendix 6](https://cdn.jsdelivr.net/gh/liamyao0713/core-grade-gitbook@main/assets/appendix/6.First%20step%20in%20certainty%20assessment-%20Choosing%20between%20random%20effects%20and%20fixed%20effect%20models.pdf) Later, in a section focusing on summary of findings tables, we present additional information about absolute effects and how to present continuous outcomes. Finally, GRADE users assess the magnitude of the absolute effect estimate in relation to the chosen threshold. We discuss the process for these steps, illustrated in Fig 4-6, further below.
+For the next step, GRADE users establish the effect estimates through meta-analysis. An important choice they face is whether to use fixed effect or random effect statistical models in their analysis. Follow this [link](https://cdn.jsdelivr.net/gh/liamyao0713/core-grade-gitbook@main/assets/appendix/6.First%20step%20in%20certainty%20assessment-%20Choosing%20between%20random%20effects%20and%20fixed%20effect%20models.pdf) If you wish to understand key issues review authors must consider when they choose between these approaches. In rating certainty of evidence, GRADE users typically consider absolute rather than relative effects. For binary outcomes, they obtain the best estimate of the risk difference and its 95% CI by applying the relative risk to an estimate of the baseline risk (Calculating absolute effects applying relative effects to baseline risk). [Appendix 6](https://cdn.jsdelivr.net/gh/liamyao0713/core-grade-gitbook@main/assets/appendix/6.First%20step%20in%20certainty%20assessment-%20Choosing%20between%20random%20effects%20and%20fixed%20effect%20models.pdf) Later, in a section focusing on summary of findings tables, we present additional information about absolute effects and how to present continuous outcomes. Finally, GRADE users assess the magnitude of the absolute effect estimate in relation to the chosen threshold. We discuss the process for these steps, illustrated in Fig 4-6, further below.
 
 ## 4.2 Assessing if the effect is or is not important (MID as threshold)
 
@@ -58,7 +58,7 @@ When considering whether an effect is important, GRADE users must focus on absol
 
 The values and preferences that drive this choice should be those of the patients or other target populations, such as the general public. Guideline development and HTA require judgments about how people value the benefits, harms, and burdens of the interventions under consideration. Specifying MIDs, using either established MIDs (most likely to be available for patient reported outcomes such as pain, functional status, or quality of life) or their own estimates (generated from, for example, existing literature or their clinical experience) has proved helpful in facilitating the trade-offs between desirable and undesirable consequences of interventions.
 
-Later, we address in some detail the issues of choosing MIDs for key outcomes. If GRADE users have chosen the MID threshold, and the point estimate from the meta-analysis represents an effect greater than the MID ((a) in 47), systematic review authors will rate their certainty that the true effect is an important benefit (or, if favouring the comparator, an important harm). If the point estimate represents an effect less than the MID ((b) in Fig 4-6), they will rate their certainty in an unimportant (little to no) effect.3
+Later, we address in some detail the issues of choosing MIDs for key outcomes. If GRADE users have chosen the MID threshold, and the point estimate from the meta-analysis represents an effect greater than the MID ((a) in Fig 4-7), systematic review authors will rate their certainty that the true effect is an important benefit (or, if favouring the comparator, an important harm). If the point estimate represents an effect less than the MID ((b) in Fig 4-7), they will rate their certainty in an unimportant (little to no) effect.
 
 ## 4.3 Assessing whether a true underlying treatment effect exists (null as threshold)
 
