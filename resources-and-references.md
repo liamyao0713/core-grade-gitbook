@@ -8,6 +8,8 @@ Guyatt G, Hultcrantz M, Agoritsas T, Iorio A, Vandvik PO, Montori VM. Why Core G
 {% columns %}
 {% column %}
 {% embed url="https://www.youtube.com/watch?v=48e9GYilouA" %}
+**Article overview**
+{% endembed %}
 {% endcolumn %}
 
 {% column %}
@@ -19,11 +21,13 @@ Guyatt G, Hultcrantz M, Agoritsas T, Iorio A, Vandvik PO, Montori VM. Why Core G
 Guyatt G, Agoritsas T, Brignardello-Petersen R, Mustafa RA, Rylance J, Foroutan F, Prasad M, Agarwal A, De Beer H, Murad MH, Schandelmaier S, Iorio A, Yao L, Jaeschke R, Vandvik PO, Zeng L, Parpia S, D'Souza R, Rind D, Chu DK, Eachempati P, Prasad K, Hultcrantz M, Montori VM. Core GRADE 1: overview of the Core GRADE approach. _BMJ_. 2025 Apr 22;389:e081903. [DOI](https://doi.org/10.1136/bmj-2024-081903) | [PMID](https://pubmed.ncbi.nlm.nih.gov/40262844) | [Download RIS](assets/ris/2.ris)
 
 {% columns %}
-{% column %}
+{% column width="50%" %}
 {% embed url="https://www.youtube.com/watch?v=95vGef86-aQ&t=1s" %}
+**Article overview**
+{% endembed %}
 {% endcolumn %}
 
-{% column %}
+{% column width="50%" %}
 
 {% endcolumn %}
 {% endcolumns %}
@@ -34,6 +38,8 @@ Guyatt G, Zeng L, Brignardello-Petersen R, Prasad M, De Beer H, Murad MH, Iorio 
 {% columns %}
 {% column %}
 {% embed url="https://www.youtube.com/watch?v=WJaLbDfBecI" %}
+**Article overview**
+{% endembed %}
 {% endcolumn %}
 
 {% column %}
@@ -47,6 +53,8 @@ Guyatt G, Schandelmaier S, Brignardello-Petersen R, De Beer H, Prasad M, Murad M
 {% columns %}
 {% column %}
 {% embed url="https://www.youtube.com/watch?v=uLqKZZ3dIcY" %}
+**Article overview**
+{% endembed %}
 {% endcolumn %}
 
 {% column %}
@@ -60,6 +68,8 @@ Guyatt G, Wang Y, Eachempati P, Iorio A, Murad MH, Hultcrantz M, Chu DK, Florez 
 {% columns %}
 {% column %}
 {% embed url="https://www.youtube.com/watch?v=vr-iKgHB63I&t=1s" %}
+**Article overview**
+{% endembed %}
 {% endcolumn %}
 
 {% column %}
@@ -73,6 +83,8 @@ Guyatt G, Iorio A, De Beer H, Owen A, Agoritsas T, Murad MH, Karthikeyan G, Cuel
 {% columns %}
 {% column %}
 {% embed url="https://www.youtube.com/watch?v=K159riY-HoQ" %}
+**Article overview**
+{% endembed %}
 {% endcolumn %}
 
 {% column %}
@@ -86,6 +98,8 @@ Guyatt G, Yao L, Murad MH, Hultcrantz M, Agoritsas T, De Beer H, Schandelmaier S
 {% columns %}
 {% column %}
 {% embed url="https://www.youtube.com/watch?v=esc1VG972pc" %}
+**Article overview**
+{% endembed %}
 {% endcolumn %}
 
 {% column %}
@@ -99,6 +113,8 @@ Guyatt G, Vandvik PO, Iorio A, Agarwal A, Yao L, Eachempati P, Zeng L, Chu DK, D
 {% columns %}
 {% column %}
 {% embed url="https://www.youtube.com/watch?v=6tdy4kvUm-U" %}
+**Article overview**
+{% endembed %}
 {% endcolumn %}
 
 {% column %}
