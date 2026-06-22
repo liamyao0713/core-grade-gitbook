@@ -1,10 +1,24 @@
 # Core GRADE Guide
 
+<div align="left"><figure><img src=".gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure></div>
+
+Welcome to the Core GRADE Guide”
+
+You’ll find here all you need to apply GRADE to paired comparisons of interventions – no need to go anywhere else!
+
+Any questions you can “Ask Gordon” by emailing [guyatt@mcmaster.ca](mailto:guyatt@mcmaster.ca). And we are always trying to improve this resource – all feedback to the same email welcome.
+
+Enjoy the experience of superb clear guidance to GRADE.
+
 ## Contributors
 
 Project oversight: Gordon Guyatt, Thomas Agoritsas
 
-Platform programming and Design: Liang Yao, Kaitlynn Kemp, Mingming Wang, Ming Liu, Leticia Kawano-Dourado. JUDGE and associated videos: Prashanti Eachempati. ROBUST-RCT: Ying Wang.
+Platform programming and Design: Liang Yao, Kaitlynn Kemp, Mingming Wang, Ming Liu, Leticia Kawano-Dourado.&#x20;
+
+JUDGE and associated videos: Prashanti Eachempati.&#x20;
+
+ROBUST-RCT: Ying Wang.
 
 Core GRADE Authors: You can find the authors of each of the articles presented on this website in the BMJ series.
 
