@@ -2,7 +2,7 @@
 
 <div align="left"><figure><img src=".gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-Welcome to the Core GRADE Guide”
+Welcome to the Core GRADE Guide
 
 You’ll find here all you need to apply GRADE to paired comparisons of interventions – no need to go anywhere else!
 
@@ -16,15 +16,15 @@ Project oversight: Gordon Guyatt, Thomas Agoritsas
 
 Platform programming and Design: Liang Yao, Kaitlynn Kemp, Mingming Wang, Ming Liu, Leticia Kawano-Dourado.&#x20;
 
-JUDGE and associated videos: Prashanti Eachempati.&#x20;
-
-ROBUST-RCT: Ying Wang.
-
 Core GRADE Authors: You can find the authors of each of the articles presented on this website in the BMJ series.
 
 Authors making substantive contributions to the revisions in the website include: Thomas Agoritsas, Linan Zeng, Prashanti Eachempati, Dalal Ali, Hassan Murad, Sheri Keitz, Stefan Schandelmaier, Ariel Izcovich, Lars Hemkens, Monica Hultcrantz, Romina Brignardello, Luis Colunga, Liang Yao, Alfonso Iorio, Reem Mustafa, Ying Wang.
 
 Other Core GRADE authors include Victor Montori, Per Vandvik, Arnav Agarwal, Derek Chu, Rohan D'Souza, Stefan Schandelmaier, Jamie Rylance, Benjamin Djulbegovic, Farid Foroutan, Manya Prasad, Hans de Beer, Roman Jaeschke, Sameer Parpia, Kameshwar Prasad, Andrew Owen, Ganesan Karthikeyan, Carlos Coello, Kevin Kim, Bram Rochwerg, Chunjuan Zhai, Lingli Zhang, Pasqualina Santaguida, Tahira Devji, Ivan Florez.
+
+ROBUST-RCT: Ying Wang.
+
+ICEMAN: Stefan Schandelmaier
 
 ## Feedback
 
