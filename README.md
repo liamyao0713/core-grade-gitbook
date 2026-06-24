@@ -14,11 +14,11 @@ Enjoy the experience of superb clear guidance to GRADE.
 
 Project oversight: Gordon Guyatt, Thomas Agoritsas
 
-Platform programming and Design: Liang Yao, Kaitlynn Kemp, Mingming Wang, Ming Liu, Leticia Kawano-Dourado.&#x20;
+Platform programming and Design: Liang Yao, Kaitlynn Kemp, Mingming Wang, Ming Liu, Leticia Kawano-Dourado, Prashanti Eachempati.&#x20;
 
 Core GRADE Authors: You can find the authors of each of the articles presented on this website in the BMJ series.
 
-Authors making substantive contributions to the revisions in the website include: Thomas Agoritsas, Linan Zeng, Prashanti Eachempati, Dalal Ali, Hassan Murad, Sheri Keitz, Stefan Schandelmaier, Ariel Izcovich, Lars Hemkens, Monica Hultcrantz, Romina Brignardello, Luis Colunga, Liang Yao, Alfonso Iorio, Reem Mustafa, Ying Wang.
+Authors making substantive contributions to the revisions in the website include: Thomas Agoritsas, Linan Zeng, Prashanti Eachempati, Dalal Ali, Hassan Murad, Sheri Keitz, Stefan Schandelmaier, Ariel Izcovich, Lars Hemkens, Monica Hultcrantz, Romina Brignardello, Luis Colunga, Liang Yao, Alfonso Iorio, Reem Mustafa, Ying Wang,&#x20;
 
 Other Core GRADE authors include Victor Montori, Per Vandvik, Arnav Agarwal, Derek Chu, Rohan D'Souza, Stefan Schandelmaier, Jamie Rylance, Benjamin Djulbegovic, Farid Foroutan, Manya Prasad, Hans de Beer, Roman Jaeschke, Sameer Parpia, Kameshwar Prasad, Andrew Owen, Ganesan Karthikeyan, Carlos Coello, Kevin Kim, Bram Rochwerg, Chunjuan Zhai, Lingli Zhang, Pasqualina Santaguida, Tahira Devji, Ivan Florez.
 
