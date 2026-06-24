@@ -6,7 +6,7 @@ Welcome to the Core GRADE Guide
 
 You’ll find here all you need to apply GRADE to paired comparisons of interventions – no need to go anywhere else!
 
-Any questions you can “Ask Gordon” by emailing [guyatt@mcmaster.ca](mailto:guyatt@mcmaster.ca). And we are always trying to improve this resource – all feedback to the same email welcome.
+Any questions you can “[Ask Gordon](https://www.clarityresearch.ca/frequently-asked-questions)” by emailing [guyatt@mcmaster.ca](mailto:guyatt@mcmaster.ca). And we are always trying to improve this resource – all feedback to the same email welcome.
 
 Enjoy the experience of superb clear guidance to GRADE.
 
