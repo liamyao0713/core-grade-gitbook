@@ -43,7 +43,15 @@ The authors of Core GRADE, who included those primarily responsible for the key 
 
 Some have raised questions about whether Core GRADE is really GRADE. The process by which we developed the Core demonstrates that nothing could be more GRADE than the Core - as this one minute video illustrates:
 
+{% columns %}
+{% column %}
 {% embed url="https://vimeo.com/1151358052" %}
+{% endcolumn %}
+
+{% column %}
+
+{% endcolumn %}
+{% endcolumns %}
 
 ## 1.4 Core GRADE Complementary Material
 
@@ -59,7 +67,7 @@ Additional material that you may find of use in applying Core GRADE.
 
 Core GRADE is a creation of its authors in partnership with the [MAGIC Evidence Ecosystem Foundation ](https://magicevidence.org/)a non-profit organization promoting high-value, low-waste healthcare via a digital ecosystem of trustworthy guidelines, evidence summaries, and decision aids. In producing the Core GRADE website, we have also worked in partnership with McMaster University; McMaster is hosting this website.
 
-## 1.6 What this Resource Doesn’t Do&#x20;
+## 1.6 What this Resource Doesn’t Do
 
 The Core GRADE website takes a minimalist approach to citations. If you wish to explore the full range of articles relevant to Core GRADE you will need to go back to the BMJ papers.
 
@@ -69,11 +77,11 @@ Moreover, If you wish to include more complex or sophisticated guidance beyond t
 
 Project oversight: Gordon Guyatt, Thomas Agoritsas
 
-Platform programming and Design: Liang Yao, Kaitlynn Kemp, Mingming Wang, Ming Liu, Leticia Kawano-Dourado, Prashanti Eachempati.&#x20;
+Platform programming and Design: Liang Yao, Kaitlynn Kemp, Mingming Wang, Ming Liu, Leticia Kawano-Dourado, Prashanti Eachempati.
 
 Core GRADE Authors: You can find the authors of each of the articles presented on this website in the BMJ series.
 
-Authors making substantive contributions to the revisions in the website include: Thomas Agoritsas, Linan Zeng, Prashanti Eachempati, Dalal Ali, Hassan Murad, Sheri Keitz, Stefan Schandelmaier, Ariel Izcovich, Lars Hemkens, Monica Hultcrantz, Romina Brignardello, Luis Colunga, Liang Yao, Alfonso Iorio, Reem Mustafa, Ying Wang,&#x20;
+Authors making substantive contributions to the revisions in the website include: Thomas Agoritsas, Linan Zeng, Prashanti Eachempati, Dalal Ali, Hassan Murad, Sheri Keitz, Stefan Schandelmaier, Ariel Izcovich, Lars Hemkens, Monica Hultcrantz, Romina Brignardello, Luis Colunga, Liang Yao, Alfonso Iorio, Reem Mustafa, Ying Wang,
 
 Other Core GRADE authors include Victor Montori, Per Vandvik, Arnav Agarwal, Derek Chu, Rohan D'Souza, Stefan Schandelmaier, Jamie Rylance, Benjamin Djulbegovic, Farid Foroutan, Manya Prasad, Hans de Beer, Roman Jaeschke, Sameer Parpia, Kameshwar Prasad, Andrew Owen, Ganesan Karthikeyan, Carlos Coello, Kevin Kim, Bram Rochwerg, Chunjuan Zhai, Lingli Zhang, Pasqualina Santaguida, Tahira Devji, Ivan Florez.
 
