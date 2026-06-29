@@ -2,6 +2,7 @@
 
 * [Core GRADE Guide](README.md)
 * [1. Introductory Material](01-1-introductory-material.md)
+* [1. Introductory Material](1.-introductory-material.md)
 * [2. Overview of Core GRADE](02-2-overview-of-core-grade.md)
 * [3. Planning the Systematic Review](03-3-planning-the-systematic-review.md)
 * [4. GRADE’s Rating of Certainty of Evidence – an Overview](04-4-the-first-step-in-assessing-certainty-choosing-a-target-of-certainty-rating.md)
