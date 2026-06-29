@@ -6,33 +6,19 @@ Welcome to the Core GRADE Guide
 
 You’ll find here all you need to apply GRADE to paired comparisons of interventions – no need to go anywhere else!
 
+Core GRADE is a process in evolution. We welcome feedback, particularly in how we can improve Core GRADE. Whatever you find unclear, too complicated, unnecessary, or could be better expressed please let us know.
+
 Any questions you can “[Ask Gordon](https://www.clarityresearch.ca/frequently-asked-questions)” by emailing [guyatt@mcmaster.ca](mailto:guyatt@mcmaster.ca). And we are always trying to improve this resource – all feedback to the same email welcome.
 
 Enjoy the experience of superb clear guidance to GRADE.
 
-## Contributors
 
-Project oversight: Gordon Guyatt, Thomas Agoritsas
-
-Platform programming and Design: Liang Yao, Kaitlynn Kemp, Mingming Wang, Ming Liu, Leticia Kawano-Dourado, Prashanti Eachempati.&#x20;
-
-Core GRADE Authors: You can find the authors of each of the articles presented on this website in the BMJ series.
-
-Authors making substantive contributions to the revisions in the website include: Thomas Agoritsas, Linan Zeng, Prashanti Eachempati, Dalal Ali, Hassan Murad, Sheri Keitz, Stefan Schandelmaier, Ariel Izcovich, Lars Hemkens, Monica Hultcrantz, Romina Brignardello, Luis Colunga, Liang Yao, Alfonso Iorio, Reem Mustafa, Ying Wang,&#x20;
-
-Other Core GRADE authors include Victor Montori, Per Vandvik, Arnav Agarwal, Derek Chu, Rohan D'Souza, Stefan Schandelmaier, Jamie Rylance, Benjamin Djulbegovic, Farid Foroutan, Manya Prasad, Hans de Beer, Roman Jaeschke, Sameer Parpia, Kameshwar Prasad, Andrew Owen, Ganesan Karthikeyan, Carlos Coello, Kevin Kim, Bram Rochwerg, Chunjuan Zhai, Lingli Zhang, Pasqualina Santaguida, Tahira Devji, Ivan Florez.
-
-ROBUST-RCT: Ying Wang.
-
-ICEMAN: Stefan Schandelmaier
-
-## Feedback
-
-Core GRADE is a process in evolution. We welcome feedback, particularly in how we can improve Core GRADE. Whatever you find unclear, too complicated, unnecessary, or could be better expressed please let us know. Just send an email to [guyatt@mcmaster.ca](mailto:guyatt@mcmaster.ca)
 
 ## Citing Core GRADE
 
-When you are using Core GRADE for your reviews, guidelines, or health technology assessments, though your access was through the website, we would appreciate your citing the original GRADE papers from the BMJ from which the material you have used came.
+When you are using Core GRADE for your reviews, guidelines, or health technology assessments, though your access was through the website, we would appreciate your citing the original GRADE papers published in The BMJ from which the material you have used originated.
+
+Shown below are the citations from the BMJ core Grade series.
 
 **Why Core GRADE is needed: introduction to a new series in The BMJ**\
 Guyatt G, Hultcrantz M, Agoritsas T, Iorio A, Vandvik PO, Montori VM. Why Core GRADE is needed: introduction to a new series in The BMJ. _BMJ_. 2025 Apr 15;389:e081902. [DOI](https://doi.org/10.1136/bmj-2024-081902) | [PMID](https://pubmed.ncbi.nlm.nih.gov/40233981) | [Download RIS](assets/ris/1.ris)
