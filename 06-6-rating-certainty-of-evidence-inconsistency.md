@@ -4,7 +4,7 @@
 
 By inconsistency we mean unexplained variability in results across studies. We are particularly concerned about inconsistency that is sufficiently great that, depending on which of the varying results represents the truth, inferences for clinical practice would differ. Authors writing about inconsistency sometimes use the term heterogeneity, particularly when referring to statistical tests related to inconsistency.
 
-In addressing what we mean by inconsistency, because of how GRADE users sometimes get confused, we will clarify what we do NOT mean by inconsistency. Ratings of certainty pertain to bodies of evidence summarised in lys systematic reviews. The GRADE process begins with construction of a structured clinical question. Studies addressing a particular question are certain to vary in patients enrolled, aspects of the intervention and comparator chosen, and the way the outcome is measured, and such variability is often appreciable.&#x20;
+In addressing what we mean by inconsistency, because of how GRADE users sometimes get confused, we will clarify what we do NOT mean by inconsistency. Ratings of certainty pertain to bodies of evidence summarised in lys systematic reviews. The GRADE process begins with construction of a structured clinical question. Studies addressing a particular question are certain to vary in patients enrolled, aspects of the intervention and comparator chosen, and the way the outcome is measured, and such variability is often appreciable.
 
 GRADE users may intuit that such variability (ie, inconsistency in PICO elements) compromises the certainty of evidence from a systematic review. This, however, is rarely the case. Indeed, if effects are similar from study to study, variability in the PICO elements enhances the applicability of the pooled effect to a wider range of clinical contexts. If effects vary across studies, differences in the PICO elements provide an opportunity to explore the possible sources of the inconsistency in results. Thus, inconsistency in PICO elements is not what decreases confidence in the evidence, it is variability in results.
 
@@ -34,7 +34,7 @@ When reflecting on the possibility that effects differ across patient subgroups 
 
 To solve the problem GRADE users must, for each subgroup, distinguish between three scenarios: one has no reason to suspect differences in effects across subgroups; one is confident that effects vary across subgroups; or one has good reason to suspect subgroup differences but is uncertain.
 
-Take, for example, two different age groups: young and old. The following are the three scenarios and corresponding actions they would mandate:&#x20;
+Take, for example, two different age groups: young and old. The following are the three scenarios and corresponding actions they would mandate:
 
 1. Previous research provides little support for the possibility that effects differ between old and young people. In this scenario, review authors would choose a broad age range for the PICO, and the findings would apply to both age groups.
 2. Previous research has given reason to be confident that the relative effects on older versus younger people differ. Accordingly, one would choose a narrow age range for the PICO (eg, older people) or create two separate PICOs and sets of recommendations, one for older people and the other for younger people.
@@ -84,7 +84,7 @@ Relation of point estimates to the threshold of certainty rating—Infrequently,
 
 Whichever threshold one uses, in the top half of Fig 6-3 all studies are on one side of the threshold (no need to consider rating down for inconsistency). In the bottom half of figure 6-3, the pairs of studies are on opposite sides of either threshold, with one pair showing benefit and the other showing harm, thus the need to consider rating down
 
-While, as here, we may initially assess inconsistency using relative risks, GRADE users must establish MIDs only on absolute risks. In this hypothetical example, the authors have, considering the baseline risk of the outcome, established that a relative risk reduction of about 15% will translate into a minimally important absolute effect of 1%. [Appendix 9 process](https://cdn.jsdelivr.net/gh/liamyao0713/core-grade-gitbook@main/assets/appendix/9.Three%20visual%20criteria.%20Generating%20an%20MID%20relative%20risk%20threshold.pdf) (Generating an MID from a relative risk threshold).
+While, as here, we may initially assess inconsistency using relative risks, GRADE users must establish MIDs only on absolute risks. In this hypothetical example, the authors have, considering the baseline risk of the outcome, established that a relative risk reduction of about 15% will translate into a minimally important absolute effect of 1%. [Appendix 9 process](https://github.com/liamyao0713/Core-GRADE-guide/blob/main/Appendix/9.Three%20visual%20criteria.%20Generating%20an%20MID%20relative%20risk%20threshold.pdf) (Generating an MID from a relative risk threshold).
 
 ## 6.8 Applying visual criteria: how choice of threshold affects judgments of inconsistency
 
