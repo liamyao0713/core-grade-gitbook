@@ -70,7 +70,7 @@ Fig 6-2: Flow chart summarizing GRADE’s approach to addressing inconsistency i
 
 ## 6.7 Three visual criteria from forest plots
 
-Consider the hypothetical body of evidence in Fig 6-3. When considering whether studies yield similar or different results, most observers of these forest plots will quickly conclude that results in the top half ofthe figure are consistent whereas results in the bottom half are inconsistent. Aspects of the results that justify these inferences are similarity versus differences in point estimates, the extent of overlap in confidence intervals (CIs), and the relation of point estimates to the threshold of certainty rating.
+Consider the hypothetical body of evidence in Fig 6-3. When considering whether studies yield similar or different results, most observers of these forest plots will quickly conclude that results in the top half of the figure are consistent whereas results in the bottom half are inconsistent. Aspects of the results that justify these inferences are similarity versus differences in point estimates, the extent of overlap in confidence intervals (CIs), and the relation of point estimates to the threshold of certainty rating.
 
 ![](.gitbook/assets/Fig16.jpg)
 
