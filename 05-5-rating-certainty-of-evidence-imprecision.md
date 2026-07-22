@@ -38,7 +38,11 @@ Fig 5-4: Rating certainty in little to no effect and rating down for imprecision
 
 ## 5.3 Rating down once or twice for imprecision
 
-As the CI gets wider, GRADE users will become progressively more uncertain about whether the truth is consistent with an important or unimportant effect, or whether it reflects a non-null effect. To reflect the degree of uncertainty influenced by imprecision of evidence, GRADE users can consider rating down one or two levels for imprecision. A role for plain language statements in making decisions Stating results in plain language that both clinicians and patients will easily understand is important in making GRADE optimally useful for clinical practice. GRADE has therefore provided guidance in making such statements (Table 5-1). We will return to these statements in [_presenting the evidence in summary of findings tables_](11-11-presenting-the-evidence-in-summary-of-findings-tables.md), in which we discuss GRADE summary of findings tables; we introduce them here because they can help decide on rating down once or twice for imprecision.
+As the CI gets wider, GRADE users will become progressively more uncertain about whether the truth is consistent with an important or unimportant effect (if their threshold is the MID), or whether it reflects a non-null effect (if their threshold is the null). When the confidence interval is sufficiently wide, reviewers will consider rating down certainty for imprecision by one or even two levels.&#x20;
+
+**A role for plain language statements in making decisions**&#x20;
+
+Stating results in plain language that both clinicians and patients will easily understand is important in making GRADE optimally useful for clinical practice. GRADE has therefore provided guidance in making such statements (Table 5-1). We will return to these statements in [_presenting the evidence in summary of findings tables_](11-11-presenting-the-evidence-in-summary-of-findings-tables.md), in which we discuss GRADE summary of findings tables; we introduce them here because they can help decide on rating down once or twice for imprecision.
 
 Table 5-1: GRADE plain language statements when using the null effect or MID thresholds
 
