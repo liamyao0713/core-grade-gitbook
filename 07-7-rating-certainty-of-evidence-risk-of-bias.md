@@ -8,13 +8,25 @@ The information in this section will enable GRADE users to understand the defini
 
 Before starting, we have to begin with a warning and a suggestion. The systematic review community has become aware of the distressing frequency of studies that are completely untrustworthy because of inaccurate reporting of methods or outright fraud. Systematic review authors must therefore consider beginning with a check for such studies. A number of instruments are available ([INSPECT-SR](https://www.medrxiv.org/content/10.1101/2025.09.03.25334905v1), [TRACT](https://fairsharing.org/10.25504/FAIRsharing.d03f23), [IPD Integrity Tool](https://pubmed.ncbi.nlm.nih.gov/39136348/)). For studies that fail this check and are likely, or highly likely. to be untrustworthy, reviewers should discard them altogether or include them only in a secondary sensitivity analysis.
 
-## 7.2 What do we mean by risk of bias
+## 7.2 Untrustworthy studies
+
+Before starting in to well established approaches to risk of bias assessment, we must provide a warning and a suggestion. The systematic review community has become aware of the distressing frequency of studies that are completely untrustworthy because of inaccurate reporting of methods or outright fraud. Systematic review authors must therefore consider beginning with a check for such studies. A number of instruments are available (Liam insert here please) . For studies that fail this check and are likely, or highly likely to be untrustworthy, reviewers should note their existence but then discard them altogether or include them only in a secondary sensitivity analysis. Limitations of including problematic studies in sensitivity analyses, however, include generating importantly different (and misleading) estimates, and false precision and consequently misleading certainty of evidence ratings.
+
+[https://fairsharing.org/5510](https://fairsharing.org/5510)
+
+[https://pubmed.ncbi.nlm.nih.gov/39136348/](https://pubmed.ncbi.nlm.nih.gov/39136348/)
+
+[https://www.medrxiv.org/content/10.1101/2025.09.03.25334905v3](https://www.medrxiv.org/content/10.1101/2025.09.03.25334905v3)
+
+And [https://inspect.sr/](https://inspect.sr/)
+
+## 7.3 What do we mean by risk of bias
 
 We define bias as a systematic deviation from the underlying true effect of an intervention on an outcome of interest in a given population. Both randomised controlled trials and NRSI may be subject to limitations in design or execution that can bias the results. Well designed studies will institute safeguards, such as centralised randomisation and blinding, that minimise risk of bias,. To the extent studies do not implement these safeguards, risk of bias increases. If serious limitations exist among the studies dominating the pooled estimate of effect, Core GRADE users will typically rate down the overall certainty of evidence for risk of bias.
 
 Issues of risk of bias, and thus safeguards against bias, differ between randomised controlled trials and NRSI. We will first deal with randomised controlled trials and then NRSI. The subsequent discussion will address how GRADE users should look across the body of evidence to decide whether or not to rate down for risk of bias.
 
-## 7.3 Risk of bias in individual studies: Randomized trials
+## 7.4 Risk of bias in individual studies: Randomized trials
 
 Box 7-1 summarises the risk of bias items that randomised controlled trial risk of bias instruments appropriately identify and that GRADE users may want to consider.
 
@@ -52,7 +64,7 @@ Developers of [ROBUST-RCT](https://www.clarityresearch.ca/ebm-implementation-too
 
 Some GRADE users with previous positive experience using one of the other available RoB evaluation instruments may value familiarity and continue with its use. Whatever instrument they choose, GRADE users will assess the extent of risk of bias associated with each item for each outcome in each individual study and subsequently rate each outcome- or if the same for all outcomes, for the entire study - as low or high risk of bias.
 
-## 7.4 Risk of bias in non-randomized studies
+## 7.5 Risk of bias in non-randomized studies
 
 #### **Cohort and case-control studies**
 
@@ -87,7 +99,7 @@ Interventions for which harmful effects are restricted to those who receive trea
 
 For example, a study using a large administrative database including more than 97 000 individuals who underwent an outpatient colonoscopy identified all those who were admitted to hospital with intestinal bleeding or perforation within 30 days. Because the spontaneous occurrence of such events in any given 30 day period in individuals not undergoing colonoscopy is very unusual, the study provides an accurate estimate of major complications. Thus, for colonoscopy adverse events of bleeding (1.64 per 1000) and perforation (0.85 per 1000), the results provide the same low risk of bias estimates as we find in rigorous randomised controlled [trials](https://doi.org/10.1053/j.gastro.2008.08.058).
 
-## 7.5 Deciding on low or high risk of bias in individual randomized controlled trials or NRSI
+## 7.6 Deciding on low or high risk of bias in individual randomized controlled trials or NRSI
 
 The extent of risk of bias in an individual study represents a continuum from minimal to extremely serious risk of bias. For simplicity, however, GRADE users can assess the overall risk of bias in individual studies as low or high. This judgment requires a threshold differentiating the two categories and the acknowledgment of close call situations (Fig 7-1). The arrows in Fig 7-1 are a reminder that risk of bias may be close to a chosen threshold and that close call situations may bear on subsequent decisions.
 
@@ -103,7 +115,7 @@ For example, in a [systematic review of randomised controlled trials addressing 
 
 The choice of threshold—high risk of bias in only one or more than one item or category—may be an issue that will be impossible to resolve: how often does risk of bias actually result in bias? We do not know the answer and are unlikely ever to know. Moreover, the answer is likely to be context specific. Rating down a study for a single item or for two items assessed as high risk of bias would be reasonable; any more would be questionable. Explicit statement of the threshold choice, as well as the rationale, increases transparency.
 
-## 7.6 Risk of bias may differ across outcomes in a study
+## 7.7 Risk of bias may differ across outcomes in a study
 
 Different outcomes from the same study may be at different risk of bias. For instance, risk of bias due to missing outcome data may be higher for an outcome that is difficult to follow for a long period (eg, quality of life) than for an outcome that is easy to follow (e.g, survival). The same is true for risk of bias due to not blinding of outcome assessors: the impact of not blinding on risk of bias may differ across subjective (higher risk) versus objective (lower risk) outcomes. Blinding of outcome assessors is particularly irrelevant for all cause mortality.
 
@@ -111,7 +123,7 @@ A [systematic review evaluating the effect of red and processed meat intake on c
 
 In many systematic reviews, however, authors typically report a figure or table with risk of bias assessments for each study without distinguishing between outcomes. Although one might infer that in such instances authors considered the extent of risk of bias to be similar for each outcome, they may have failed to consider the possibility of different risk of bias across outcomes. Thus, an explicit statement from GRADE users that they did consider the issue and either concluded risk similar for all outcomes, or report separately for different outcomes, would be ideal.
 
-## 7.7 Rating risk of bias across bodies of evidence
+## 7.8 Rating risk of bias across bodies of evidence
 
 The ultimate goal of assessing risk of bias in individual studies is to inform whether to rate down the certainty of evidence across the entire body of evidence. In addressing risk of bias across all studies, GRADE users should follow the steps summarised in Fig 7-2. The flow chart applies to both randomised controlled trials that will start as overall high certainty evidence and NRSI that will start as low certainty evidence. For NRSI, the rating down for risk of bias refers to moving from low to very low certainty evidence.
 
@@ -137,6 +149,6 @@ If results are not importantly different in low and high risk of bias studies, C
 
 For example, a [systematic review of randomised controlled trials compared the effect of human or bovine colostrum with placebo in preterm infants](https://pubmed.ncbi.nlm.nih.gov/29991526/). For the outcome time to reach full feed, four studies with 131 participants proved at low risk of bias and two studies with 154 participants proved at high risk. Low and high risk of bias studies suggested similar results (low risk of bias studies carried 54% of weight: weighted mean difference −4.19 days, 95% CI −9.40 to 1.03; high risk of bias studies carried 46% of weight: −3.47 days, −9.06 to 2.13) (P=0.85 for interaction). Thus, reviewers appropriately used the results from all studies as the best effect estimate (−3.55 days, −6.77 to −0.33) and did not rate down certainty of evidence for risk of bias.
 
-## 7.8 Conclusion
+## 7.9 Conclusion
 
 Fig 7-2 summarizes the Core GRADE approach to assessment of risk of bias. GRADE users will, in considering risk of bias, start by assessing individual studies as being at low or high risk of bias. When considering all studies together to decide whether to rate down certainty of evidence for risk of bias, GRADE users will first consider the relative contribution of high and low risk of bias studies. If high risk of bias studies dominate the evidence and bias may be responsible for the observed effect or lack of effect, GRADE users will rate down the certainty of evidence for risk of bias. If appreciable evidence exists from low risk of bias studies, GRADE users will determine whether low and high risk of bias studies suggest substantially different effects: if that proves the case, they will use only the results from low risk of bias studies and not rate down the certainty of evidence for risk of bias; if not, they will use the pooled results from all studies and again not rate down.
