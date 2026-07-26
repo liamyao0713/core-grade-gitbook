@@ -6,7 +6,7 @@ This section will help you understand how to assess risk of bias in individual s
 
 The information in this section will enable GRADE users to understand the definition of risk of bias, choose appropriate instruments for assessing risk of bias of individual studies, rate risk of bias across the body of evidence by considering the relative contribution of low and high risk of bias studies to the pooled estimate and the similarities or differences in their results, understand the causes of and approaches for detecting publication bias, and make appropriate judgments about when to rate up the certainty of evidence from non-randomized studies of interventions (NRSI, synonym observational studies).
 
-Before starting, we have to begin with a warning and a suggestion. The systematic review community has become aware of the distressing frequency of studies that are completely untrustworthy because of inaccurate reporting of methods or outright fraud. <mark style="color:red;">Systematic review authors must therefore consider beginning with a check for such studies. A number of instruments are available (</mark>[<mark style="color:red;">INSPECT-SR</mark>](https://www.medrxiv.org/content/10.1101/2025.09.03.25334905v1)<mark style="color:red;">,</mark> [<mark style="color:red;">TRACT</mark>](https://fairsharing.org/10.25504/FAIRsharing.d03f23)<mark style="color:red;">,</mark> [<mark style="color:red;">IPD Integrity Tool</mark>](https://pubmed.ncbi.nlm.nih.gov/39136348/)<mark style="color:red;">). For studies that fail this check and are likely, or highly likely. to be untrustworthy, reviewers should discard them altogether or include them only in a secondary sensitivity analysis.</mark>
+
 
 ## 7.2 Untrustworthy studies
 
