@@ -20,9 +20,9 @@
 
 &#x20;     Pasqualina Santaguida [santag@mcmaster.ca](mailto:santag@mcmaster.ca)
 
-&#x20;     _HEI faculty member_
+&#x20;     HEI faculty member
 
-&#x20;
+
 
 4. I have found Core GRADE extremely useful. It keeps the essential logic of GRADE — explicit judgments about certainty, patient-important outcomes, and the strength of recommendations — while making it much easier to teach and apply including with busy residents whose feedback has been extremely positive. As a junior researcher, Core GRADE has also helped me better organize my own thinking when moving from individual studies to an overall, making me more careful and explicit about why I would or would not trust a body of evidence.
 
