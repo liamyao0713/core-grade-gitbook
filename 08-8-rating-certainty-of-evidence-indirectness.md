@@ -58,11 +58,11 @@ Guideline developers who are not clear on the concept may use indirect evidence 
 
 Bearing in mind the possibility of indirect evidence, guideline developers and HTA practitioners, when formulating search strategies for questions in which they anticipate sparse direct evidence, should seriously consider systematically searching for indirect evidence that might inform their recommendations. Experts on the review team may be aware of the likelihood of finding relevant indirect evidence, and their advice may bear on the advisability of conducting the search.
 
-#### Examples of indirectness: differences in population
+## 8.8 Examples of indirectness: differences in population
 
 Differences in age groups constitute a common indirectness issue in patients: elderly versus younger people, or children versus adults. For example, in a [guideline that addressed the management of pancreatitis in children](https://pubmed.ncbi.nlm.nih.gov/29280782/), authors found very limited evidence for antibiotic use in this age group. They therefore conducted a search for evidence from adults, ultimately using the indirect evidence as the basis for their recommendation. Although they did not conduct a formal certainty rating, authors described the evidence as limited, acknowledging decreased certainty associated with indirectness.
 
-## 8.8 Changes over time&#x20;
+#### &#x20;Changes over time&#x20;
 
 Target patients may differ in many ways from patients enrolled in research studies. For example, the characteristics of presenting patients may evolve over time, as occurred during the covid-19 pandemic. Casirivimab and imdevimab given in combination and sotrovimab given alone are monoclonal antibodies that bind to the SARS-CoV-2 spike protein, thus neutralising the virus. Randomised controlled trials conducted in 2020 and 2021 showed that both casirivimab and imdevimab combined and sotrovimab alone reduced mortality in patients infected with the circulating virus at that time, motivating World Health Organization recommendations for use of these agents.
 
@@ -70,27 +70,17 @@ However, changes in the sequence of the virus spike protein that occurred when o
 
 Similar challenges arise when, in searches for direct evidence, GRADE users must rely on results from older studies when diagnostic criteria and the availability of treatments differed. Relapsing and remitting multiple sclerosis provides an example of this phenomenon.
 
-## 8.9 Differences in condition
+#### Differences in condition
 
 On occasion, when direct evidence is unavailable or of low or very low certainty, systematic review authors can look to populations with some similarity but nevertheless considerable differences from the target population. For instance, [a review team addressed the choice of mechanical or bioprosthetic valves in patients with dialysis dependent end stage kidney disease who required surgery for valvular heart disease](https://pubmed.ncbi.nlm.nih.gov/35820696/). Patients receiving mechanical valves require long term anticoagulation whereas those receiving bioprosthetic valves do not. Observational studies comparing the two valve types provided only very low certainty evidence for one of the authors’ key outcomes—postoperative and non-gastrointestinal bleeding at latest follow-up.
 
 Given the very low certainty evidence, the authors sought indirect evidence and conducted a systematic review and meta-analysis of five randomised controlled trials of warfarin versus placebo in other populations. They found an incidence rate ratio for bleeding of 2.99 (95% confidence interval (CI) 1.46 to 6.13) which, after rating down for indirectness of the population, they considered moderate certainty evidence of increased bleeding with the mechanical heart valves.
 
-## 8.10 Indirect evidence for harms
-
-In rare conditions, randomised controlled trials are typically small or very small. Estimates of intervention harms may therefore yield very wide CIs warranting rating down twice for imprecision.
-
-The interventions in such situations may have been repurposed after use in much larger populations with other conditions. Although it would be unwise to assume similar benefits across these conditions and the new indication, one might expect the adverse effects associated with a drug to be similar irrespective of the illness for which it is administered. One might therefore rate down for indirectness only once—or not at all—for harms. Accordingly, if one had high certainty evidence for harms in other conditions, one would have moderate or high certainty for the population of immediate interest.
-
-GRADE users have applied these principles. Examples include the use of steroids in other inflammatory conditions to its use in thrombotic thrombocytopenic purpura and chronic urticaria, and allergen immunotherapy in asthma and allergic rhinitis to its use in atopic dermatitis.
-
-Systematic review authors have also applied the same principle to related conditions to improve the precision (ie, narrow CIs) of the estimates of harms across each of these conditions. For instance, a [systematic review team pooled data from trials of corticosteroid use in sepsis, acute respiratory distress syndrome, and community acquired pneumonia to generate precise estimates of adverse effects](https://pubmed.ncbi.nlm.nih.gov/38567382/).
-
-#### Examples of indirectness: differences in interventions
+## 8.9 Examples of indirectness: differences in interventions
 
 Interventions studied may differ from the target PICO in several ways, including dose of a drug (higher or lower than the target intervention), duration of administration (shorter or longer), route of administration (parenteral versus oral), or the skill level of providers of interventions such as in educational, surgical, physiotherapy, and psychosocial interventions. Another concerning common source of indirectness for such interventions is that authors may not sufficiently describe the components of the interventions and this failure can preclude their replication. For instance, the details for cardiac rehabilitation were so poorly reported in the literature that surveys of rehabilitation programmes showed that what they implemented in practice differed substantially from what randomised controlled trials had shown to be effective. Inadequate description of the intervention constitutes a reason for rating down for indirectness.
 
-## 8.11 Non-adherence
+#### &#x20;Non-adherence
 
 Another common way that trials of interventions differ from the target interventions is non-adherence of patients. Generally, patients and their healthcare providers are interested in the impact of an intervention when used as intended. High levels of non-adherence introduce problematic indirectness and thus compromise the certainty of the evidence. For example, a [randomised controlled trial of nortriptyline as an adjunct to nicotine replacement for smoking cessation randomised 901 adults attending a smoking cessation service to nortriptyline or placebo](https://pubmed.ncbi.nlm.nih.gov/18441375/).
 
@@ -110,7 +100,7 @@ Indeed, a per protocol analysis focusing on the Norwegian population estimated t
 
 Finally, it is possible that randomised trials in which patients achieved high adherence may provide indirect evidence from a public health or funder’s point of view. Studies of behavioural interventions that most patients find extremely challenging to follow may enroll particularly committed patients and implement adherence enhancing strategies that are unfeasible or not widely applicable. They may thus achieve adherence that is unrealistically high for clinical practice. From a public health point of view, putting resources into such interventions for typical patients who cannot achieve high levels of adherence may be a poor decision. The high adherence situation thus represents, from the policy makers’ perspective, problematic indirect evidence.
 
-## 8.12 Trials that allow switching treatments
+#### Trials that allow switching treatments
 
 Oncology trials may have protocols that allow switching treatments when a patient does not respond to the original intervention. For instance, consider the relative effects of two anticancer drugs, interferon-alfa and sunitinib, in adults with renal cancer. Systematic review authors encountered trials in which participants who experienced disease progression after treatment with interferon-alfa received sunitinib and other related treatments. How might this design bear on issues of indirectness?
 
@@ -118,11 +108,11 @@ The answer lies in considering the target PICO. GRADE users whose target PICO de
 
 A second determinant of the necessity to rate down would be the apparent effect of the interventions. Considering the example comparison, if substantial switching to sunitinib occurs and the result for the arm that began with interferon-alfa proves similar to that of the sunitinib arm, the issue is in doubt: is the “rescue” sunitinib responsible for the similar results, or would the results have been achieved with interferon-alfa alone? On the other hand, if sunitinib proves superior, that superiority would only have been greater had no switching occurred. In the relevant systematic review, sunitinib and other related target treatments proved superior to interferon-alfa (relative survival 1.3, 95% CI 1.1 to 1.5). Thus, indirectness does not compromise the conclusion about sunitinib’s superiority to interferon-alfa, and authors have no need to rate down for indirectness.
 
-## 8.13 Change of intervention technology
+#### Change of intervention technology
 
 When the intervention is a device or technology, its evolution over time can result in important indirectness that lowers certainty. For example, devices that help people manage their diabetes are constantly changing. Continuous glucose monitoring systems were approved by the Food and Drug Administration in the late 1990s and have quickly evolved with new sensor technology such that wear time has lengthened from a few days to weeks and months. “Real-time” systems, systems managed with smart phones, and systems linked to insulin delivery pumps (closed loop systems) are now available. Guidelines on diabetes technology struggled with indirectness of older evidence and have continuously balanced two strategies: excluding studies of obsolete systems versus including studies of older systems and lowering certainty due to indirectness.
 
-#### Examples of indirectness: differences in comparators
+## 8.10 Examples of indirectness: differences in comparators
 
 Situations in which the comparator differs from that in the target PICO include variations in standard care between jurisdictions, use of placebo when an active treatment is the clinically relevant active comparator, inferior older alternatives rather than current optimal alternatives, and differences in dose or route of administration.37 These problems may arise in searches for direct evidence when systematic review authors do not explicitly identify their comparator.
 
@@ -136,7 +126,7 @@ Chinese investigators studying randomised trials of anticancer drugs authorised 
 
 Investigators may sometimes have no choice but to use placebo comparisons to obtain indirect estimates of effects of alternative active agents. For instance, systematic review authors informing a clinical practice guideline were interested in interventions for the management of patients with X linked hypophosphataemia.50 In particular, they wanted to evaluate the impact of burosumab on pain and function, both against no specific treatment and against conventional treatment of phosphate salts and active vitamin D. The authors identified a randomised controlled trial of burosumab versus placebo that provided moderate to high certainty evidence for some of the key outcomes, but no study comparing the drug with standard of care. They offered evidence from the trial against placebo as the best estimates representing the maximum differences against standard of care, rating down once for indirectness for each outcome. Although not a satisfactory situation, the authors approach is the best possible under the circumstances.
 
-## 8.14 Differences in outcomes
+## 8.11 Differences in outcomes
 
 The impact of intervention versus comparators on outcomes may differ as a result of how the outcomes are measured (eg, symptomatic versus asymptomatic vertebral fracture or symptomatic versus asymptomatic deep vein thrombosis), or the duration of follow-up (short term versus long term). Outcomes may also differ by how they are measured: directly (death rates) or indirectly through surrogate measures (reduction in viral load in HIV). Such issues will arise when GRADE users include studies that measure only surrogates and not patient important outcomes.
 
@@ -158,6 +148,16 @@ Table 8-2: Summarises issues in rating down for indirectness, referring back to 
 
 <table data-header-hidden><thead><tr><th width="118.6171875" valign="top"></th><th width="153.96875"></th><th width="235.140625"></th><th></th></tr></thead><tbody><tr><td valign="top">PICO element</td><td>Reason for rating down</td><td>Examples</td><td>Likelihood of rating down</td></tr><tr><td valign="top">Population</td><td>Population differences may interact with magnitude of effect</td><td><p>Adult versus paediatric Changes in virus antigens</p><p>Comorbidity (diabetes, renal disease)</p></td><td>Low likelihood because relative effects are typically similar across populations</td></tr><tr><td valign="top">Intervention</td><td>Interventions often differ in dose, duration, or subclass</td><td><p>Drugs within a class Dose of drug</p><p>Non-adherence</p><p>Switching versus non-switching of treatments within a treatment strategy</p><p>Advances in technology</p></td><td>Intermediate likelihood depending on underlying biology and on magnitude of issues such as non-adherence and frequency of switching</td></tr><tr><td valign="top">Comparison</td><td>Different comparators may have different effects on target outcomes</td><td><p>Use of placebos versus unblinded standard treatment or alternative intervention</p><p>Inferior older alternatives in trials of new drug</p><p>Suboptimal doses of comparators</p></td><td>Substantial likelihood in trials of new agents when an effective treatment already exists, particularly more than one effective treatment</td></tr><tr><td valign="top">Outcome</td><td>Impact on surrogates often fails to translate into improvement in patient important outcomes</td><td><p>Cardiac function versus mortality in heart failure Bone density versus fractures in osteoporosis Test performance versus function in dementia Blood glucose verus microvascular and</p><p>macrovascular morbidity and mortality in diabetes</p></td><td>High likelihood because of frequent disappointing results in randomised controlled trials examining examining patient important outcomes</td></tr></tbody></table>
 
-## 8.15 Conclusion
+#### Indirect evidence for harms
+
+In rare conditions, randomised controlled trials are typically small or very small. Estimates of intervention harms may therefore yield very wide CIs warranting rating down twice for imprecision.
+
+The interventions in such situations may have been repurposed after use in much larger populations with other conditions. Although it would be unwise to assume similar benefits across these conditions and the new indication, one might expect the adverse effects associated with a drug to be similar irrespective of the illness for which it is administered. One might therefore rate down for indirectness only once—or not at all—for harms. Accordingly, if one had high certainty evidence for harms in other conditions, one would have moderate or high certainty for the population of immediate interest.
+
+GRADE users have applied these principles. Examples include the use of steroids in other inflammatory conditions to its use in thrombotic thrombocytopenic purpura and chronic urticaria, and allergen immunotherapy in asthma and allergic rhinitis to its use in atopic dermatitis.
+
+Systematic review authors have also applied the same principle to related conditions to improve the precision (ie, narrow CIs) of the estimates of harms across each of these conditions. For instance, a [systematic review team pooled data from trials of corticosteroid use in sepsis, acute respiratory distress syndrome, and community acquired pneumonia to generate precise estimates of adverse effects](https://pubmed.ncbi.nlm.nih.gov/38567382/).
+
+## 8.14 Conclusion
 
 Limitations in the extent to which the PICO in the available studies differs from the target PICO—in GRADE called indirectness—represent a common reason for rating down certainty of evidence in the development of guidelines and health technology assessments. When direct evidence is unavailable or of low or very low certainty, GRADE users should consider searching for indirect evidence that may result in higher certainty evidence. Whenever the PICO elements in the relevant studies do not completely correspond with GRADE users’ target PICO, they must consider the likelihood that these differences will result in important variation in intervention effects, and if that is likely they should rate down by one level for indirectness or—particularly with surrogate outcomes—by two levels.
