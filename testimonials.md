@@ -34,3 +34,11 @@
 
 &#x20;     Priyanka Aggarwal, independent public health researcher
 
+
+
+6. Core GRADE has facilitated the transition of the GRADE approach from a methodological concept to an operational component of policy development, helping ensure that coverage determinations are informed by transparent, reproducible, and patient-centered evaluations of the available evidence.&#x20;
+
+&#x20;      Thomas Kosloff, DC, GDCE
+
+&#x20;      Senior Medical Policy Research Analyst | A/B/DME, Noridian Healthcare Solutions, LLC
+
