@@ -2,11 +2,7 @@
 
 ## 7.1 What you will learn in this section
 
-This section will help you understand how to assess risk of bias in individual studies and across bodies of evidence, recognize publication bias, and appropriately rate the certainty of evidence from non-randomized studies.
-
-The information in this section will enable GRADE users to understand the definition of risk of bias, choose appropriate instruments for assessing risk of bias of individual studies, rate risk of bias across the body of evidence by considering the relative contribution of low and high risk of bias studies to the pooled estimate and the similarities or differences in their results, understand the causes of and approaches for detecting publication bias, and make appropriate judgments about when to rate up the certainty of evidence from non-randomized studies of interventions (NRSI, synonym observational studies).
-
-
+The information in this section will enable GRADE users to understand the definition of risk of bias, choose appropriate instruments for assessing risk of bias of individual studies, rate risk of bias across the body of evidence by considering the relative contribution of low and high risk of bias studies to the pooled estimate and the similarities or differences in their results.
 
 ## 7.2 Untrustworthy studies
 
@@ -35,7 +31,11 @@ Box 7-1 summarises the risk of bias items that randomised controlled trial risk 
 * Not blinding outcome assessors
 * Not blinding data analysts
 * Missing outcome data
-* Less important items variably captured across randomised controlled trial risk of bias tools
+
+
+
+**Less important items variably captured across randomised controlled trial risk of bias tools**
+
 * Imbalance in co-interventions between groups
 * Difference in outcome assessment or data collection between groups
 * Difference in follow-up time, frequency, or intensity of outcome assessment between groups
@@ -51,8 +51,6 @@ In contrast, [ROBUST-RCT](https://cdn.jsdelivr.net/gh/liamyao0713/core-grade-git
 [ROBUST-RCT](https://www.clarityresearch.ca/ebm-implementation-tools/risk-of-bias-instrument-for-use-in-systematic-reviews-for-randomised-controlled-trials-robust-rct) includes six core items addressing random sequence generation, allocation concealment, blinding of participants, blinding of healthcare providers, blinding of outcome assessors, and missing outcome data, as well as eight optional items. The instrument provides two approaches to addressing missing outcome data. Those who want to go beyond Core GRADE may consider a [more sophisticated approach that is beyond Core GRADE](https://cdn.jsdelivr.net/gh/liamyao0713/core-grade-gitbook@main/assets/appendix/11.Beyond%20Core%20GRADE.%20Rating%20risk%20of%20bias%20across%20bodies%20of%20evidence-%20When%20evidence%20dominated%20by%20high%20risk%20of%20bias%20studies%2C%20Considering%20direction%20of%20bias.pdf) that involves looking across results from all studies (Alternative approach to assessing missing outcome data).
 
 Failure to ensure methodological safeguards may not lead to risk of bias (eg, blinding of participants is irrelevant in a trial enrolling neonates). [ROBUST-RCT](https://www.clarityresearch.ca/ebm-implementation-tools/risk-of-bias-instrument-for-use-in-systematic-reviews-for-randomised-controlled-trials-robust-rct) addresses this issue by including two steps for assessing risk of bias: firstly, evaluating whether a methodological safeguard has been implemented (eg, whether participants were blinded) and, secondly, judging risk of bias (eg, whether a lack of blinding actually increased bias).
-
-Developers of [ROBUST-RCT](https://www.clarityresearch.ca/ebm-implementation-tools/risk-of-bias-instrument-for-use-in-systematic-reviews-for-randomised-controlled-trials-robust-rct) will provide updates about the instrument at this [link](https://www.clarityresearch.ca/ebm-implementation-tools/risk-of-bias-instrument-for-use-in-systematic-reviews-for-randomised-controlled-trials-robust-rct).
 
 Some GRADE users with previous positive experience using one of the other available RoB evaluation instruments may value familiarity and continue with its use. Whatever instrument they choose, GRADE users will assess the extent of risk of bias associated with each item for each outcome in each individual study and subsequently rate each outcome- or if the same for all outcomes, for the entire study - as low or high risk of bias.
 
