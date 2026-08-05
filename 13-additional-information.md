@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Additional information
 
 These appendices provide supporting examples and extensions for Core GRADE. Use **Open PDF** for browser reading, and **Download DOCX** when you need the editable Word version.
