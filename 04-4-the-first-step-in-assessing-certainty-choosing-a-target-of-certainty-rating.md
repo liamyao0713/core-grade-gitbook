@@ -36,6 +36,8 @@ When assessing the effect of an intervention, the primary interest is whether it
 
 The focus of Core GRADE is on these two questions: whether there is an effect compared with the alternative (ie, using the null as a threshold) and whether the effect is large enough to be important for patients (ie, using the MID as a threshold) (Fig 4-4). Use of additional thresholds of moderate and large effects has proved challenging for GRADE users and in our judgment does not provide important incremental value in making sound and optimally useful ratings of certainty. Nevertheless, those who wish to go beyond Core GRADE may wish to consider judgments of small, moderate, and large effects ([imprecision rating for ranges of effects](https://cdn.jsdelivr.net/gh/liamyao0713/core-grade-gitbook@main/assets/appendix/4.Beyond%20Core%20GRADE-%20First%20step%20in%20assessing%20certainty-%20Imprecision%20rating%20for%20ranges%20of%20effect%20.pdf)).
 
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 <img src=".gitbook/assets/Fig5.jpg" alt="" width="100%">
 
 Fig 4-4: Thresholds and ranges for rating certainty of evidence in Core GRADE. Besides the Core GRADE thresholds of null effect and MID, two other thresholds may be considered-the moderate effect threshold that demarcates small versus moderate effects, and the large effect threshold that demarcates moderate versus large effects. GRADE=Grading of Recommendations Assessment, Development and Evaluation; MID-minimal important difference.
