@@ -38,8 +38,6 @@ The focus of Core GRADE is on these two questions: whether there is an effect co
 
 <figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-<img src=".gitbook/assets/Fig5.jpg" alt="" width="100%">
-
 Fig 4-4: Thresholds and ranges for rating certainty of evidence in Core GRADE. Besides the Core GRADE thresholds of null effect and MID, two other thresholds may be considered-the moderate effect threshold that demarcates small versus moderate effects, and the large effect threshold that demarcates moderate versus large effects. GRADE=Grading of Recommendations Assessment, Development and Evaluation; MID-minimal important difference.
 
 Deciding what it is in which we are rating our certainty (ie deciding on the target of the certainty rating) involves three steps. For the first step, GRADE users decide if they are interested in whether an effect is or is not important, or whether a true underlying effect compared with the alternative exists.
