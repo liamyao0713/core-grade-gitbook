@@ -60,7 +60,7 @@ Bearing in mind the possibility of indirect evidence, guideline developers and H
 
 ## 8.8 Examples of indirectness: differences in population
 
-Differences in age groups constitute a common indirectness issue in patients: elderly versus younger people, or children versus adults. For example, in a [guideline that addressed the management of pancreatitis in children](https://pubmed.ncbi.nlm.nih.gov/29280782/), authors found very limited evidence for antibiotic use in this age group. They therefore conducted a search for evidence from adults, ultimately using the indirect evidence as the basis for their recommendation. Although they did not conduct a formal certainty rating, authors described the evidence as limited, acknowledging decreased certainty associated with indirectness.
+Differences in age groups constitute a common indirectness issue in patients: elderly versus younger people, or children versus adults. For example, in [a guideline](https://pubmed.ncbi.nlm.nih.gov/29280782/) that addressed the management of pancreatitis in children, authors found very limited evidence for antibiotic use in this age group. They therefore conducted a search for evidence from adults, ultimately using the indirect evidence as the basis for their recommendation. Although they did not conduct a formal certainty rating, authors described the evidence as limited, acknowledging decreased certainty associated with indirectness.
 
 #### &#x20;Changes over time&#x20;
 
@@ -72,7 +72,7 @@ Similar challenges arise when, in searches for direct evidence, GRADE users must
 
 #### Differences in condition
 
-On occasion, when direct evidence is unavailable or of low or very low certainty, systematic review authors can look to populations with some similarity but nevertheless considerable differences from the target population. For instance, [a review team addressed the choice of mechanical or bioprosthetic valves in patients with dialysis dependent end stage kidney disease who required surgery for valvular heart disease](https://pubmed.ncbi.nlm.nih.gov/35820696/). Patients receiving mechanical valves require long term anticoagulation whereas those receiving bioprosthetic valves do not. Observational studies comparing the two valve types provided only very low certainty evidence for one of the authors’ key outcomes—postoperative and non-gastrointestinal bleeding at latest follow-up.
+On occasion, when direct evidence is unavailable or of low or very low certainty, systematic review authors can look to populations with some similarity but nevertheless considerable differences from the target population. For instance, [a review](https://pubmed.ncbi.nlm.nih.gov/35820696/) team addressed the choice of mechanical or bioprosthetic valves in patients with dialysis dependent end stage kidney disease who required surgery for valvular heart disease. Patients receiving mechanical valves require long term anticoagulation whereas those receiving bioprosthetic valves do not. Observational studies comparing the two valve types provided only very low certainty evidence for one of the authors’ key outcomes—postoperative and non-gastrointestinal bleeding at latest follow-up.
 
 Given the very low certainty evidence, the authors sought indirect evidence and conducted a systematic review and meta-analysis of five randomised controlled trials of warfarin versus placebo in other populations. They found an incidence rate ratio for bleeding of 2.99 (95% confidence interval (CI) 1.46 to 6.13) which, after rating down for indirectness of the population, they considered moderate certainty evidence of increased bleeding with the mechanical heart valves.
 
@@ -82,11 +82,11 @@ Interventions studied may differ from the target PICO in several ways, including
 
 #### &#x20;Non-adherence
 
-Another common way that trials of interventions differ from the target interventions is non-adherence of patients. Generally, patients and their healthcare providers are interested in the impact of an intervention when used as intended. High levels of non-adherence introduce problematic indirectness and thus compromise the certainty of the evidence. For example, a [randomised controlled trial of nortriptyline as an adjunct to nicotine replacement for smoking cessation randomised 901 adults attending a smoking cessation service to nortriptyline or placebo](https://pubmed.ncbi.nlm.nih.gov/18441375/).
+Another common way that trials of interventions differ from the target interventions is non-adherence of patients. Generally, patients and their healthcare providers are interested in the impact of an intervention when used as intended. High levels of non-adherence introduce problematic indirectness and thus compromise the certainty of the evidence. For example, [a randomised controlled trial ](https://pubmed.ncbi.nlm.nih.gov/18441375/)of nortriptyline as an adjunct to nicotine replacement for smoking cessation randomised 901 adults attending a smoking cessation service to nortriptyline or placebo.
 
 They found that one year after quit day, 11% in the nortriptyline group versus 9% in the control group (relative risk 1.26, 95% CI 0.84 to 1.87) had stopped smoking. However, much earlier, four weeks after quit day, only 59% of patients in the treatment group and 56% of patients in the control group were taking the drugs. Had adherence been close to 100%, the impact of the intervention may have been greater, the estimate more precise, and the evidence would warrant higher certainty. The trial thus provides only indirect evidence of the effect of nortriptyline on smoking cessation in those who use the intervention.
 
-In a [systematic review that included additional trials that also had concerns about adherence](https://pmc.ncbi.nlm.nih.gov/articles/PMC8406789/), the CI was narrower (relative risk 1.29, 95% CI 0.97 to 1.72) suggesting that nortriptyline may increase smoking cessation (low certainty evidence due to indirectness and imprecision).
+In [a systematic review](https://pmc.ncbi.nlm.nih.gov/articles/PMC8406789/) that included additional trials that also had concerns about adherence, the CI was narrower (relative risk 1.29, 95% CI 0.97 to 1.72) suggesting that nortriptyline may increase smoking cessation (low certainty evidence due to indirectness and imprecision).
 
 Indeed, the indirectness here is serious enough that, if the target PICO specified the effects of the intervention when people use it, the extent of non-adherence would surely warrant rating down for indirectness. Even though adherence was very limited, results suggested a possible signal in favour of nortriptyline. It is entirely plausible that had adherence been very high the results would have shown a benefit of nortriptyline in improving quit rates in smokers.
 
@@ -160,7 +160,7 @@ The interventions in such situations may have been repurposed after use in much 
 
 GRADE users have applied these principles. Examples include the use of steroids in other inflammatory conditions to its use in thrombotic thrombocytopenic purpura and chronic urticaria, and allergen immunotherapy in asthma and allergic rhinitis to its use in atopic dermatitis.
 
-Systematic review authors have also applied the same principle to related conditions to improve the precision (ie, narrow CIs) of the estimates of harms across each of these conditions. For instance, a [systematic review team pooled data from trials of corticosteroid use in sepsis, acute respiratory distress syndrome, and community acquired pneumonia to generate precise estimates of adverse effects](https://pubmed.ncbi.nlm.nih.gov/38567382/).
+Systematic review authors have also applied the same principle to related conditions to improve the precision (ie, narrow CIs) of the estimates of harms across each of these conditions. For instance, [a systematic review](https://pubmed.ncbi.nlm.nih.gov/38567382/) team pooled data from trials of corticosteroid use in sepsis, acute respiratory distress syndrome, and community acquired pneumonia to generate precise estimates of adverse effects.
 
 ## 8.12 Conclusion
 
