@@ -16,3 +16,4 @@
 * [12. Moving from evidence to decisions](12-12-moving-from-evidence-to-decisions.md)
 * [Additional information](13-additional-information.md)
 * [Additional Resources](resources-and-references.md)
+* [A Glossary of GRADE terms](a-glossary-of-grade-terms.md)
