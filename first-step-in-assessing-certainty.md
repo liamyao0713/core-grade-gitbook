@@ -2,6 +2,7 @@
 description: >-
   First step in assessing certainty: Calculating absolute effect based on
   baseline risk and relative effect
+hidden: true
 ---
 
 # First step in assessing certainty

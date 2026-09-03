@@ -2,6 +2,7 @@
 description: >-
   Prognostic factors versus relative risk modification/effect
   modification/interaction/subgroup effect
+hidden: true
 ---
 
 # Considering the possibility of different effects
