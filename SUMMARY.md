@@ -37,7 +37,4 @@
 * [16. Alternative approach to rating up certainty of evidence from NRSI](appendix/16.-alternative-approach-to-rating-up-certainty-of-evidence-from-nrsi.md)
 * [17. Including Practical issues presentations in SoFs](appendix/17.-including-practical-issues-presentations-in-sofs.md)
 * [18. Calculating and presenting absolute measures of effect: Directly calculating risk differences](appendix/18.-calculating-and-presenting-absolute-measures-of-effect-directly-calculating-risk-differences.md)
-
-***
-
-* [Page 1](page-1.md)
+* [19.](appendix/19..md)
