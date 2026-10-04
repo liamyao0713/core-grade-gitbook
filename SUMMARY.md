@@ -29,3 +29,7 @@
 * [11. UnBeyond Core GRADE. Rating risk of bias across bodies of evidence:](11.-unbeyond-core-grade.-rating-risk-of-bias-across-bodies-of-evidence.md)
 * [12. An example of an innovative panel survey approach for eliciting guideline panelists’ views on th](12.-an-example-of-an-innovative-panel-survey-approach-for-eliciting-guideline-panelists-views-on-th.md)
 * [13. Experience with the panel survey approach to establishing MIDs](13.-experience-with-the-panel-survey-approach-to-establishing-mids.md)
+* [14. Examples of appropriate strong recommendations based on low certainty evidence](14.-examples-of-appropriate-strong-recommendations-based-on-low-certainty-evidence.md)
+* [15.Evidence to Decision: Example of a Structured Evidence-to-Decision framework](15.evidence-to-decision-example-of-a-structured-evidence-to-decision-framework.md)
+* [16. Alternative approach to rating up certainty of evidence from NRSI](16.-alternative-approach-to-rating-up-certainty-of-evidence-from-nrsi.md)
+* [17. Including Practical issues presentations in SoFs](17.-including-practical-issues-presentations-in-sofs.md)
