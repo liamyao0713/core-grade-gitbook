@@ -2,7 +2,7 @@
 
 Although NRSI start out as low certainty evidence, it is possible to rate up certainty derived from NRSI to moderate or even high certainty. We will now review the two situations when GRADE users might rate up certainty: large magnitude of effect and dose-response gradient.
 
-## 10.1 Large magnitude of effect
+### 10.1 Large magnitude of effect
 
 As we have described, in the Core GRADE approach non-randomized studies of interventions (NRSI) start out as low certainty but may be rated down for risk of bias issues particular to NRSI designs. When NRSI are not rated down from low to very low (ie, no risk of bias limitations particular to NRSI designs, and sufficiently precise to exclude values less extreme than chosen thresholds), GRADE users will consider whether they show large effects. If they do observe large effects, GRADE users will consider rating up the certainty of evidence using the following thresholds: relative risk >2.0 or <0.5 (similar thresholds for odds ratio and hazard ratio), consider rating up one level; when relative risk is >5.0 or <0.2, consider rating up two levels.
 
@@ -10,7 +10,7 @@ The rationale for this guidance is that modelling studies have shown that the li
 
 Other factors may strengthen the case for rating up. These include rapidity of onset (eg, insulin for diabetic ketoacidosis, and adrenaline (epinephrine) to treat anaphylaxis) and a relentless downhill trajectory without intervention (eg, hip replacement for severe hip osteoarthritis). Finally, there may be situations in which patients always or almost always did badly before and do so much better with a new intervention that no one has thought it worthwhile to conduct a formal observational study addressing the issue. Examples include resuscitation after cardiac arrest, insulin in diabetic ketoacidosis, adrenaline in anaphylactic shock, dialysis in terminal renal failure, and volume repletion in patients with evident volume depletion.
 
-## 10.2 Dose-response gradient
+### 10.2 Dose-response gradient
 
 The term dose-response gradient describes an observation that incremental increases (or decreases) of the dose or magnitude of the intervention produce incremental increases (or decreases) in the effect. For example, [a meta-analysis](https://pubmed.ncbi.nlm.nih.gov/27863963/) of salvage radiotherapy after radical prostatectomy found that each 1 gray increase in the dose of radiotherapy is associated with a 2% increase in relapse-free survival. This dose-response gradient increases our certainty that a causal connection between the intervention and the outcome exists.
 
@@ -18,4 +18,4 @@ There are, however, risks in rating up for a dose-response gradient if the putat
 
 The apparent dose-response gradient for coffee was a result of an association between smoking and coffee consumption: smokers drank more coffee, and the more they smoked, the more coffee they drank. If GRADE users suspect such confounding between causal and non-causal associations, they will not rate up certainty for dose-response.
 
-We also offer [an alternative conceptualisation](https://cdn.jsdelivr.net/gh/liamyao0713/core-grade-gitbook@main/assets/appendix/16.Rating%20up%20Alternative%20approach%20to%20rating%20up%20certainty%20of%20evidence%20from%20non-randomized%20studies%20of%20interventions.pdf) of the rating up process in which studies with large or very large effects and/or a credible dose-response gradient begin at moderate or high certainty evidence.
+We also offer [an alternative conceptualisation](appendices/16.-alternative-approach-to-rating-up-certainty-of-evidence-from-nrsi.md) of the rating up process in which studies with large or very large effects and/or a credible dose-response gradient begin at moderate or high certainty evidence.

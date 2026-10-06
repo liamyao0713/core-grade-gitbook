@@ -3,7 +3,8 @@
 1. **Thank you very much for sending me the Core GRADE series.** I have read all seven papers, and I thoroughly enjoyed them. The series is clear, practical, and far more straightforward to apply than many of the approaches described in the GRADE Book. The way Core GRADE distils the essential concepts without losing methodological rigour is incredibly helpful for teams working under time and resource constraints.
 
 &#x20;      Dr Aye Paing (M.B.B.S, MSc, PhD) [aye.paing@nice.org.uk](mail:aye.paing@nice.org.uk)\
-&#x20;      Senior Analyst, Centre for Guidelines, National Institute for Health and Care Excellence
+&#x20;      Senior Analyst, Centre for Guidelines, National Institute for Health and Care \
+&#x20;      Excellence
 
 
 
@@ -36,7 +37,8 @@
 6. **Core GRADE has facilitated the transition of the GRADE approach from a methodological concept to an operational component of policy development**, helping ensure that coverage determinations are informed by transparent, reproducible, and patient-centered evaluations of the available evidence.&#x20;
 
 &#x20;     Thomas Kosloff, DC, GDCE \
-&#x20;     Senior Medical Policy Research Analyst | A/B/DME, Noridian Healthcare Solutions, LLC
+&#x20;     Senior Medical Policy Research Analyst | A/B/DME, Noridian Healthcare   \
+&#x20;     Solutions, LLC
 
 
 

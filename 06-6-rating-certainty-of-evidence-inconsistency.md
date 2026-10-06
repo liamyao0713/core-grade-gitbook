@@ -1,6 +1,6 @@
 # 6. Rating certainty of evidence: Inconsistency
 
-## 6.1 What do we mean by inconsistency?
+### 6.1 What do we mean by inconsistency?
 
 By inconsistency we mean unexplained variability in results across studies. We are particularly concerned about inconsistency that is sufficiently great that, depending on which of the varying results represents the truth, inferences for clinical practice would differ. Authors writing about inconsistency sometimes use the term heterogeneity, particularly when referring to statistical tests related to inconsistency.
 
@@ -8,7 +8,7 @@ In addressing what we mean by inconsistency, because of how GRADE users sometime
 
 GRADE users may intuit that such variability (ie, inconsistency in PICO elements) compromises the certainty of evidence from a systematic review. This, however, is rarely the case. Indeed, if effects are similar from study to study, variability in the PICO elements enhances the applicability of the pooled effect to a wider range of clinical contexts. If effects vary across studies, differences in the PICO elements provide an opportunity to explore the possible sources of the inconsistency in results. Thus, inconsistency in PICO elements is not what decreases confidence in the evidence, it is variability in results.
 
-## 6.2 Choosing the right measure of effect when assessing inconsistency
+### 6.2 Choosing the right measure of effect when assessing inconsistency
 
 #### Binary outcomes: variability in relative versus absolute effects
 
@@ -24,11 +24,11 @@ Despite risk differences being more important to patients than relative risks, a
 
 Continuous outcomes are typically measured as absolute effects—thus, when considering inconsistency, looking at relative effects is typically not an option. For example, duration of illness, hospital length of stay, functional status, or quality of life are typically evaluated as mean differences. Inconsistency in mean differences across studies can lower certainty in evidence in the same way as inconsistency in relative effects does for binary outcomes.
 
-## 6.3 Core GRADE's approach to preparing for inconsistency
+### 6.3 Core GRADE's approach to preparing for inconsistency
 
 In this section, we discuss how, when thinking ahead to possible inconsistency in results, GRADE users formulate a plan to best deal with the inconsistency they may ultimately find. When observing relative effects for binary outcomes and absolute effects for continuous outcomes across studies in a body of evidence, several reasons for inconsistency may exist. These include random error and differences in population, intervention, comparison, and outcome (PICO) elements. Hypotheses may be able to explain these differences—this is the hope when preparing for the possibility of large inconsistency—or they may not. If they do explain inconsistency, GRADE users will provide separate evidence summaries for each subgroup and make judgments about inconsistency within each subgroup. If the hypotheses do not explain differences, the unexplained variability in effects decreases the certainty of evidence.
 
-## 6.4 Three options for possible subgroups with different intervention effects
+### 6.4 Three options for possible subgroups with different intervention effects
 
 When reflecting on the possibility that effects differ across patient subgroups (eg, effects may differ in old versus young people) or across interventions subgroups (eg, oral versus parenteral antibiotic treatment), review authors face a potential problem. Selecting a narrow range of subgroups in the PICO will always sacrifice applicability, and often precision. Selecting a broader range of patient and intervention subgroups will enhance generalisability and precision but runs the risk, if effects differ substantially, of pooling inappropriately across patient or interventions subgroups.
 
@@ -42,13 +42,13 @@ Take, for example, two different age groups: young and old. The following are th
 
 Table 6-1: Summarises the three scenarios when considering subgroups during PICO construction, and provides examples of each.
 
-<table><thead><tr><th>Scenario</th><th>Implications for PICO construction</th><th width="349.3125">Example</th></tr></thead><tbody><tr><td><strong>1.</strong> Previous research provides no compelling evidence that effects differ across patient or intervention subgroups (no subgroup hypothesis)</td><td>Combine all subgroups (single estimate of effect) without a subgroup hypothesis</td><td>The World Health Organization has generated several recommendations regarding the management of patients with covid-19. The guideline panels inferred that effects were very likely to be similar in men and women and thus in all their recommendations provided a single estimate for men and women</td></tr><tr><td><strong>2.</strong> Previous research suggests that effects differ across patient or intervention subgroups (subgroup effects are presumed to exist)</td><td>Narrow PICO to one subgroup, or construct two separate PICOs for each subgroup</td><td>A guideline panel addressing optimal transfusion thresholds in anaemic patients considered that the biology differed between children and adults and therefore looked at the evidence separately and provided separate recommendations</td></tr><tr><td><strong>3.</strong> Previous research plausibly suggests that effects differ across patient or intervention subgroups, but one is uncertain (directional subgroup hypothesis)</td><td>Initially combine all subgroups (single estimate of effect), but also provide and then test a directional subgroup hypothesis</td><td>A systematic review comparing immediate versus delayed antiretroviral therapy in patients with a concomitant diagnosis of HIV and tuberculosis tested whether the impact of early versus delayed treatment on mortality differed between those with higher and lower CD4 cell counts. A previous trial suggested that hypothesis, including a clear direction, but for another outcome</td></tr></tbody></table>
+<table><thead><tr><th width="208.1484375">Scenario</th><th width="146.57421875">Implications for PICO construction</th><th width="349.3125">Example</th></tr></thead><tbody><tr><td><strong>1.</strong> Previous research provides no compelling evidence that effects differ across patient or intervention subgroups (no subgroup hypothesis)</td><td>Combine all subgroups (single estimate of effect) without a subgroup hypothesis</td><td>The World Health Organization has generated several recommendations regarding the management of patients with covid-19. The guideline panels inferred that effects were very likely to be similar in men and women and thus in all their recommendations provided a single estimate for men and women</td></tr><tr><td><strong>2.</strong> Previous research suggests that effects differ across patient or intervention subgroups (subgroup effects are presumed to exist)</td><td>Narrow PICO to one subgroup, or construct two separate PICOs for each subgroup</td><td>A guideline panel addressing optimal transfusion thresholds in anaemic patients considered that the biology differed between children and adults and therefore looked at the evidence separately and provided separate recommendations</td></tr><tr><td><strong>3.</strong> Previous research plausibly suggests that effects differ across patient or intervention subgroups, but one is uncertain (directional subgroup hypothesis)</td><td>Initially combine all subgroups (single estimate of effect), but also provide and then test a directional subgroup hypothesis</td><td>A systematic review comparing immediate versus delayed antiretroviral therapy in patients with a concomitant diagnosis of HIV and tuberculosis tested whether the impact of early versus delayed treatment on mortality differed between those with higher and lower CD4 cell counts. A previous trial suggested that hypothesis, including a clear direction, but for another outcome</td></tr></tbody></table>
 
 PICO=population, intervention, comparison, and outcome.
 
 We recommend that to maximise precision and generalisability, review authors frame their PICOs broadly. In doing so, however, they must prepare themselves for the possibility of inconsistent results across studies. One way to prepare is to choose the third scenario when constructing the PICO. We now present details of how to deal with this third scenario.
 
-## 6.5 Need for a priori hypotheses with a specified direction
+### 6.5 Need for a priori hypotheses with a specified direction
 
 Preparation for the possibility of inconsistency in results involves generating a small number of well chosen a priori hypotheses to explain that inconsistency. Subgroup effects exist when the effects of an intervention versus a comparator differ according to characteristics of patients (eg, older versus younger, more sick versus less sick) or differences in interventions (eg, longer versus shorter duration of therapy). Thus, authors may postulate subgroup effects according to different patient groups or interventions.
 
@@ -60,7 +60,7 @@ One might reasonably presume the direction of the subgroup effect (early antiret
 
 The ability to predict the direction of a subgroup effect provides a useful criterion when deciding between the first scenario (broad PICO, no subgroup analysis) and third scenario (broad PICO and subgroup analysis). If one cannot confidently specify the direction of the potential subgroup effect, one should choose the first scenario rather than the third. Consistent with our recommendation of a small number of compelling subgroup hypotheses, we discourage post hoc exploration of possible subgroup effects. There may be situations, however, in which high (if unwarranted) interest from clinical audiences demands conduct of subgroup analyses. Investigators can then still specify a best guess direction, label analyses as exploratory, conclude low credibility whatever the results, and ultimately not count these analyses against the credibility of appropriately pre-specified hypotheses.
 
-## 6.6 Criteria for judging serious inconsistency
+### 6.6 Criteria for judging serious inconsistency
 
 Having addressed how Core GRADE users should plan for dealing with inconsistency in results, we ill now address how they will implement their plan (see Fig 6-2). In the three following sections we describe how GRADE users can determine whether inconsistency is of sufficient concern to consider rating down for inconsistency. If they do find important inconsistency, they should look to their a priori hypotheses to see if they can explain that inconsistency—a process that will include rating the credibility of any possible subgroup effects they identify. A subsequent section deals with this issue of subgroup explanations of variability in results. If only one eligible study exists, GRADE users will not rate down for inconsistency, although if the authors provide the data then they may still address the possibility of subgroup effects.
 
@@ -68,7 +68,7 @@ Having addressed how Core GRADE users should plan for dealing with inconsistency
 
 Fig 6-2: Flow chart summarizing GRADE’s approach to addressing inconsistency in results
 
-## 6.7 Three visual criteria from forest plots
+### 6.7 Three visual criteria from forest plots
 
 Consider the hypothetical body of evidence in Fig 6-3. When considering whether studies yield similar or different results, most observers of these forest plots will quickly conclude that results in the top half of the figure are consistent whereas results in the bottom half are inconsistent. Aspects of the results that justify these inferences are similarity versus differences in point estimates, the extent of overlap in confidence intervals (CIs), and the relation of point estimates to the threshold of certainty rating.
 
@@ -84,9 +84,9 @@ Relation of point estimates to the threshold of certainty rating—Infrequently,
 
 Whichever threshold one uses, in the top half of Fig 6-3 all studies are on one side of the threshold (no need to consider rating down for inconsistency). In the bottom half of figure 6-3, the pairs of studies are on opposite sides of either threshold, with one pair showing benefit and the other showing harm, thus the need to consider rating down.
 
-While, as here, we may initially assess inconsistency using relative risks, GRADE users must establish MIDs only on absolute risks. In this hypothetical example, the authors have, considering the baseline risk of the outcome, established that a relative risk reduction of about 15% will translate into a minimally important absolute effect of 1%. Follow this [link](appendix/9.-three-visual-criteria.-generating-an-mid-relative-risk-threshold.md) for generating an MID from a relative risk threshold).
+While, as here, we may initially assess inconsistency using relative risks, GRADE users must establish MIDs only on absolute risks. In this hypothetical example, the authors have, considering the baseline risk of the outcome, established that a relative risk reduction of about 15% will translate into a minimally important absolute effect of 1%. Follow this [link](appendices/9.-three-visual-criteria.-generating-an-mid-relative-risk-threshold.md) for generating an MID from a relative risk threshold).
 
-## 6.8 Applying visual criteria: how choice of threshold affects judgments of inconsistency
+### 6.8 Applying visual criteria: how choice of threshold affects judgments of inconsistency
 
 The three key criteria for judging inconsistency— similarity of point estimates, overlapping of CIs, and relation of results to the chosen threshold for rating certainty—apply equally well to continuous outcomes. Consider Fig 6-4, which depicts the results of a meta-analysis evaluating the impact of local infiltration analgesia on postoperative pain in patients after total knee arthroplasty (adapted from a figure we used in a previous GRADE article to illustrate these criteria).
 
@@ -98,7 +98,7 @@ However, consider if the review authors chose to rate their certainty with respe
 
 Fig 6-4: Forest plot from a systematic review of the impact of local infiltration analgesia on postoperative tain after total knee arthroplasty. The broken line represents an estimate o the minimal important difference in pain score (10 mm visual analogue scale.
 
-## 6.9 One criterion for statistical assessment
+### 6.9 One criterion for statistical assessment
 
 A statistical criterion, I<sup>2</sup>, describes the percentage of the variability in effect estimates that is due to heterogeneity rather than sampling error (chance), and may complement the three visual criteria. The lowest possible I<sup>2</sup>, 0%, tells us that chance easily explains the difference between studies—the conclusion in the top half of Fig 6-3. As I<sup>2</sup> approaches the highest possible value, 100%, the likelihood that chance alone explains the variability observed becomes extremely small. This is true of the bottom half of Fig 6-3 in which I<sup>2</sup> is 93%.
 
@@ -106,7 +106,7 @@ I<sup>2</sup> may, however, prove misleading. In particular, if the included stu
 
 It is natural that review authors desire hard and fast rules for interpreting I<sup>2</sup>. The limitations of the statistic make such rules problematic. The best we can do is suggest that one will seldom see serious inconsistency with I<sup>2</sup> values <30%, and as I<sup>2</sup> rises beyond that value, the possible need to rate down certainty increases.
 
-## 6.10 Apparent subgroup effects based on a priori hypotheses
+### 6.10 Apparent subgroup effects based on a priori hypotheses
 
 #### The burden of proof lies with those claiming a subgroup effect
 
@@ -114,13 +114,13 @@ We have pointed out that relative effects overwhelmingly tend to be similar acro
 
 #### Criteria for judging the credibility of subgroup effects
 
-For almost 50 years methodologists and statisticians have been writing about how to distinguish credible from spurious subgroup claims. In the following, we apply the key lessons from this inquiry to an example. In an exploration of subgroup effects, authors of [a systematic review](https://pubmed.ncbi.nlm.nih.gov/19487713/) postulated that randomised trials of blockers showing greater reductions in heart rate would show larger relative risk reductions in deaths among patients with heart failure ([Using ICEMAN to assess McAlister et. al. systematic review](appendix/10.-using-iceman-to-judge-the-credibility-of-subgroup-effects.md)). The authors found an apparent effect modification: for every five beats per minute reduction in heart rate with blocker treatment, they found a commensurate 18% reduction in the risk of death. The question arises: is this a true or spurious subgroup effect?
+For almost 50 years methodologists and statisticians have been writing about how to distinguish credible from spurious subgroup claims. In the following, we apply the key lessons from this inquiry to an example. In an exploration of subgroup effects, authors of [a systematic review](https://pubmed.ncbi.nlm.nih.gov/19487713/) postulated that randomised trials of blockers showing greater reductions in heart rate would show larger relative risk reductions in deaths among patients with heart failure ([Using ICEMAN to assess McAlister et. al. systematic review](appendices/10.-using-iceman-to-judge-the-credibility-of-subgroup-effects.md)). The authors found an apparent effect modification: for every five beats per minute reduction in heart rate with blocker treatment, they found a commensurate 18% reduction in the risk of death. The question arises: is this a true or spurious subgroup effect?
 
 In deciding on the credibility of subgroup effects, one issue in systematic reviews and meta-analyses is whether the effect modification was based on a comparison between studies (eg, blockers achieved different reductions in heart rate in different studies and this is the basis of the analysis) or a within study comparison (the same study included interventions with greater and lesser heart rate reduction, achieved, for example, by including groups with larger and smaller doses of blockers). Within study comparisons are far more compelling than between study comparisons. In this case, however, the analysis relies exclusively on between study comparisons, reducing the credibility of the apparent effect modification.
 
 Perhaps the most important single issue in addressing a putative subgroup effect is whether chance can explain the difference in effect between subgroups. The lower the P value associated with the appropriate statistical test—referred to as a test of interaction—the less likely chance is an explanation and the more credible becomes the postulated effect. However, this statistical criterion can be severely undermined if authors have not prespecified subgroup analyses, have conducted a large number of subgroup analyses, or report only selected results. Violation of any of these criteria greatly increases the probability that chance rather than a true subgroup effect is responsible for apparent differences between groups, and thus renders the P value associated with the test of interaction far less trustworthy. In this case the authors specified the subgroup analysis in advance but tested 12 hypotheses with a P value of 0.006 for interaction
 
-A team of methodologists has developed the first formal Instrument for assessing the Credibility of Effect Modification ANalyses ([ICEMAN](https://iceman.help/)). This instrument addresses all the issues we have discussed, along with several others, and is straightforward to apply failure ([Using ICEMAN to assess McAlister et. al. systematic review](appendix/10.-using-iceman-to-judge-the-credibility-of-subgroup-effects.md)).
+A team of methodologists has developed the first formal Instrument for assessing the Credibility of Effect Modification ANalyses ([ICEMAN](https://iceman.help/)). This instrument addresses all the issues we have discussed, along with several others, and is straightforward to apply failure ([Using ICEMAN to assess McAlister et. al. systematic review](appendices/10.-using-iceman-to-judge-the-credibility-of-subgroup-effects.md)).
 
 #### Addressing the results of the subgroup credibility exploration
 
@@ -128,7 +128,7 @@ If GRADE users conclude that the putative subgroup effect is of low or very low 
 
 A result near the threshold between low and moderate credibility presents challenges. One option is to present both the overall and the subgroup results in the summary of findings table. A second is to present only one of the overall and subgroup results in the summary of findings table and report, in the text, a briefer summary of the one not chosen for the summary of findings table. Whatever they choose, authors should acknowledge the close-call nature of the credibility assessment.In the example of blockers to reduce mortality in patients with heart failure, the conclusion regarding credibility falls in the range of moderate credibility. Because the effect modifier was a continuous variable, the authors chose, rather than an arbitrary threshold, the more powerful continuous meta-regression approach to the analysis. Their results thus suggest that the greater the effect in reducing heart rate, the greater the mortality reduction. The moderate credibility of the effect suggests possible results of shared decision making with patients and their clinicians: use doses of blockers that substantially but safely reduce the patients’ heart rate.
 
-## 6.11 Conclusion
+### 6.11 Conclusion
 
 When GRADE users construct PICO frameworks that are broad with respect to both patients and interventions—as we believe they should—they must prepare for the possibility of inconsistent results. They do so by identifying a priori hypotheses to explain inconsistency, including a postulated direction.
 

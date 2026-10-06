@@ -2,7 +2,7 @@
 
 After deciding on the target of certainty rating, GRADE users assess whether limitations exist in any one of five GRADE domains (imprecision, inconsistency, risk of bias, indirectness, and publication bias). The following discussion addresses how GRADE users can make judgments about imprecision.
 
-## 5.1 Imprecision defined
+### 5.1 Imprecision defined
 
 Studies of interventions seek to estimate the true underlying treatment effect. A meta-analysis provides our best estimate of the effect (the point estimate), and the CIs provide the bounds within which the true effect plausibly lies. The most commonly used CI is the 95% CI. The CI's width provides key information about the extent of imprecision, thus informing the impact of random error on certainty of evidence.
 
@@ -12,7 +12,7 @@ We will now describe our approach to making the judgment of whether the CI is su
 
 Fig 5-1: Core GRADE steps for rating imprecision. The relative risk CI ratio represents the upper boundary divided by lower boundary of CI of relative risk. CI=confidence interval; OIS=optimal information size
 
-## 5.2 Rating down (or not) for imprecision
+### 5.2 Rating down (or not) for imprecision
 
 When deciding whether to rate down certainty for imprecision, GRADE users will consider whether the CI crosses the chosen threshold. For instance, consider the pooled effect estimate from a hypothetical systematic review of randomised controlled trials illustrated in Fig 5-2. For (a) in Fig 5-2, whether GRADE users are rating certainty for a non-null effect (null being a risk difference of 0%) or an important effect (the MID threshold of 1%), the CI does not cross either threshold and they will not rate down their certainty for imprecision. Assuming they have no concerns about the other four GRADE domains, they will have high certainty of a non-null effect as well as an important effect.&#x20;
 
@@ -30,17 +30,17 @@ If review authors have chosen the MID as their threshold and set the MID at a di
 
 Fig 5-3: An example of how rating down for imprecision in GRADE depends on the choice of MID in a systematic review of corticosteroids versus no corticosteroids on mortality in patients with community acquired pneumonia. If the review authors set the MID at MID1, they will rate down for imprecision, and if they set the MID at MID2, they will not rate down for imprecision. MID=minimal important difference
 
-When GRADE users have chosen the MID as their threshold and the point estimate is less than the MID, they will rate their certainty that the true treatment effect is unimportant (ie, little to no effect) (all point estimates in Fig 5-4). As described in the section on assessing whether there is a true underlying treatment effect, when GRADE users have chosen the null as the threshold and the point estimate clearly suggests an unimportant effect (ie, the point estimate is close to the null) they will instead rate certainty in little or no effect. If you would like to further clarify this process of modifying the target of the certainty rating, you will find details in this [link](appendix/7.-rating-down-or-not-for-imprecision.md). Whether the starting point was rating certainty with respect to the null or the MID, Grade users will not rate down for imprecision if the CI crosses neither threshold ((a) in Fig 5-4). If the CI crosses one threshold ((b) in Fig 5-4) or both thresholds ((c) in Fig 5-4) they will rate down for imprecision.
+When GRADE users have chosen the MID as their threshold and the point estimate is less than the MID, they will rate their certainty that the true treatment effect is unimportant (ie, little to no effect) (all point estimates in Fig 5-4). As described in the section on assessing whether there is a true underlying treatment effect, when GRADE users have chosen the null as the threshold and the point estimate clearly suggests an unimportant effect (ie, the point estimate is close to the null) they will instead rate certainty in little or no effect. If you would like to further clarify this process of modifying the target of the certainty rating, you will find details in this [link](appendices/7.-rating-down-or-not-for-imprecision.md). Whether the starting point was rating certainty with respect to the null or the MID, Grade users will not rate down for imprecision if the CI crosses neither threshold ((a) in Fig 5-4). If the CI crosses one threshold ((b) in Fig 5-4) or both thresholds ((c) in Fig 5-4) they will rate down for imprecision.
 
 <img src=".gitbook/assets/Fig12.jpg" alt="" width="100%">
 
 Fig 5-4: Rating certainty in little to no effect and rating down for imprecision in GRADE when the confidence interval crosses the MID.
 
-## 5.3 Rating down once or twice for imprecision
+### 5.3 Rating down once or twice for imprecision
 
 As the CI gets wider, GRADE users will become progressively more uncertain about whether the truth is consistent with an important or unimportant effect (if their threshold is the MID), or whether it reflects a non-null effect (if their threshold is the null). When the confidence interval is sufficiently wide, reviewers will consider rating down certainty for imprecision by one or even two levels.&#x20;
 
-### **A role for plain language statements in making decisions**&#x20;
+#### **A role for plain language statements in making decisions**&#x20;
 
 Stating results in plain language that both clinicians and patients will easily understand is important in making GRADE optimally useful for clinical practice. GRADE has therefore provided guidance in making such statements (Table 5-1). We will return to these statements in section 11. Presenting the evidence in summary of findings tables. We introduce them here because, as we discuss in detail in the next section, 5.4, they can help decide on rating down once or twice for imprecision.
 
@@ -52,7 +52,7 @@ Table 5-1: GRADE plain language statements when using the null effect or MID thr
 
 The plain language summary pertains to both beneficial and harmful outcomes. Benefit was chosen here for illustration. GRADE=Grading of Recommendations Assessment, Development and Evaluation; MID=minimal important difference.
 
-## 5.4 Rating down once or twice for imprecision: general principles
+### 5.4 Rating down once or twice for imprecision: general principles
 
 When deciding whether to rate down twice, two things are worth considering. The first is whether the CI crosses more than one threshold (eg, includes both important benefit and important harm). The second, considering GRADE’s plain language, is whether the most appropriate message that a particular effect likely exists or that it may exist.
 
@@ -68,16 +68,16 @@ The second consideration that bears on the decision about rating down once or tw
 
 The two considerations also apply to imprecision judgments when GRADE users choose the null as the threshold of interest. For example, consider a situation in which users rate their certainty in a benefit (threshold the null) but the CI also includes clearly important harm. The finding that the CI is consistent with both benefit and important harm motivates a plain language summary stating that the intervention “may” result in a benefit, and rating down two levels for imprecision.
 
-## 5.5 Rating down for imprecision when effects are large and sample size limited
+### 5.5 Rating down for imprecision when effects are large and sample size limited
 
 When the CI crosses the threshold of interest, GRADE users will rate down for imprecision and do not need to consider sample size. If the CI does not cross the threshold, however, and the effect is large, they must be aware that large effects are unusual in interventions tested in randomised controlled trials. Attempts to replicate results of early studies suggesting such effects often fail. Thus, we suggest that when the CI does not cross the threshold or thresholds of interest and effects on binary outcomes are implausibly large (certainly relative risk reduction >40%, possibly >30%), GRADE users should consider rating down for imprecision if the sample size and number of events across all contributing studies are limited.
 
-Our criteria for “limited” rely on routine sample size calculations that would be undertaken when planning a single randomised controlled trial (Assessing imprecision in the presence of a large effect, click this [link](appendix/8.-rating-down-for-imprecision-when-effects-are-large.md) for details). For binary outcomes, these involve specifying the acceptable error rates: α (typically 0.05) and β (typically 0.20), the control group event rate (chosen from the context), and a modest relative risk reduction, typically 20% or 25%. We call the sample size that emerges from the calculation the optimal information size (OIS).
+Our criteria for “limited” rely on routine sample size calculations that would be undertaken when planning a single randomised controlled trial (Assessing imprecision in the presence of a large effect, click this [link](appendices/8.-rating-down-for-imprecision-when-effects-are-large.md) for details). For binary outcomes, these involve specifying the acceptable error rates: α (typically 0.05) and β (typically 0.20), the control group event rate (chosen from the context), and a modest relative risk reduction, typically 20% or 25%. We call the sample size that emerges from the calculation the optimal information size (OIS).
 
 If the total sample size of all the studies included in a meta-analysis exceeds the OIS, one does not rate down; if the total sample size proves less that the OIS, one rates down for imprecision. GRADE users can consult one of many online calculators to calculate a particular OIS. (eg, [Open Source Statistics for Public Health](https://www.openepi.com/SampleSize/SSCohort.htm)). GRADE users can make the same calculation for continuous variables by specifying the smallest difference between intervention and control that one would want to avoid missing (ie, the MID) and using the standard deviation from one of the existing studies.
 
 An alternative, a rule of thumb, would suggest that to not have concerns about imprecision (ie, to not rate down) would require 400 patients per group (total sample size 800). A [previous GRADE article ](https://pubmed.ncbi.nlm.nih.gov/21839614/)provides further details and examples of OIS exploration for both binary and continuous variables (Assessing imprecision in the presence of a large effect).
 
-## 5.6 Conclusion
+### 5.6 Conclusion
 
 The process of assessing the certainty of evidence requires choosing a threshold, either the null or the MID, and then choosing the target of certainty by noting the location of the point estimate in relation to the threshold. When the initial choice of threshold is the null, if the point estimate is close to this threshold, GRADE users rate certainty in little to no effect. For judging imprecision, if the CI does not cross the threshold, GRADE users typically do not rate down for imprecision; if it crosses the threshold, they do. GRADE users may rate down twice when the CI crosses more than one threshold, in particular when it crosses thresholds of important benefit and important harm. Finally, when the CI does not cross the threshold but the effect is large, Grade users invoke the OIS and rate down for imprecision if the total sample size fails to meet the OIS criterion.

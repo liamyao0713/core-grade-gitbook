@@ -4,9 +4,9 @@ Summary of findings tables represent a key GRADE innovation providing an optimal
 
 This material will enable GRADE users to understand the key components in summary of finding tables, including relative and absolute effects, the certainty of evidence, plain language summaries, and reasons for rating certainty of evidence up or rating down; calculate absolute effects for binary outcomes by applying relative risk estimates to baseline risk; choose the most appropriate presentation format for pooled effect measures when individual studies use different instruments to measure the same continuous outcome; and understand considerations in using software for creating summary of findings tables.
 
-## 11.1 Components of summary of findings tables
+### 11.1 Components of summary of findings tables
 
-For each outcome of interest, summary of findings tables summarise the evidence addressing the effects of interventions versus comparators and the certainty of that evidence, as well as reasons for rating down or up (Table 11-1). Each row in the table focuses on a single outcome presented in the first column. Subsequent columns present the number of participants, number and type of studies, relative and absolute effects presented as risk differences, certainty of evidence, and a plain language summary describing the effect. Although the format for presenting summary of findings tables may differ, the key information they present should not. [A format](appendix/21.-alternative-format-for-summarizing-the-evidence-evidence-profiles.md) we refer to as an evidence profile represents an alternative.
+For each outcome of interest, summary of findings tables summarise the evidence addressing the effects of interventions versus comparators and the certainty of that evidence, as well as reasons for rating down or up (Table 11-1). Each row in the table focuses on a single outcome presented in the first column. Subsequent columns present the number of participants, number and type of studies, relative and absolute effects presented as risk differences, certainty of evidence, and a plain language summary describing the effect. Although the format for presenting summary of findings tables may differ, the key information they present should not. [A format](appendices/21.-alternative-format-for-summarizing-the-evidence-evidence-profiles.md) we refer to as an evidence profile represents an alternative.
 
 Table 11-1: Summary of findings table comparing effects of intensive versus less intensive antileukaemic treatment in older adults with acute myeloid leukaemia.&#x20;
 
@@ -16,7 +16,7 @@ Table 11-1: Summary of findings table comparing effects of intensive versus less
 
 Assessing the certainty of evidence involves choices and judgment. Those making the judgments must communicate their rationale in succinct, explicit, and transparent footnotes (ie, explanations) with the summary of findings table. This is one of the strengths of GRADE: although two GRADE users may arrive at different judgments when looking at the same body of evidence, providing sufficient information for readers to understand their rationale will clarify the reasons for disagreement.
 
-For instance, they may have chosen different thresholds for the minimal important difference (MID), the smallest magnitude of effect that patients consider important. Understanding these reasons may allow, in different contexts, adaptation of existing summary of findings tables to different choices or judgments. Explanations should be concise, informative, relevant, easy to understand, and accurate. (See this [link ](appendix/20.-writing-footnotes-to-explain-certainty-of-evidence-judgments.md)for more details of writing footnotes to explain certainty of evidence judgments) A [previous GRADE paper](https://pubmed.ncbi.nlm.nih.gov/31711912/) provided guidance for wording plain language summaries communicating the effects while conveying the assigned level of certainty of the evidence, thus facilitating understanding of evidence summaries. Box 11-1 summarises this guidance as well as additional guidance related to the null and MID thresholds that are the focus of Core GRADE.
+For instance, they may have chosen different thresholds for the minimal important difference (MID), the smallest magnitude of effect that patients consider important. Understanding these reasons may allow, in different contexts, adaptation of existing summary of findings tables to different choices or judgments. Explanations should be concise, informative, relevant, easy to understand, and accurate. (See this [link ](appendices/20.-writing-footnotes-to-explain-certainty-of-evidence-judgments.md)for more details of writing footnotes to explain certainty of evidence judgments) A [previous GRADE paper](https://pubmed.ncbi.nlm.nih.gov/31711912/) provided guidance for wording plain language summaries communicating the effects while conveying the assigned level of certainty of the evidence, thus facilitating understanding of evidence summaries. Box 11-1 summarises this guidance as well as additional guidance related to the null and MID thresholds that are the focus of Core GRADE.
 
 {% hint style="info" %}
 ### Box 11-1: Writing standardised GRADE plain language summaries in summary of findings tables
@@ -45,7 +45,7 @@ When focusing on the minimal important difference, plain language summaries shou
 GRADE=Grading of Recommendations Assessment, Development and Evaluation.
 {% endhint %}
 
-## 11.2 Presenting dichotomous outcomes: Relative measures of effect
+### 11.2 Presenting dichotomous outcomes: Relative measures of effect
 
 We have emphasised in both the first and the second article in this series dealing with establishing the target of certainty rating and rating down for imprecision1 2 that relative risks are usually similar across different baseline risks. Thus, systematic review authors will usually conduct meta-analyses of relative effects, using either relative risks, odds ratios, or hazard ratios. Relative risks are easier to interpret than odds ratios and facilitate estimation of absolute effects, making it the preferred measure from a user’s perspective. The odds ratio, however, can address problems that occur with relative risks when baseline risks are high (>50%). Such situations are unusual and relative risks usually serve well.
 
@@ -53,7 +53,7 @@ One can interpret hazard ratios, which consider not only if an event occurs but 
 
 Because patients and key stakeholders are primarily concerned about absolute rather than relative effects, summary of findings tables include absolute measures—risk differences—for key binary outcomes.To generate risk differences, they apply relative estimates that come from the meta-analyses to baseline risks. In making their decisions, they consider the magnitude and associated certainty of those absolute effects. The next section presents the method of calculating and how to present absolute effects.
 
-## 11.3 Calculating and presenting absolute measures of effect: Applying relative effects to baseline risks
+### 11.3 Calculating and presenting absolute measures of effect: Applying relative effects to baseline risks
 
 Because they depend on baseline risks, absolute effects vary from one clinical scenario to another. Therefore, the first step for GRADE users when calculating absolute effects is to select a specific baseline risk for the patient group under consideration. In doing so they should decide on a time frame for measuring outcomes and in general use that same time frame for all outcomes.
 
@@ -61,9 +61,9 @@ Use of the same time frame for all outcomes is not an absolute rule. For example
 
 Because of the often selective sampling process in many randomised trials, the baseline risk will ideally come from a rigorous, large observational study that includes a more generalisable population, a systematic review of such studies, or a large pragmatic trial with broad eligibility criteria. Such studies are often unavailable and as a result systematic review authors will often use the median event rate in the comparator arms across all randomised trials included in the review.
 
-To obtain risk differences, authors apply pooled relative effects to chosen baseline risks. To illustrate with an example, consider the outcome mortality as calculated from randomised controlled trials—row 2 in Table 4-5. The body of evidence (in this case from a single randomised trial) suggests that, when comparing intensive versus less intensive antileukaemic treatment, the relative risk is 0.83 (a 17% relative risk reduction). Applying this relative risk reduction to the baseline risk of death among older adults who receive less intensive antileukaemic treatment (56%), the absolute risk reduction with intensive antileukaemic treatment is calculated as 17% multiplied by 56%, equaling a 9.5% absolute risk reduction. (See this [link](appendix/19.-calculating-absolute-effects-based-on-baseline-risk-and-relative-effects.md) for more details of calculating absolute effects based on baseline risks an relative effects)
+To obtain risk differences, authors apply pooled relative effects to chosen baseline risks. To illustrate with an example, consider the outcome mortality as calculated from randomised controlled trials—row 2 in Table 4-5. The body of evidence (in this case from a single randomised trial) suggests that, when comparing intensive versus less intensive antileukaemic treatment, the relative risk is 0.83 (a 17% relative risk reduction). Applying this relative risk reduction to the baseline risk of death among older adults who receive less intensive antileukaemic treatment (56%), the absolute risk reduction with intensive antileukaemic treatment is calculated as 17% multiplied by 56%, equaling a 9.5% absolute risk reduction. (See this [link](appendices/19.-calculating-absolute-effects-based-on-baseline-risk-and-relative-effects.md) for more details of calculating absolute effects based on baseline risks an relative effects)
 
-## 11.4 Different risk groups
+### 11.4 Different risk groups
 
 Clinicians can sometimes, considering prognostic factors for outcomes of interest, identify patients with sufficiently different baseline risks to warrant different management strategies. When this is the case, GRADE users may present separate risk differences for patient groups at varying risk of events, which can lead to different decisions.
 
@@ -83,11 +83,11 @@ In other situations, particularly when displaying multiple important outcomes, i
 
 Here, using an MID in mortality of 10 in 1000, the entire CI for the low risk group fell in the range of no important effect and in the high risk group fell entirely in the range of an important effect, in both cases indicating no serious imprecision.
 
-## 11.5 Directly calculating risk differences
+### 11.5 Directly calculating risk differences
 
-Calculating risk differences by applying relative effects to baseline risks may, in some scenarios, result in misleading point estimates of effect and even more misleading and asymmetrical CIs. Such results often occur when the outcome is rare (event rates <2% and most problematic <1%). Faced with this problem, rather than conducting meta-analysis of relative effects, review authors should generally conduct meta-analyses of risk differences. (See this [link](appendix/18.-calculating-and-presenting-absolute-measures-of-effect-directly-calculating-risk-differences.md) for details of calculating and presenting absolute measures of effect: Directly calculating risk differences)
+Calculating risk differences by applying relative effects to baseline risks may, in some scenarios, result in misleading point estimates of effect and even more misleading and asymmetrical CIs. Such results often occur when the outcome is rare (event rates <2% and most problematic <1%). Faced with this problem, rather than conducting meta-analysis of relative effects, review authors should generally conduct meta-analyses of risk differences. (See this [link](appendices/18.-calculating-and-presenting-absolute-measures-of-effect-directly-calculating-risk-differences.md) for details of calculating and presenting absolute measures of effect: Directly calculating risk differences)
 
-## 11.6 Presenting continuous outcomes: When studies use the same measure
+### 11.6 Presenting continuous outcomes: When studies use the same measure
 
 In many cases, studies reporting an outcome measured as a continuous variable use the same instrument or scale across studies. Take, for instance, length of hospital stay (measured in days) in Table 11-1 or pain (often measured using a 10 cm visual analogue scale) in Table 11-3.
 
@@ -103,7 +103,7 @@ In addition to describing the time point of interest and method of measurement o
 
 Finally, perhaps the most useful way of ensuring the interpretability of the outcome is to designate the smallest difference patients perceive as important, the MID. For instance, a footnote in Table 4-5 specifies the MID for reduction in hospital stay of five days and the first row in Table 4-7 specifies the MID for the KOOS pain scale of 12.
 
-## 11.7 When studies use different measures
+### 11.7 When studies use different measures
 
 Researchers sometimes measure the same outcome using different instruments. This most often occurs in health status measures that address constructs such as health related quality of life, function, or severity of symptoms. Multiple instruments are often available, and investigators make different choices for their studies. When this occurs, it presents challenges for systematic review authors.
 
@@ -133,13 +133,13 @@ We suggest presenting the mean difference and interpreting these differences in 
 
 GRADE users will acknowledge such discrepancies between interpretations of results and rate down certainty of evidence accordingly. They must still, however, take responsibility for a coherent message for clinicians and patients who rely on them for guidance. Given the evidence in Table 11-3, conclusions of little or no effect or a small but important effect are both reasonable. Guideline panels will need to come down on one side or the other and present results in their summary of findings tables that support their inference. The text discussion should, however, present alternative results in explaining the lower certainty of evidence supporting their ultimate inferences.
 
-## 11.8 Additional considerations for summary of findings tables: Choosing which outcomes to present
+### 11.8 Additional considerations for summary of findings tables: Choosing which outcomes to present
 
 Previous GRADE guidance suggested limiting the number of outcomes to seven, but this may not adequately serve the needs of the target audiences of a particular systematic review. For instance, target audiences may be interested in the effect of an intervention at different time points; they may wish to see different ways of presenting the outcome, such as in the example in Table 11-3, including both as a dichotomous and as a continuous outcome; they may wish to see evidence for a single outcome from both non-randomised studies and randomised trials such as for the outcome mortality in Table 11-1; if no evidence is available for a critical or important outcome, GRADE users may consider including a row that describes this explicitly (eg, outcome quality of life in row 6 of Table 11-1). For all these reasons, decision makers or clinician audiences may require tables that have more than seven rows.
 
 Thus, when creating summary of findings tables, we suggest being parsimonious but flexible and using online supplementary material and digital publication platforms that allow the publication of interactive or additional summary of findings tables (see section “Software”). What GRADE users should not do is have rows for outcomes that overlap (eg, all cause mortality and cardiovascular mortality) because of the risk of double counting, as occurred in [a summary of findings table](https://guidelines.gradepro.org/profile/54B577E9-7F80-3A78-B3EA-3850E9A1D432) that included both overall major bleeding and gastrointestinal bleeding.
 
-## 11.9 When data cannot be pooled
+### 11.9 When data cannot be pooled
 
 While one can, for individual studies, always present quantitative data that authors report, in some instances it is not possible to use a meta-analysis to pool the results across studies. For example, authors may not have reported the data in a way that allows review authors to transform the data to accommodate their analysis, or the reported data may be insufficient. Such circumstances require a narrative synthesis. In these situations, GRADE users will follow the same principles in their data synthesis and presentation as they do when they can generate pooled estimates: they will provide a summary at the outcome level and rate the certainty of the evidence.
 
@@ -147,25 +147,25 @@ They will present their narrative summary in the same columns as the effects of 
 
 In this case, the summary provided the number of studies with positive and negative results and the range of differences between intervention and comparator in duration of illness across studies. The Cochrane Handbook provides detailed explanations and examples of how to summarise these types of data.
 
-## 11.10 Burden of treatment
+### 11.10 Burden of treatment
 
-In addition to displaying benefits and harms in their summary of findings tables, GRADE users may choose to narratively summarise available data on the burden of interventions —what has been called the “work” of being a patient and what GRADE guidelines have referred to as practical issues (See this [link](appendix/17.-including-practical-issues-presentations-in-sofs.md) for more details of including practical issues in SoFs). This work includes drug frequency and route, tests, and clinic visits; procedures and devices; coordination of care; recovery and adaptation; managing dependencies; directions for how patients should manage their diet, exercise, and health habits; adoption and routine use of digital self-management and clinical communication tools; impact on work and social life; and any physical or emotional distress that may come with managing all these issues. Including these data in summary of findings tables can enable their use in shared decision making with patients and in the tools that support this practice.
+In addition to displaying benefits and harms in their summary of findings tables, GRADE users may choose to narratively summarise available data on the burden of interventions —what has been called the “work” of being a patient and what GRADE guidelines have referred to as practical issues (See this [link](appendices/17.-including-practical-issues-presentations-in-sofs.md) for more details of including practical issues in SoFs). This work includes drug frequency and route, tests, and clinic visits; procedures and devices; coordination of care; recovery and adaptation; managing dependencies; directions for how patients should manage their diet, exercise, and health habits; adoption and routine use of digital self-management and clinical communication tools; impact on work and social life; and any physical or emotional distress that may come with managing all these issues. Including these data in summary of findings tables can enable their use in shared decision making with patients and in the tools that support this practice.
 
-## 11.11 Direct versus indirect evidence
+### 11.11 Direct versus indirect evidence
 
 When direct evidence for an important outcome is limited, indirect evidence may provide the highest certainty available evidence, and thus inform the summary of findings table. In our previous discussion of indirectness, we have described how GRADE users might best handle indirect evidence in summary of findings tables. Two common situations often arise. In the first, authors may need to present syntheses of evidence from a different but related population. For instance, evidence regarding harms of an intervention applied to a rare disease may come from studies of the intervention in other more common conditions. The extent of rating down for indirectness would then depend on the likelihood that adverse effects would be similar across conditions.
 
 In another common scenario, GRADE users may need to rely on surrogate outcomes to make inferences about a patient important outcome. As described in our discussion of indirectness, in such instances the summary of findings table presents inferences about the impact of treatment on the patient important outcome while making clear those inferences are based on results from a surrogate, [rating down once or twice for indirectness](08-8-rating-certainty-of-evidence-indirectness.md).
 
-## 11.12 When data are available from randomized trials and non-randomized studies
+### 11.12 When data are available from randomized trials and non-randomized studies
 
 Non-randomised studies of interventions (NRSI) can provide relevant information when synthesising evidence that addresses the effects of interventions. Randomised trials may not be available for one or more outcomes for many reasons, one being a harm that occurs infrequently.
 
-The risk of bias section of this material provides guidance for assessing risk of bias in NRSI as well as circumstances in which one might [rate up certainty of evidence](appendix/16.-alternative-approach-to-rating-up-certainty-of-evidence-from-nrsi.md). Guidance regarding other reasons for rating down, including imprecision, inconsistency, and indirectness for randomised trials applies to both RCTs NRSIs.
+The risk of bias section of this material provides guidance for assessing risk of bias in NRSI as well as circumstances in which one might [rate up certainty of evidence](appendices/16.-alternative-approach-to-rating-up-certainty-of-evidence-from-nrsi.md). Guidance regarding other reasons for rating down, including imprecision, inconsistency, and indirectness for randomised trials applies to both RCTs NRSIs.
 
 When information from both randomised trials and NRSI exists, GRADE users should prioritise the source with the highest certainty. As is the case for indirect evidence, when the certainty of the evidence from randomised trials and non-randomised studies is similar, presenting both bodies of evidence in adjacent rows may be desirable (see Table 11-1, mortality).
 
-## 11.13 Software
+### 11.13 Software
 
 When creating their structured summaries of evidence, GRADE users may benefit from online software that allows for structuring the data and customising the format of the summary of findings tables while ensuring inclusion of all key components. Such software also facilitates the calculation of absolute effects when presenting binary outcomes, and the creation of plain language summaries. GRADE users should bear in mind, however, that while available software embeds GRADE guidance, it will not guide users in making judgments and will not flag potentially challenging situations, It may even suggest judgments that are inaccurate.
 
@@ -177,6 +177,6 @@ Additional paid features allow for digital publication of alternative formats, i
 
 Fig 11-1: Example of table presenting the impact of nirmatrelvir and ritonavir on outcomes in patients with non-severe covid-19, with links to tools for shared decision making
 
-## 11.14 Conclusion
+### 11.14 Conclusion
 
 Optimal summary of findings tables allow users to understand the results of the synthesis and appraisal of a body of evidence. They are crucial for guideline panels making recommendations and for HTA reports. Using summary of findings tables ensures the explicit and transparent presentation of all relevant information. Summary of findings tables can take various forms, but they all share the main features and principles that GRADE users should follow.

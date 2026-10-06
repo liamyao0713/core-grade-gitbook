@@ -1,6 +1,6 @@
 # 8. Rating Certainty of Evidence: Indirectness
 
-## 8.1 Two types of indirectness - Indirect comparisons
+### 8.1 Two types of indirectness - Indirect comparisons
 
 GRADE guidance has used the term indirectness in two ways (Fig 8-1). In one, which we label indirect comparisons, the interest is in the relative merits of intervention A versus intervention B but evidence comes not from direct or head-to-head comparisons of A versus B. Rather, evidence comes from two sets of comparisons: A versus C and B versus C. In this indirect approach, if for instance A does far better against C than does B, we infer superiority of A over B.
 
@@ -10,7 +10,7 @@ Fig 8-1: Two types of GRADE indirectness. GRADE=Grading of Recommendations Asses
 
 Over the past 15 years, indirect comparisons occur when two or more interventions are compared through a common comparator rather than through direct head-to-head trials. Network meta-analyses use both direct and indirect evidence to make comparisons between multiple interventions. GRADE focuses on direct comparisons of a single intervention with a single comparator. We will therefore not deal further with indirect comparisons but instead will focus on indirectness related to PICO issues.
 
-## 8.2 Two types of indirectness - Indirectness related to PICO issues
+### 8.2 Two types of indirectness - Indirectness related to PICO issues
 
 GRADE begins with identifying a clinical question of interest and specifying the PICO. We refer to the clinical question of interest as the target PICO.
 
@@ -18,13 +18,13 @@ We define indirectness as a mismatch between the target PICO and the current bes
 
 The study as carried out may not be the study as planned. Investigators may have sought a heterogenous population but enrolled only low risk patients, anticipated high adherence to the intervention and found only low adherence, anticipated one standard of care in the comparator but observed another, or planned a long follow-up but found that a funding shortfall necessitated a short follow-up. The intent of the investigators is irrelevant to the GRADE assessors: they are only interested in what investigators carried out and its relation to the target PICO. Mismatch between the direct evidence from the study as carried out and the target PICO can occur in any of the four elements of PICO.
 
-## 8.3 Indirectness concerns in guidelines and health technology assessments versus in systematic reviews
+### 8.3 Indirectness concerns in guidelines and health technology assessments versus in systematic reviews
 
 When researchers conduct systematic reviews independently from health technology assessments or guidelines, they can establish eligibility criteria that closely fit their target PICO and restrict their eligibility criteria accordingly. As a result, indirectness is not often a major concern in such reviews.
 
 HTA practitioners and guideline developers must, in contrast, address questions of current interest to patients and clinicians. They choose, or are presented with, questions of sometimes urgent relevance to these target audiences. They must therefore identify and summarise the current best evidence to address those questions, even if that evidence represents a poor or limited match to their target PICO.
 
-## 8.4 Indirectness versus inconsistency
+### 8.4 Indirectness versus inconsistency
 
 GRADE users must attend to the possibility that intervention effects between their target PICO and available evidence will differ, requiring rating down for indirectness. On the one hand, if they have no reason to believe that relative effects differ between men and women, different drug doses, or outcomes measured over one versus three years, they will be unconcerned about applying results to women when most evidence comes from men, a higher dose when evidence comes from a lower dose, or three year outcomes when evidence comes from follow-up at one year. When, on the other hand, they believe relative effects are likely to differ, they will have concerns about indirectness.
 
@@ -34,7 +34,7 @@ How do these issues of inconsistency and issues of indirectness differ? If we ha
 
 However, if GRADE users are interested in effects in elderly people but all or almost all evidence comes from younger people, in low dose but all or almost all evidence comes from high dose, or in long follow-up but all or almost all evidence comes from short follow-up, they lack the data to test whether effects differ across these variables. Under these circumstances, they must use the indirect evidence from the younger people, the high dose, and the short follow-up to make inferences about their target PICO. The extent to which relative effects will differ across such variables becomes a matter of mechanistic reasoning based on indirect evidence from basic research or other possibly analogous conditions, rather than on direct evidence from the patients and interventions under consideration. This method is thus less secure.
 
-## 8.5 Indirectness encountered during search for direct evidence
+### 8.5 Indirectness encountered during search for direct evidence
 
 A search for direct evidence sometimes yields evidence with some degree of indirectness involving one or more of the four PICO elements. Patients may be older or younger than the target population, have a different ethnic background, or have a different distribution of comorbidities.
 
@@ -42,11 +42,11 @@ Such differences typically do not warrant rating down for indirectness. The reas
 
 There are, however, particular situations in which serious indirectness exists in studies that prove eligible in a search for direct evidence. Such situations include non-adherence to interventions, studies that focus on surrogate rather than on patient important outcomes, and problematic comparators.
 
-## 8.6 Indirectness encountered during deliberate search for indirect evidence
+### 8.6 Indirectness encountered during deliberate search for indirect evidence
 
 When direct evidence that matches their target PICO is unavailable or of very low or low certainty, GRADE users may fall back on evidence that substantially differs from their target PICO. When GRADE users deliberately search for indirect evidence, they will inevitably confront the possibility of rating down the certainty of evidence for indirectness.
 
-## 8.7 Neglect of indirect evidence
+### 8.7 Neglect of indirect evidence
 
 Developers of clinical practice guidelines sometimes mistakenly conclude that no evidence exists for a PICO of interest. Very low quality evidence may, however, be available simply from clinical experience. Moreover, clinicians may often be considering an intervention because of evidence of its usefulness in related conditions—that is, indirect evidence. Consider, for instance, the repurposing of interventions at the onset of the covid-19 pandemic. The misguided enthusiasm for hydroxychloroquine13 and ivermectin14 highlights the limitations of such indirect evidence and thus the cautious inferences that it demands.
 
@@ -58,7 +58,7 @@ Guideline developers who are not clear on the concept may use indirect evidence 
 
 Bearing in mind the possibility of indirect evidence, guideline developers and HTA practitioners, when formulating search strategies for questions in which they anticipate sparse direct evidence, should seriously consider systematically searching for indirect evidence that might inform their recommendations. Experts on the review team may be aware of the likelihood of finding relevant indirect evidence, and their advice may bear on the advisability of conducting the search.
 
-## 8.8 Examples of indirectness: differences in population
+### 8.8 Examples of indirectness: differences in population
 
 Differences in age groups constitute a common indirectness issue in patients: elderly versus younger people, or children versus adults. For example, in [a guideline](https://pubmed.ncbi.nlm.nih.gov/29280782/) that addressed the management of pancreatitis in children, authors found very limited evidence for antibiotic use in this age group. They therefore conducted a search for evidence from adults, ultimately using the indirect evidence as the basis for their recommendation. Although they did not conduct a formal certainty rating, authors described the evidence as limited, acknowledging decreased certainty associated with indirectness.
 
@@ -76,7 +76,7 @@ On occasion, when direct evidence is unavailable or of low or very low certainty
 
 Given the very low certainty evidence, the authors sought indirect evidence and conducted a systematic review and meta-analysis of five randomised controlled trials of warfarin versus placebo in other populations. They found an incidence rate ratio for bleeding of 2.99 (95% confidence interval (CI) 1.46 to 6.13) which, after rating down for indirectness of the population, they considered moderate certainty evidence of increased bleeding with the mechanical heart valves.
 
-## 8.9 Examples of indirectness: differences in interventions
+### 8.9 Examples of indirectness: differences in interventions
 
 Interventions studied may differ from the target PICO in several ways, including dose of a drug (higher or lower than the target intervention), duration of administration (shorter or longer), route of administration (parenteral versus oral), or the skill level of providers of interventions such as in educational, surgical, physiotherapy, and psychosocial interventions. Another concerning common source of indirectness for such interventions is that authors may not sufficiently describe the components of the interventions and this failure can preclude their replication. For instance, the details for cardiac rehabilitation were so poorly reported in the literature that surveys of rehabilitation programmes showed that what they implemented in practice differed substantially from what randomised controlled trials had shown to be effective. Inadequate description of the intervention constitutes a reason for rating down for indirectness.
 
@@ -112,7 +112,7 @@ A second determinant of the necessity to rate down would be the apparent effect 
 
 When the intervention is a device or technology, its evolution over time can result in important indirectness that lowers certainty. For example, devices that help people manage their diabetes are constantly changing. Continuous glucose monitoring systems were approved by the Food and Drug Administration in the late 1990s and have quickly evolved with new sensor technology such that wear time has lengthened from a few days to weeks and months. “Real-time” systems, systems managed with smart phones, and systems linked to insulin delivery pumps (closed loop systems) are now available. Guidelines on diabetes technology struggled with indirectness of older evidence and have continuously balanced two strategies: excluding studies of obsolete systems versus including studies of older systems and lowering certainty due to indirectness.
 
-## 8.10 Examples of indirectness: differences in comparators
+### 8.10 Examples of indirectness: differences in comparators
 
 Situations in which the comparator differs from that in the target PICO include variations in standard care between jurisdictions, use of placebo when an active treatment is the clinically relevant active comparator, inferior older alternatives rather than current optimal alternatives, and differences in dose or route of administration. These problems may arise in searches for direct evidence when systematic review authors do not explicitly identify their comparator.
 
@@ -126,7 +126,7 @@ Chinese investigators studying randomised trials of anticancer drugs authorised 
 
 Investigators may sometimes have no choice but to use placebo comparisons to obtain indirect estimates of effects of alternative active agents. For instance, systematic review authors informing a clinical practice guideline were interested in interventions for the management of patients with X linked hypophosphataemia.50 In particular, they wanted to evaluate the impact of burosumab on pain and function, both against no specific treatment and against conventional treatment of phosphate salts and active vitamin D. The authors identified a randomised controlled trial of burosumab versus placebo that provided moderate to high certainty evidence for some of the key outcomes, but no study comparing the drug with standard of care. They offered evidence from the trial against placebo as the best estimates representing the maximum differences against standard of care, rating down once for indirectness for each outcome. Although not a satisfactory situation, the authors approach is the best possible under the circumstances.
 
-## 8.11 Examples of Indirectness: Differences in outcomes
+### 8.11 Examples of Indirectness: Differences in outcomes
 
 The impact of intervention versus comparators on outcomes may differ as a result of how the outcomes are measured such as the duration of follow-up (short term versus long term). Outcomes may also differ depending on whether they are measured directly (death rates) or indirectly through surrogate measures (reduction in viral load in HIV). Such issues will arise when GRADE users include studies that measure only such indirect outcomes that we refer to as surrogates, with synonyms substitute or intermediate outcomes, and not patient important outcomes.
 
@@ -162,6 +162,6 @@ GRADE users have applied these principles. Examples include the use of steroids 
 
 Systematic review authors have also applied the same principle to related conditions to improve the precision (ie, narrow CIs) of the estimates of harms across each of these conditions. For instance, [a systematic review](https://pubmed.ncbi.nlm.nih.gov/38567382/) team pooled data from trials of corticosteroid use in sepsis, acute respiratory distress syndrome, and community acquired pneumonia to generate precise estimates of adverse effects.
 
-## 8.12 Conclusion
+### 8.12 Conclusion
 
 Limitations in the extent to which the PICO in the available studies differs from the target PICO—in GRADE called indirectness—represent a common reason for rating down certainty of evidence in the development of guidelines and health technology assessments. When direct evidence is unavailable or of low or very low certainty, GRADE users should consider searching for indirect evidence that may result in higher certainty evidence. Whenever the PICO elements in the relevant studies do not completely correspond with GRADE users’ target PICO, they must consider the likelihood that these differences will result in important variation in intervention effects, and if that is likely they should rate down by one level for indirectness or—particularly with surrogate outcomes—by two levels.

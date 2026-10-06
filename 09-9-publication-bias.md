@@ -1,18 +1,18 @@
 # 9. Publication Bias
 
-## 9.1 What is publication bias
+### 9.1 What is publication bias
 
 Publication bias refers to the bias in the pooled estimate of effect that results from failure to publish studies based on their results—typically studies with negative findings. Analyses of trials registered with institutional review boards have shown selective non-publication of studies with negative or statistically non-significant results. The effect has proved greater in NRSI than randomised trials.
 
 There are at least three causes of selective non-publication of studies with negative results. Firstly, authors may fail to submit studies for publication because of a perception that journals will consider negative results uninteresting. Secondly, journal editors and their peer reviewers may indeed find negative results uninteresting and reject manuscripts on that basis. Thirdly, for commercially funded studies, it is in the interest of funders motivated to maximise use of their product to suppress negative results and thus create an impression of larger than actual beneficial effects.
 
-## 9.2 Avoiding publication bias: comprehensive search
+### 9.2 Avoiding publication bias: comprehensive search
 
 Consideration of publication bias creates a unique problem for GRADE users: one is guessing at the presence of something that one cannot document. Systematic reviews with a less than comprehensive search may not locate studies published in non-indexed or non-English journals, or studies in registries (eg, clinicalTrials.gov) or regulatory databases (eg, FDA and European Medicines Agency), thus raising the possibility of conducting searches from these sources. For example, [a systematic review](https://pubmed.ncbi.nlm.nih.gov/38852861/) of leukotriene receptor antagonists for chronic urticaria identified 24 out of 34 relevant randomised controlled trials in Chinese.
 
 Nevertheless, the likely low yield precludes the necessity of such searches in all or even most cases. Searches may, however, be desirable in some instances, such as in Chinese databases when conducting a systematic review of traditional Chinese medicine. Even a comprehensive search will not, however, detect studies with a delay to publication, that were never submitted, or that do not appear in any study registries.
 
-## 9.3 Addressing publication bias
+### 9.3 Addressing publication bias
 
 Publication bias, when present, will typically result in an overestimation of effect. Thus, when pooled estimates suggest an important effect, reviewers should consider whether it is the result of publication bias. Fig 9-1 shows the steps Core GRADE users can follow to decide whether to rate down certainty of evidence for publication bias.
 
@@ -20,7 +20,7 @@ Publication bias, when present, will typically result in an overestimation of ef
 
 Fig 9-1: Flow chart depicting process of deciding whether to rate down certainty of evidence for publication bias
 
-## 9.4 Commercial funding
+### 9.4 Commercial funding
 
 In one example of selective publication by manufacturers, [a systematic review](https://pubmed.ncbi.nlm.nih.gov/20940209/) examining the effect of reboxetine on acute treatment of major depression retrieved both published trials from databases and unpublished data from the manufacturer of reboxetine. Results showed that published data overestimated the benefit of reboxetine by as much as 115% compared with placebo and 23% compared with selective serotonin reuptake inhibitors.
 
@@ -32,7 +32,7 @@ In all these examples, authors had access to the results of unpublished studies,
 
 Reviewers may rate down for publication bias even when they have not identified specific unpublished studies. Because of the concern about the impact of industry sponsorship on selective publication, GRADE users should consider rating down for publication bias when the available studies are all small and industry sponsors have conducted most or all of the studies. For instance, [a systematic review](https://pubmed.ncbi.nlm.nih.gov/16736537/) of flavonoids in patients with haemorrhoids that found large relative risk reductions in bleeding and pain identified 11 studies ranging in size from 40 to 234 participants all of which were industry sponsored.
 
-## 9.5 Funnel plots and statistical tests
+### 9.5 Funnel plots and statistical tests
 
 GRADE users can assess risk of publication bias by visually inspecting the funnel plot—a scatter plot in which each dot represents a study included in the meta-analysis. The horizontal axis shows the magnitude of effect estimate of the individual studies (e.g, log odds ratio, mean difference) and the vertical axis shows precision of the estimate of effect (e.g, inverse of standard error, sample size).59
 
@@ -54,7 +54,7 @@ Using funnel plots to test publication bias does, however, have limitations. Vis
 
 Because of the limitations of the approaches for assessing publication bias, GRADE users will often be left with uncertainty. GRADE therefore suggests using the terms undetected (when no evidence suggests publication bias and they thus do not rate down certainty, the usual situation) and strongly suspected (when evidence suggesting publication bias exists and they do rate down certainty) to describe the publication bias domain.
 
-## 9.6 Selective outcome reporting: Its relationship to publication bias and risk of bias
+### 9.6 Selective outcome reporting: Its relationship to publication bias and risk of bias
 
 One type of selective outcome reporting occurs when the results for an outcome of interest in some studies are unfavourable and consequently the investigators do not report the results. In such instances, these studies do not contribute to the meta-analysis for that outcome. One can suspect selective outcome reporting when outcomes specified in the study protocol are not reported in the final publication, or one anticipates certain outcomes that authors omit in study publication while they report less critical ones. Since the funnel plot and test for funnel plot asymmetry can detect this problem, it is addressed in the publication bias domain.
 
