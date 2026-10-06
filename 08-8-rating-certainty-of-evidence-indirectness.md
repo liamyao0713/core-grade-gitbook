@@ -10,11 +10,15 @@ Fig 8-1: Two types of GRADE indirectness. GRADE=Grading of Recommendations Asses
 
 Over the past 15 years, indirect comparisons occur when two or more interventions are compared through a common comparator rather than through direct head-to-head trials. Network meta-analyses use both direct and indirect evidence to make comparisons between multiple interventions. GRADE focuses on direct comparisons of a single intervention with a single comparator. We will therefore not deal further with indirect comparisons but instead will focus on indirectness related to PICO issues.
 
+<figure><img src=".gitbook/assets/gr1_lrg.jpg" alt=""><figcaption></figcaption></figure>
+
+Fig 8-2: Decision-algorithm for assessing indirectness in core GRADE.
+
 ### 8.2 Two types of indirectness - Indirectness related to PICO issues
 
 GRADE begins with identifying a clinical question of interest and specifying the PICO. We refer to the clinical question of interest as the target PICO.
 
-We define indirectness as a mismatch between the target PICO and the current best evidence. Research studies provide direct evidence for the population as enrolled, the intervention and comparison provided or used by the study participants, and outcomes as measured by investigators—the PICO elements in the study as carried out.
+We define indirectness as a mismatch between the target PICO and the current best evidence (Fig 8-2). Research studies provide direct evidence for the population as enrolled, the intervention and comparison provided or used by the study participants, and outcomes as measured by investigators—the PICO elements in the study as carried out.
 
 The study as carried out may not be the study as planned. Investigators may have sought a heterogenous population but enrolled only low risk patients, anticipated high adherence to the intervention and found only low adherence, anticipated one standard of care in the comparator but observed another, or planned a long follow-up but found that a funding shortfall necessitated a short follow-up. The intent of the investigators is irrelevant to the GRADE assessors: they are only interested in what investigators carried out and its relation to the target PICO. Mismatch between the direct evidence from the study as carried out and the target PICO can occur in any of the four elements of PICO.
 
