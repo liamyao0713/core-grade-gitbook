@@ -187,7 +187,7 @@ Situations do, however, arise when an ineffective or harmful treatment is in wid
 
 ### 12.15 Enhancing dissemination of guidelines
 
-GRADE aims to make it easier for clinicians and their patients to make well informed decisions in practice, using guidelines as tools for decision support. User testing of GRADE based guidelines underscores the need for optimised presentation and dissemination of guidelines, summary of findings tables, and decision aids, in multilayered formats. Fig 15-5 shows the living WHO guideline on drugs for covid-19. Available online as open access, it shows how interactive infographics can provide an overview of recommendations, with supporting GRADE summary of findings tables, practical considerations, and succinct narrative presentations of evidence to decision issues (refer to user testing infographics).
+GRADE aims to make it easier for clinicians and their patients to make well informed decisions in practice, using guidelines as tools for decision support. User testing of GRADE based guidelines underscores the need for optimised presentation and dissemination of guidelines, summary of findings tables, and decision aids, in multilayered formats. Fig 12-5 shows the living WHO guideline on drugs for covid-19. Available online as open access, it shows how interactive infographics can provide an overview of recommendations, with supporting GRADE summary of findings tables, practical considerations, and succinct narrative presentations of evidence to decision issues (refer to user testing infographics).
 
 <img src=".gitbook/assets/Fig29.jpg" alt="" width="100%">
 

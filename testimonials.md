@@ -2,7 +2,7 @@
 
 1. **Thank you very much for sending me the Core GRADE series.** I have read all seven papers, and I thoroughly enjoyed them. The series is clear, practical, and far more straightforward to apply than many of the approaches described in the GRADE Book. The way Core GRADE distils the essential concepts without losing methodological rigour is incredibly helpful for teams working under time and resource constraints.
 
-&#x20;      Dr Aye Paing (M.B.B.S, MSc, PhD) [aye.paing@nice.org.uk](mail:aye.paing@nice.org.uk)\
+&#x20;      Dr Aye Paing (M.B.B.S, MSc, PhD) [aye.paing@nice.org.uk](mailto:aye.paing@nice.org.uk)\
 &#x20;      Senior Analyst, Centre for Guidelines, National Institute for Health and Care \
 &#x20;      Excellence
 
