@@ -49,7 +49,7 @@
 
 
 
-8. Thank you for sharing the new Core GRADE website. I found the initiative highly valuable, particularly its effort to consolidate the published guidance into a living and more accessible methodological resource.
+8. **Thank you for sharing the new Core GRADE website. I found the initiative highly valuable, particularly its effort to consolidate the published guidance into a living and more accessible methodological resource**.
 
 Scientist, Indian Council of Medical Research - National Institute for Research in Bacterial Infections, Kolkata, India
 
