@@ -47,3 +47,11 @@
 &#x20;     Dr Yuki Furukawa, MD, [furukawa.y.psy@gmail.com](mailto:furukawa.y.psy@gmail.com)\
 &#x20;     Psychiatrist and researcher, University of Tokyo, Japan.
 
+
+
+8. Thank you for sharing the new Core GRADE website. I found the initiative highly valuable, particularly its effort to consolidate the published guidance into a living and more accessible methodological resource.
+
+Scientist, Indian Council of Medical Research - National Institute for Research in Bacterial Infections, Kolkata, India
+
+Affiliated Researcher, Department of Global Public Health, Karolinska Institutet, Stockholm, Sweden
+
